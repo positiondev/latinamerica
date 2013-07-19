@@ -1,0 +1,3 @@
+ffi unsafe
+include unsafe.h
+link libunsafe.a

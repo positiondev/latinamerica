@@ -1,0 +1,6 @@
+effectful Random.init
+effectful Random.str
+effectful Random.lower_str
+ffi random
+include random.h
+link librandom.a

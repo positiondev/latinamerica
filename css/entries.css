@@ -1,0 +1,57 @@
+.entry_medium, .entry_small {
+    background-color: white;
+    width: 480px;
+    height: 400px;
+    padding: 5px;
+    position: absolute;
+    right: 10px;
+    top: 100px;
+    overflow-y: auto;
+}
+
+.entry_large {
+    position: absolute;
+    background-color: white;
+    top: 30px;
+    left: 100px;
+    width: 1000px;
+    padding: 10px;
+    z-index: 100;
+}
+
+.entry_large .columns {
+    column-gap: 15px;
+    column-count: 2;
+    -moz-column-count: 2; /* Firefox */
+    -webkit-column-count: 2; /* Safari and Chrome */
+}
+
+
+.entry_large .columns3 {
+    column-gap: 15px;
+    column-count: 2;
+    -moz-column-count: 2; /* Firefox */
+    -webkit-column-count: 2; /* Safari and Chrome */
+}
+
+.entry_large .navContainer {
+    padding: 20px;
+}
+
+.entry_large .nav {
+    padding: 10px;
+    background-color: #ccc;
+    border: 1px solid #666;
+    display: inline;
+}
+
+.entry_large .nav .page {
+    cursor: pointer;
+    padding: 5px;
+    margin: 3px;
+    border: 2px solid white;
+}
+
+.entry_large .nav .page.selected {
+    background-color: white;
+}

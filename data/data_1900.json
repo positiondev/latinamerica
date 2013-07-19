@@ -1,0 +1,342 @@
+[
+    {
+        "end": 1851, 
+        "entry": "Spanish defeat a nationalist invasion of Cuba led by Venezuelan (and slavery proponent) Narciso Lopez. Lopez who had failed to get Jefferson Davis and Robert Lee to support his invasion, nonetheless got support from many wealthy southerners, but was captured and killed by the Spanish after several failed attempts at taking Cuba.", 
+        "id": "powcub1851", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1851, 
+        "title": "Narciso Lopez", 
+        "type": "power"
+    }, 
+    {
+        "end": 1852, 
+        "entry": "Argentine dictator Juan de Rosas (1793-1877) is overthrown after his defeat at the battle of Caseros", 
+        "id": "powarg1852", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1852, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1853, 
+        "entry": "Buenos Aires breaks away from Argentina", 
+        "id": "powarg1853", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1853, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1854, 
+        "entry": "In 1854, Naval forces bombarded and burned San Juan del Norte (Greytown) to avenge an insult to the American Minister to Nicaragua and Cornelius Vanderbilt.\n<br>\n<strong>An American Account:</strong>\n<p class=\"entry columns\">\nIn July of 1854 occurred an event in Central America which created a considerable excitement in the United States. A band of about 300 adventurers, mainly negroes from Jamaica, had occupied the port of San Juan del Norte, and began to commit depredations upon an adjacent settlement of Americans known as Punta Arenas. Finally they organised a strong force to demolish tho little colony at Punta Arenas, but their design was defeated by the interposition of an American warship which happened to be in the harbor. \n<img src=\"mapimages/nicaragua1854.jpg\" style=\"max-width:100%\">In May of 1854 matters were further complicated by the attempt of a body of men from Greytown to arrest in Punta Arenas the captain of one of the boats of the Accessory Transit Company of Nicaragua on a charge of murder. Solon Borland, the American minister to powers, Central Ammica, happened to be present on this occasion, and, believing that the captain of the steamboat was innocent and that the intruding party had no jurisdiction, interposed effectually to prevent violence and bloodshed. Borland afterward visited Grey town and, while there, was subjected to insult by a mob. On receiving offical accounts of these occurences, the sloop of war <i>Cyane</i> was sent to enforce the demands of the American government\u2014that the people of Greytown make reparation for injuries to our citizens and due-apology for their insult to Borland. But the Greytown people evinced no disposition to comply, so on July 9, 1854, after 24 hours' notice had been given, the <i>Cyane</i> opened fire on the town. Before much injury had been done the <i>Cyane</i> suspended fire in order to afford opportunity of complying with the demands which had been made. As nothing was heard from the town authorities, however, the <i>Cyane</i> continued the bombardment until the town was laid in ashes. No lives were lost and most of the buildings destroyed were of little value.&quot;This transaction,&quot; said the President, &quot;has been the subject of complaint on the part of some foreign powers and has been characterized with more of harshness than of justice.&quot; (From <i>The United States: its beginnings, progress and modern development, Volume 7</i> by Jesse Ames Spencer; 1913)\n", 
+        "id": "pownic1854", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1854, 
+        "title": "The Bombing of Greytown", 
+        "type": "power"
+    }, 
+    {
+        "end": 1854, 
+        "entry": "Franklin Pierce wins the 1852 election by a landslide as\npro-expansionist candidate. In October, Pierce's ministers to\nSpain (Pierre Soule), France (J.Y. Mason) and England (James\nBuchanan) draw up the Ostend Manifesto recommending that\nthe United States purchase Cuba. This manifesto warns against permitting &quot;Cuba to be Africanized and become a second St.Domingo [referring to the Black republic created by the slave insurrection led by Toussaint], with all its attendant horrors tothe white race.&quot; If Spain refuses to sell, the ministers claim that&quot;we shall be justified in wresting it from Spain... upon the very same principle that would justify an individual in tearing down the burning house of his neighbor if there were no other means of preventing the flames from destroying his own home.&quot;", 
+        "id": "powusa1854", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1854, 
+        "title": "Preventing the Flames", 
+        "type": "power"
+    }, 
+    {
+        "end": 1855, 
+        "entry": "Antonio de Santa Anna (1794-1876) is overthrown in Mexico", 
+        "id": "powmex1855", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1855, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1856, 
+        "entry": "\nIn 1856, US adventurer William Walker (1824-60) and a gang of fifty-eight\nmercenaries, tied to Vanderbilt's rivals, arrived in Nicaragua to help the\rlocal Liberal Party in its political dispute with the Conservatives. What\rhappened was one of the most bizarre events in American history.\rWalker led a coup d'etat and declared himself president of Nicaragua.\rVanderbilt, never one to run away from financing violence against his\renemies, helped turn the tide against Walker, who resigned, fled and\rwas subsequently shot in Honduras (pictured) in the midst of mounting another\rplot to retake Nicaragua. This action took place during the course of\rtwo years.<br>\rThe fact that an American entrepreneur could induce the US government\rto act against a supposedly sovereign state, and that a US\rfilibusterer, as Walker was then known, could invade and take over a\rcountry, left an indelible impression on Nicaraguans\u2014one that was\rpassed on to future generations.\n<img src=\"mapimages/executionofwilliamwalker.jpg\" style=\"width:100%;column-span: all;COLSPAN=2;\">\n", 
+        "id": "pownic1856", 
+        "loc": "nic1", 
+        "source": "THE GUERRILLA WARS \r\nOF CENTRAL AMERICA, Saul Landau ", 
+        "start": 1856, 
+        "title": "The Walker Lessons", 
+        "type": "power"
+    }, 
+    {
+        "end": 1856, 
+        "entry": "1856 The Watermelon War: Revolts by Afro-Panamanians against racism of US businessmen and troops. US occupies isthmus to quell disturbances.", 
+        "id": "redstarpan1856", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1856, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1861, 
+        "entry": " \nThe reforms embodied in the Mexican constitution of 1857 were supported by the liberals and opposed by\nthe conservatives. Mexico's liberal president, Ignacio Comonfort (1812-63), was forced into\nexile by conservative general F\u00e9lix Zuloaga (1814-76), who took control of the capital,\nMexico City, and assumed presidential powers in early 1858, until he was replaced by Miguel\nMirarnon (1832-67), a conservative. A rump congress met in Quer\u00e9taro and proclaimed\nBenito Juarez (1806-72), a liberal, president in 1858. \n<br>\nIn Mexico City, the conservatives controlled the regular army and were supported by the church and the wealthy. The government of\nthe liberals, who had a poorly equipped militia, was forced to flee from Quer\u00e9taro to Guadalajara, from there to the Pacific coast and then to Panama. Finally, it made its capital the Mexican port of Veracruz on May 4, 1858. The United States recognized the Mexican government there in\n1859 and gave arms to the liberals. The liberal army under Santos Degollado (d. 1861) fought in the west but lost every major battle, includ-\ning notable defeats at Tacubaya (April 11, 1859) and Celaya (November 1859). Miramon and his forces attempted to drive Juarez out of Veracruz\nin early 1859, but many of his men sickened and died in the lowland. \n<br>\nDegollado marched on Mexico City but suffered defeat at Chapultepec in April 1859. Desperately needing money, Ju\u00e9rez's government confiscated church property and thus was able to better arm and equip its armies. Jesus Gonzalez Ortega (1824-81) led liberal troops to victory near Guadalajara and afterward at Calderon (1860). 0rtega's decisive defeat of Miramon's forces at the Battle of Calpulalpam on December 20, 1860, opened the way\nto Mexico City, which Juarez entered on January 1, 1861; he then assumed full control of the country and put into effect the reforms in the constitution.\n", 
+        "id": "warmex18571861", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1857, 
+        "title": "The War of Reform (1857 - 61)", 
+        "type": ""
+    }, 
+    {
+        "end": 1861, 
+        "entry": "\nPresident James Buchanan tries <br>\nrepeatedly to interest Congress <br>\nin buying Cuba, but Congress is<br>\ntoo bitterly divided over slavery.", 
+        "id": "powusa18571861", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1857, 
+        "title": "Buchanan's Failures", 
+        "type": "power"
+    }, 
+    {
+        "end": 1858, 
+        "entry": "Benito Juarez (1806-72) is elected president of Mexico", 
+        "id": "powmex1858", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1858, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1859, 
+        "entry": "Buenos Aires is compelled to rejoin Argentina", 
+        "id": "powarg1859", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1859, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1861, 
+        "entry": "French, British, and spanish troops land in Mexico in a dispute over loan repayments.", 
+        "id": "powmex1861", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1861, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1865, 
+        "entry": "In the Morant Bay Rebellion, Afro-Jamaicans who had been freed from slavery in the 1830s seek the social equality that is still denied them.", 
+        "id": "redstarjam1865", 
+        "loc": "jam1", 
+        "source": "", 
+        "start": 1865, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1867, 
+        "entry": "Marx writes in Chapter 3 of the first volume of Capital: \n<blockquote>\n&quot;The discovery of gold and silver in America, the extirpation, enslavement and entombment in mines of the aboriginal population, the beginning of the conquest and looting of the East Indies, the turning of Africa into a warren for the commercial hunting of black-skins, signalized the rosy dawn of the era of capitalist production. These idyllic proceedings are the chief momenta of primitive accumulation.&quot;</blockquote>", 
+        "id": "econeur1867", 
+        "loc": "eur1", 
+        "source": "Open Veins of Latin America", 
+        "start": 1867, 
+        "title": "Concentration of Wealth / Plundered Areas", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1916, 
+        "entry": "Ruben Dario, the founder of the modernismo literary movement, publishes great works that help begin a century of acclaimed Nicaraguan poetry. He writes on love, imperialism, and literary themes.<br><A href=\"http://www.historyisaweapon.com/defcon1/darioroos.html\" target=\"_blank\" class=\"readmore\">His poem, &quot;To Roosevelt&quot;</a>", 
+        "id": "cultnic18691916", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1867, 
+        "title": "Ruben Dario 1869-1916", 
+        "type": "culture"
+    }, 
+    {
+        "end": 1870, 
+        "entry": "Indigenous communities rebel over taxation, control over markets, and religious freedom in Chamula. Violent repression again defeats the rebellion.", 
+        "id": "indmex18671870", 
+        "loc": "mex22", 
+        "source": "Zapatista Timeline by Tom Hansen and Enlace Civil", 
+        "start": 1867, 
+        "title": "Continued Rebellion", 
+        "type": "ind"
+    }, 
+    {
+        "end": 1878, 
+        "entry": "MAJOR CHANGES FROM EXISTING VERSION\nThe Ten Years' War (Cuba's first War of\nIndependence) begins when plantation owner Carlos Manuel\nde Cespedes, accompanied by 37 other planters, proclaims\nthe independence of Cuba in the Grito de Yara issued from his\nplantation. Cespedes frees and arms his slaves. Two days later\nthe brothers Antonio and Jose Maceo\u2014free blacks\u2014join the\nrebel ranks. Some Dominican exiles, including Maximo Gomez,\nhelp to train the rebels, using their experience from fighting\nagainst Spain on nearby Hispaniola. Ignacio Agramonte leads\nthe revolt in Camaguey until he is killed in battle in 1873.\n\nWealthy Cubans establish the Comite Revolucionaria de Bayamo. Carlos Manuel de Cespedes, an early leader, frees and arms his slaves. Some of his compatriots in the slaveowning class disagree with his method, but once manumission is begun it becomes an important tactic. Maximo Gomez, Dominican veteran of the Spanish cavalry and future leader in the Cuban revolution, taught the rebels, known as Mambises, the method of the machete charge. Spanish forces responded with brutal repression, including ethnic cleansing and the most of the 1870s the rebels diverted to guerrilla war from outright insurrection. Hundreds of thousands were killed, and another large scale effort for independence was not attempted until 1895.", 
+        "id": "redstarcub18681878", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1868, 
+        "title": "The Ten Years War", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1868, 
+        "entry": "A revolt breaks out for independence from Spain in the town of Lares on September 23rd. Dr. Ramon Emeterio Betances and Segundo Ruiz Belvis, who is on a local committee of grievances set up by the Spanish government, create a Revolutionary Committee of Puerto Rico in January of 1868. The poet Lola Rodriguez de Tio is inspired by their efforts, and writes La Borinquena. (In 1903, this becomes the anthem of the colony as it is taken by the United States, but with less subversive lyrics.) Cells are organized across the country. The revolt begins after the proclamation of the Republic of Puerto Rico in September. It is swiftly crushed, and hundreds of rebels are executed. Some escape to Cuba to join the independence struggle there.", 
+        "id": "redstarpue1868", 
+        "loc": "pue1", 
+        "source": "", 
+        "start": 1868, 
+        "title": "El Grito de Lares\nse ha de repetir,\ny entonces sabremos\nvencer o morir.", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1899, 
+        "entry": "Henry Meiggs and his nephew Minor Keith build a railroad from the capital of San Jose to the Caribbean coastal department of Limon. They begin growing bananas along the route, leased to them by the government for 99 years, to feed the workers. Upon completion of the railroad, Keith realized he could pay workers abysmally low wages and ship massive quantities of bananas to the United States. His plantation holdings quickly spread throughout the region. In 1899 he merged his business with another to form United Fruit (now known as Chiquita).", 
+        "id": "econcos18711899", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1871, 
+        "title": "The beginnings of United Fruit (Chiquita)", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1884, 
+        "entry": "A low intensity war existed under the presidency of Nicolas Avallaneda between the Argentinean state and the indigenous tribes in the south of the country, with the Argentineans openly plotting to 'populate the desert'. In 1878, the new Minister of War General Julio Argentino Roca changed course with a plan of extermination, and violent battles continued into his presidency. Thousands of soldiers slowly marched across the region, and settlemants of Europeans were constructed in their wake. Most of the thousands of indigenous are claimed to have surrendered, but at least eighteen hundred others were killed right up until the final battle in 1848.", 
+        "id": "powarg18721884", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1872, 
+        "title": "Conquista del Desierto", 
+        "type": "power"
+    }, 
+    {
+        "end": 1872, 
+        "entry": "September 26, 1872 Colombian Foreign Minister Don Gil Colunje\nproposes a joint action to all Latin American republics and the\nUnited States to achieve Cuban independence and the abolition\nof slavery. The plan, which would be carried out under the\nleadership of the United States, would offer to reimburse\nSpain for the loss of the colony with money raised from all\nthe republics. The Latin American governments agree, but US\nPresident Ulysses S. Grant rejects the idea.", 
+        "id": "powcub1872", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1872, 
+        "title": "The Colombian Plan", 
+        "type": "power"
+    }, 
+    {
+        "end": 1875, 
+        "entry": "Revolta do Quebra-Quilos", 
+        "id": "redstarbra18741875", 
+        "loc": "bra7", 
+        "source": "", 
+        "start": 1874, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1910, 
+        "entry": "Dictatorship of Porfirio Diaz oversees accumulation of immense landholdings by local Mestizos. Chiapas' economy is opened to international trade, with coffee, cacoa, and mahogany as the major exports.", 
+        "id": "econmex18761910", 
+        "loc": "mex23", 
+        "source": "Zapatista Timeline by Tom Hansen and Enlace Civil", 
+        "start": 1876, 
+        "title": "Coffee, Cacoa, and Mahogany", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1885, 
+        "entry": "Pedro Prestan, an Afro-Panamanian assemblyman, leads a revolt against Colombia's Conservative Party and the United States forces in March, 1885. His forces raid businesses, and captured the US consul, two naval officers and two businessmen. The hostages were released in return for arms. He was accused of torching the city of Colon after defeat in battle. He was captured and hung August 18th.", 
+        "id": "redstarpan1885", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1885, 
+        "title": "The Burning of Colon", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1891, 
+        "entry": "1891 Black revolt on Navassa defeated", 
+        "id": "redstarhai18891891", 
+        "loc": "hai1", 
+        "source": "", 
+        "start": 1889, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1891, 
+        "entry": "1891 Marines clash with nationalist rebels.", 
+        "id": "redstarchi1891", 
+        "loc": "chi1", 
+        "source": "", 
+        "start": 1891, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1894, 
+        "entry": "\n\n<img src=\"mapimages/moskitocoast.gif\" style=\"height:150px;padding:7px;float:left\">\nFor a little over two centuries, the Miskito, a separate kingdom with its own monarch, would remain independent from Nicaragua. Over time, the Indian society lost its military coloration as Moravian missionaries from Bethlehem, PA, and American and British companies like Standard Fruit moved into the area. Along with the foreign companies and the missionaries came small businessmen-many of them Britons, Germans, and Americans-who settled in the interior of the Rio Coco. They settled into the region, married Indian women, and set up trading posts, ranches, boat yards, and lumber supply areas along the river. These people, called &quot;bamboo whites&quot; by the Marines, shipped raw wood from inside Nicaragua to sawmills located at Puerto Cabezas on the coast. Both politically and economically, they would prove critical in the war with Sandino.\n<br>\nAs a result of all these developments-missionary activity, the development of foreign owned &quot;big businesses&quot; along the coast, and the addition of a new strata of &quot;bamboo businessmen&quot; to the area's social structure-the Miskito remained more connected to the United States and the English-speaking Caribbean than to Hispanic Nicaragua. But if local history and economics pushed the coast in one direction, geopolitics moved it in another. Backed by pressure from the United States, Great Britain dropped the coast from protectorate status and officially ceded the area to Nicaragua in 1860. Since Nicaragua was too weak to exercise its claim, the coast remained in political limbo for decades until Nicaraguan President Jose Santos Zelaya sent troops into the area to capture Bluefields in 1894.\n<br>\nDespite military occupation by Spanish-speaking troops, the Indians continued to resent the Nicaraguans. The inhabitants of the coast also kept looking to Great Britain for support (several British and American businessmen did sell them arms).  In 1894, the Miskito Reserve was dissolved \u2014 &quot;reincorporated&quot; into the Nicaraguan state \u2014 which led to a local uprising that was eventually quelled by the US Marines. \n<br>\nIn the years following the 1894 takeover, Black Creoles and Miskito Indians would pepper the British Foreign Office with petitions that asked the British to retake their territory, a tradition that would continue until the late 1950s. This fraught relationship with the Nicaraguan government would lead to troubles well in to the 1980s.\n<br>\n\n\n", 
+        "id": "indnic1894", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1894, 
+        "title": "The 1984 US Marines Month-long Occupation of the Nicaraguan Bluefields", 
+        "type": "ind"
+    }, 
+    {
+        "end": 1898, 
+        "entry": "\nThe great Cuban poet and revolutionary Jose Marti returns to Cuba with veterans of the Ten Years War, Maximo Gomez and Antonio Maceo, after organizing a national movement for independence from Spain. Uprisings in February fail, and the Mambi leaders, as the revolutionaries were called, land in April. Marti, who had spent many years raising funds and support from Cuban and leftist communities in the United States and Spain, is killed on May 19th of 1895. By 1898, the revolutionaries controlled half the island despite the 200,000 Spanish troops sent against them. That year, the US sent the warship USS Maine to Havana. Its explosion, which killed 258 troops aboard, remains a mystery to this day, but was used as grounds by President William McKinley to attack. US troops were sent to other Spanish colonies, including Puerto Rico and the Philippines where their own wars of independence were under way. The United States took both of the latter countries as colonies, killing hundreds of thousands of local rebels in the ensuing years, and in December of 1898, took it upon itself to sign the Treaty of Paris with Spain which recognized Cuban independence. Of course, no Cuban was involved in the signing. ", 
+        "id": "redstarcub18951898", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1895, 
+        "title": "The Failed Revolution", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1895, 
+        "entry": "Their name &quot;Radical&quot; reflects the 19th Century use of the term as anti-clerical, and they immediately set about legalizing divorce, respecting freedom of religion and divorcing the Ecuadorian state from the Catholic Church. They are led by caudillo Eloy Alfaro who becomes president until 1901.", 
+        "id": "powecu1895", 
+        "loc": "ecu1", 
+        "source": "", 
+        "start": 1895, 
+        "title": "The Radical Liberals overthrow the longtime Conservative regime. ", 
+        "type": "power"
+    }, 
+    {
+        "end": 1895, 
+        "entry": "1895 Marines land in Colombian province.", 
+        "id": "powpan1895", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1895, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1898, 
+        "entry": "1898 Marines land at port of San Juan del Sur.", 
+        "id": "pownic1898", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1898, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1899, 
+        "entry": "1899 Marines land at port of Bluefields.", 
+        "id": "pownic1899", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1899, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1902, 
+        "entry": "1899-1902 US collaborates with Colombian Conservative forces to suppress three Liberal independence revolts, during Colombia's Thousand Days War.", 
+        "id": "powpan18991902", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1899, 
+        "title": "", 
+        "type": "power"
+    }
+]

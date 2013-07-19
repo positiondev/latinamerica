@@ -1,0 +1,6 @@
+*.o
+*.a
+/la.db
+*.exe
+.DS_Store
+*~

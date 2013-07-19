@@ -1,0 +1,622 @@
+[
+    {
+        "end": 1900, 
+        "entry": "After its military occupation of 1898, the U.S. Government imposes the Foraker act on the people of Puerto Rico, officially turning the nation into a U.S. Colony. The Foraker Act of 1900 created the office of the presidentially nominated governor, assisted by an executive council at least five of whom had to be native inhabitants of the island, with the remaining six open to American appointees.", 
+        "id": "powpue1900", 
+        "loc": "pue1", 
+        "source": "", 
+        "start": 1900, 
+        "title": "Colonization", 
+        "type": "power"
+    }, 
+    {
+        "end": 1902, 
+        "entry": "Washington imposes the Infamous Platt amendment on the Republic of cuba as a condition for withdrawal of U.S. military forces that had occupied the island since the so-called Spanish American  War (1898). As a result, Cuba becomes a virtual protectorate. The amendment also appropriates part of Guantanamo Bay, where a U.S. Naval base is established.", 
+        "id": "powcub1902", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1902, 
+        "title": "A Virtual Protectorate", 
+        "type": "power"
+    }, 
+    {
+        "end": 1903, 
+        "entry": "1903 Marines intervene in revolution under the pretext of &quot;protecting U.S. interests.&quot;", 
+        "id": "powhon1903", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1903, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1903, 
+        "entry": "1903 US forces plan and assist Conservative independence revolt for Panama, ensuring successful break from republic of Colombia. The US later &quot;negotiates&quot; a treaty with the newly formed Republic of Panama, thereby assuming control of the Panama Canal Zone.", 
+        "id": "powpan1903", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1903, 
+        "title": "A Plan, A Canal, Panama", 
+        "type": "power"
+    }, 
+    {
+        "end": 1904, 
+        "entry": "", 
+        "id": "redstarbra1904", 
+        "loc": "bra8", 
+        "source": "Afro-Latin America, 1800-2000\n By George Reid Andrews", 
+        "start": 1904, 
+        "title": "Vaccine Revolt", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1973, 
+        "entry": "Pablo Neruda, perhaps the continent's best loved poet, publishes collections on love, simple objects, and themes surrounding his Marxist politics. His accomplishments include a position as Senator representing the Chilean Communist Party, and the 1971 Nobel Prize of Literature. He dies September 23, 1973, just twelve days after his comrade President Salvador Allende is killed in a CIA-sponsored coup.", 
+        "id": "cultchi19041973", 
+        "loc": "chi2", 
+        "source": "<script type=\"text/javascript\">\nif (window == window.parent) {\ndocument.write('<a href=\"http://hiaw.org/defcon2/latinamerica.html\">' + 'This is an entry in a larger project for History Is A Weapon' + '</a>'\n);}\n</script>", 
+        "start": 1904, 
+        "title": "\nThe Life of Pablo Neruda", 
+        "type": "culture"
+    }, 
+    {
+        "end": 1905, 
+        "entry": "1904 \nTheodore Roosevelt introduces the Roosevelt corollary to the Monroe Doctrine after Dominican Republic's government threatens to default on over $34 million in foreign loans. The corollary establishes the US's role as Latin America's banker and policeman:\n\n&quot;All that this country desires is to see the neighboring countries \nstable, orderly, and prosperous. Any country whose people conduct \nthemselves well can count upon our hearty friendship. If a nation shows \nthat it knows how to act with reasonable efficiency and decency in \nsocial and political matters, if it keeps order and pays its \nobligations, it need fear no interference from the United States. \nChronic wrongdoing, or an impotence which results in a general loosening\n of the ties of civilized society, may in America, as elsewhere, \nultimately require intervention by some civilized nation, and in the \nWestern Hemisphere the adherence of the United States to the Monroe \nDoctrine may force the United States, however reluctantly, in flagrant \ncases of such wrongdoing or impotence, to the exercise of an \ninternational police power.&quot;\n\n", 
+        "id": "powdomrep19041905", 
+        "loc": "domrep1", 
+        "source": "", 
+        "start": 1904, 
+        "title": "Interference", 
+        "type": "power"
+    }, 
+    {
+        "end": 1905, 
+        "entry": "A march of tens of thousands took to the capital against artificially high prices for meat. They marched to the Presidential Palace, and when the President failed to appear, apparently on a trip to the country, they attacked businesses and banks. The police moved in, and the crowd attempted to seize the palace. Failing that, they remained in the streets for nearly a week, by which time the police had fired on the crowds. Up to two hundred fifty people were killed.", 
+        "id": "redstarchi1905", 
+        "loc": "chi3", 
+        "source": "", 
+        "start": 1905, 
+        "title": "The Meat Riots", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1907, 
+        "entry": "\nAfter several years where strikes became common among increasingly radical mine workers over their poverty and destitute condition, a vast strike of nitrate miners camped out for weeks in the regional capital at a school. On December 21st, the Chilean military arrived and gave the strikers an hour to leave. When they refused, the soldiers opened fire, killing what is believed were two thousand of the mineworkers, their wives and their children.<br>\n", 
+        "id": "massacrechi1907", 
+        "loc": "chi4", 
+        "source": " ", 
+        "start": 1907, 
+        "title": "Shooting Them Down", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1907, 
+        "entry": "1907 With the outbreak of fighting between Honduras and Nicaragua, U.S. Marines occupy cities of Trujill, Cieba, Puerto Cortes, San Pedro and Choloma, protecting U.S. Interests in both countries.", 
+        "id": "powhon1907", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1907, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1907, 
+        "entry": "1907 &quot;Dollar Diplomacy&quot; protectorate set up.", 
+        "id": "econnic1907", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1907, 
+        "title": "", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1912, 
+        "entry": "Along with a handful of supporters, Evaristo Estenoz and black journalist Gregorio Surin founded the &quot;Agrupacion Independiente de Color&quot; in Havana on August 7 1908 (the name was later changed to &quot;Partido Independiente de Color&quot; or  &quot;Independence Movement by People of Color&quot;). At the end of the month they began to publish the newspaper Prevision.\n<br>\n<img src=\"mapimages/Partido_de_Color_de_Cuba.png\" style=\"padding:7px;column-span: all;max-width:100%;\">\n<span class=\"caption\"> Members of the Movement</span>\n<br>\nTheir goal was to advocate for Afro-Cuban integration into mainstream society with equal participation in government. Their platform demanded an end to racial discrimination, equal access to education and government jobs by Afro-Cubans and an end to the ban on &quot;non-white&quot; immigration. Additional demands tried to improve the conditions of all Cubans: the expansion of compulsory free education from 8 to 14 years, abolition of the death penalty, establishment of an 8-hr work day and priority for Cubans in employment.\n\n\n<br>\n&quot;Our motto is 'Cuba for the Cubans,'&quot; said an editorial in Prevision on September 15 1908.\n<br>\nIn May 1909, while serving as President of the Cuban Senate, Morua Delgado introduced a law in the senate that banned political parties based on race or class. This was a direct attack on the Partido Independiente de Color, and was known as the Morua Law.\n<br>\nThree years later a demonstration sponsored by the Independientes grew into demonstrations in which Afro-Cubans attacked and burned foreign-owned properties.  In May of 1912, PIC organizers launched an armed demonstration seeking legalization in time for November's elections.  Government forces, fearing an all-out &quot;race war&quot; and hoping to rid it of a prominent political adversary, subsequently launched an armed campaign against the party, massacring an estimated 6,000 Afro-Cubans.  Among the dead included party leaders, rank-and-file members, and ordinary Afro-Cuban peasants who had no ties to the PIC. \nDuring the uprising, US Marines land and two US battleships anchor in Havana harbor but the Taft administration maintains this does not constitute intervention.\n<br>\nThe assault resulted in the final demise of the party and a warning to black Cubans who sought to challenge the structure of power established and maintained by white Cuba. &quot;The movement was crushed immediately everywhere except in Oriente, especially Guantanamo region,&quot; wrote Hugh Thomas in <i>Cuba, or The Pursuit of Freedom</i>. &quot;The alarm was nevertheless immense, Havana being overwhelmed by panic. Everyone had feared a 'Negro uprising' for years. The atmosphere resembled the 'Great Fear' in the French Revolution.&quot;\n\n\n\n", 
+        "id": "redstarcub1912", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1908, 
+        "title": "Race War", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1908, 
+        "entry": "1908 Marines intervene in election contest.", 
+        "id": "powpan1908", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1908, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1912, 
+        "entry": "&quot;I helped in the raping of half a dozen Central American republics for the benefit of Wall Street. The record of racketeering is long. I helped purify Nicaragua for the international banking house of Brown Brothers in 1909-1912.&quot;\n<div style=\"width:50%;position:absolute;left:300px;text-align:right\">\n\u2014Retired Major General Smedley Butler<br>\nUnited States Marine Corp.</div>", 
+        "id": "pownic19091912", 
+        "loc": "nic1", 
+        "source": "<a href=\"http://www.historyisaweapon.com/defcon1/warracket.html\" target=\"_blank\">War Is A Racket</a>", 
+        "start": 1909, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1910, 
+        "entry": "Revolta da Chibata", 
+        "id": "redstarbra1910", 
+        "loc": "bra9", 
+        "source": "", 
+        "start": 1910, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1910, 
+        "entry": "1910 Marines land in Bluefields and Corinto.\n\n<br>\n<i>Some Context\u2026</i>\n<br>\rFrom 1890 to 1899 US forces invaded Nicaragua three more times. In\r1896 marines attacked Corimo to 'protect American interests during\rpolitical unrest'; in 1898 US troops landed at San Juan del Sur; in 1899\rthey were in action in Bluefields and San Juan del Norte, all under the\rrubric of 'protecting American lives and bridges'. Nicaraguans should\rhave understood by this time that people in Washington, not Managua,\rwould control their destiny.\n<br>\nNevertheless, some Nicaraguans took sovereignty seriously. In the\rearly 1900s Nicaraguan President Jose Samos Zelaya (who assumed\rdictatorial powers) committed a bold and, as it turned out, rather\rimprudent act. This crusty authoritarian nationalist refused to cede to\rthe United States exclusive rights to build a canal, which would have\rincluded US control of a strip of Nicaraguan territory. Instead, he invited\rEuropean and Japanese concerns to aid in building an interoceanic link\rto connect the Pacific and Atlantic Oceans. He also asked the Bank of\rEngland - not a New York bank - for a loan.\r<br>\rUS Secretary of State Philander C. Knox took umbrage. Highly\rconscious of the Monroe Doctrine and the Roosevelt Corrolary to\rthat document, which asserted US 'international police power' in the\rhemisphere, Knox branded Zelaya's moves as opening the door to\r'European infiltration'. He angrily denounced the Nicaraguan president\rfor even daring to think about entering into financial transactions With\rany but US banks. Knox's subsequent demands on the Nicaraguan\rgovernment belied even the thinnest respect for its sovereignty: a ninety-nine\ryear lease for a naval base on the Gulf of Fonseca and permanent\raccess rights for a canal through Nicaragua. In words that presaged\rReagan administration rhetoric some seventy years later, Philander Knox,\rin 1909, accused Zelaya of 'keeping Central America in tension and\rturmoil'.\n<br>\rThe stubborn Zelaya, taking seriously the fiction of Nicaraguan\rindependence, refused to accede to Knox's commands. The US government retaliated by destabilizing his regime. During the course of\rsubverting Zelaya's government, two US secret agents were caught <i>in\rflagrante delicto</i> trying to dynamite Nicaraguan bridges. Zelaya ordered\rthem to be tried. Despite US protestations, they were convicted and\rshot. Knox used the incident to sever diplomatic relations and send\rmarines to Bluefields.\n<br>\rKnox's plan worked. As was the case in subsequent episodes of\rdestablization, the government and the private sector cooperated. United\rFruit Company donated $1 million toward the overthrow of the Zelaya\rgovernment. Zelaya was forced into exile and replaced by Adolfo Diaz\rwho, obedient to Washington's commands, canceled concessions to\rnon-US firms and opened the door to the exaggerated claims of US\rbanks, which then transferred to their own coffers more than half of\rNicaragua's national bank assets. In 1914, as the Panama Canal opened\rto ships crossing between the Atlantic and Pacific, President Diaz made\ran offer to the United States: S3 million in exchange for 'rights in\nperpetuity' to any land needed to build a canal through the San Juan\rroute in southern Nicaragua. The $3 million was handled by US-appointed\rcommissioners to repay foreign loans, mostly to US banks,\rso that a mere pittance actually found its way into the Nicaraguan\rTreasury. The canal was never built, but the United States acquired a\rrenewable lease for a naval base on the Corn Islands and on the Gulf\rof Fonseca.\n\n\n\n\n\n\n\n", 
+        "id": "pownic1910", 
+        "loc": "nic1", 
+        "source": "THE GUERRILLA WARS \r\nOF CENTRAL AMERICA, Saul Landau ", 
+        "start": 1910, 
+        "title": "Knox's war on Zelaya", 
+        "type": "power"
+    }, 
+    {
+        "end": 1920, 
+        "entry": "Mexican Revolution In Chiapas, the fight is over control of land and indigenous labor. When General Alvaro Obregon becomes President in 1920, regional caciques declare loyalty in exchange for autonomy to govern Chiapas. Mexico's ensuing agrarian reform has limited impact in the State. \n", 
+        "id": "redstarmex19101920", 
+        "loc": "mex2", 
+        "source": "Zapatista Timeline by Tom Hansen and Enlace Civil", 
+        "start": 1910, 
+        "title": "Limited Impacts", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1912, 
+        "entry": " The US Marines land briefly in Honduras again, ostensibly to protect an American-owned railroad for the Banana Companies.", 
+        "id": "powhon1912", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1912, 
+        "title": "&quot;Protecting the Railroad&quot;", 
+        "type": "power"
+    }, 
+    {
+        "end": 1933, 
+        "entry": "1912-33 20-year occupation fighting guerrillas of Augusto Sandino\n\n\n\n\n\n\n\nThe Mexican Rcvolution taught American policy makers that\rLatin American economic nationalism was a force to be reckoned\rwith. The hit-and-run guerrilla war tactics of Augusto Sandino, who\rbetween 1927 and 1933 fought the U.S. Marines in Nicaragua to a\rdraw, further taught them that political nationalism was an equally\rpowerful force and that attempts to counter it with increased militarism\rwould only lead to a deterioration of American influence.\rU.S. troops had been in and out of Nicaragua a number of times\rsince the late nineteenth century. In 1916 Calvin Coolidge, who despite\rhis charisma deficit fancied himself a robust expansionist in the\rTheodore Roosevelt mold, once again dispatched an expedition, this\rtime to quell a budding civil war but also to sequester the kind of\rrevolutionary nationalism that was spreading throughout Mexico.\rHis actions backfired.\r<br>\rDespite overwhelming asymmetrical firepower, including advances\rin aerial warfare, Nicaragua proved to be the United States's\rfirst third-world quagmire. Sandino harassed the Americans not just\rwith attack-and-retreat guerrilla tactics that inflicted a deadly toll\rbut with ideas. As head of a self-styled Defending Army of Nicaraguan\rNational Sovereignty, the rebel leader\u0335who took as his official seal\ran image of a peasant with a raised machete about to decapitate a\rcaptured marine\u2014tapped into widespread Latin American resentment.\rHis brand of patriotism esteemed the dark-skinned, impoverished\rpeasant culture that prevailed throughout Mesoamerica md\rmuch of South America, while vilifying not only Yankees but their\rwell-heeled local allies, or, as Sandino called them, vendepatrias\u2014country\rsellers. &quot;Pro-Nicaraguan committees&quot; sprang up throughout\rLatin America, with Sandino's David-against-Goliath struggle\rcoming to embody a century of aggression and arrogance. Manifestos,\n\ngrassroots meetings, editorials, and ever larger street protests denounced Washington's war in Nicaragua. Newspapers published\rregular articles on the crisis and ran photographs provided by\rSandino of captured, executed, and mutilated marines, contributing\rto a sense of U.S. vulnerability. His appeal extended to the United\rStates, where he coordinned his public relations campaign with the\ractivities of the All-American Anti-Imperialist League, sending his\rbrother Socrates on a national speaking tour. In Europe, a Mexican\rdelegate to the 1929 International Congress against Colonialism and\rImperialism waved a tattered American flag captured by Sandino's\rtroops to a loud round of cheers and applause. Even London, then\rin the process of spreading its control over much of the Middle East,\rtook great pleasure re in condemning America's actions as &quot;frankly imperialistic.&quot;\n<br>\rTensions came to a head at the Sixth Pan-American Conference,\rheld in Havana in early 1928. By the time of the meeting, panAmericanism,\rthe idea that the American republics shared common\rideals and political interests, was in effect moribund. But it was trotted out every few years in an international forum where Latin American delegates mostly submitted to Washington's directives while\rsilently seething about the latest violation of national sovereignty\u2014in Panama, Cuba, Puerto Rico, Mexico, Venezuela, Honduras, the Dominican Republic, Haiti, take your pick. Proceedings in Havana moved according to script. The closing ceremony was not intended\rfor debate, yet El Salvador raised the issue of Washington's military\rinterventions, opening the floodgates of criticism. The gallery audience\rapplauded each recounting of old and new grievances and\rhissed at the tepid defense of US. policy offered by its envoy. This\rcourt rebellion took place in the shadow of Sandino's war, which\ron the eve of the conference had scored a number of impressive\rvictories. The rebel was not directly mentioned, although one Latin\rAmerican daily after another read the diplomacy in light of the\rfighting in Nicaragua.\n\n\n\n\n\n\n\n\n\n\n\n\n", 
+        "id": "pownic19121933", 
+        "loc": "nic1", 
+        "source": "Empire's Workshop, Greg Grandin", 
+        "start": 1912, 
+        "title": "Augusto Sandino", 
+        "type": "power"
+    }, 
+    {
+        "end": 1912, 
+        "entry": "1912 Marines land during heated election.", 
+        "id": "pownic1912", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1912, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1912, 
+        "entry": "President Howard Taft: &quot;The whole hemisphere will be ours in fact as, by virtue of our superiority of race, it already is ours morally.&quot;", 
+        "id": "powusa1912", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1912, 
+        "title": "Virtue", 
+        "type": "power"
+    }, 
+    {
+        "end": 1913, 
+        "entry": "National City Bank (now Citibank) opens its first South American branch, after having financed projects by US firms like General Electric there and elsewhere in the continent.", 
+        "id": "econarg1913", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1913, 
+        "title": "National City Bank", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1913, 
+        "entry": "President Woodrow Wilson observed: &quot;You hear of 'concessions' to foreign capitalists in Latin America. You do not hear of concessions to foreign capitalists in the United States. They are not granted concessions.&quot; He was confident; &quot;States that are obliged ... to grant concessions are in this condition, that foreign interests are apt to dominate their domestic affairs. . . . &quot; (1913)", 
+        "id": "econusa1913", 
+        "loc": "usa1", 
+        "source": "Open Veins of Latin America", 
+        "start": 1913, 
+        "title": "Concessions", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1916, 
+        "entry": "\n<img src=\"mapimages/brazil-contestado-scouts-gunmen.jpg\" style=\"padding:7px;column-span: all;max-width:100%;\">\n\n<i>It was not British capital that laid the first tracks across Argentina, Brazil,\rChile, Guatemala, Mexico, and Uruguay. Nor in Paraguay, as we have seen;\rbut the railroads built by the Paraguayan state, with the help of European\rtechnicians, passed into British hands after the defeat. The other countries'\rrailroads went the same way without producing a single centavo of new\rinvestment; furthermore, the state contracts took care to assure the companies a\rminimum profit level, to avoid possible unpleasant surprises. Decades later, at\rthe end of World War II, when the railroads yielded no more dividends and had\rfallen into relative disuse, the public authorities got them back. Almost all of\rthe states bought the scrap iron from the British and thus nationalized the\rcompanies' losses.\n<br>\rWhen the railroads were booming, the British concerns had often obtained\rconsiderable land concessions on either side of the tracks, in addition to the\rrailbeds themselves and the right to build new branch lines. The land was an\radditional business bonanza. A fabulous gift to the Brazilian railway in 1911\rled to the burning of countless huts and the eviction or death of peasant\rfamilies in the concession area. It was this that triggered off the &quot;Contestado&quot;\rrevolt, one of the greatest outbursts of popular fury in Brazilian history.</i>\n<br>\nThe Contestado movement occurred in the south of the country in a\rfrontier area disputed by the states of Parana and Santa Catarina. It began\rin 1911 under the leadership of Jose Maria, who died in the first clashes\rand was heralded as a saint by the rebels of the Contestado. Unlike\rCanudos, the movement did not limit itself to one particular centre, but\rshifted to various points in the region, under pressure from military\rforces. The rebellion was put down in late 1915, when rebel strongholds\rwere attacked and destroyed by 6,000 soldiers from the army and the\rpolice force, assisted by 1,000 civilians who joined in the process of\rrepression.\n<br>\nIn considering the principal social movements in the interior of Brazil\rduring the First Republic, Joazeiro, a city in the south of the state of\rCeara, which became the centre of activities of the priest Cicero Romao\rBatista between 1872 and 1924, also deserves mention. There are many\rcommon features between events in Joazeiro and the Canudos and\rContestado movements. For example, from the point of view of the\rhistory of the transformation of the Catholic church in Brazil, particularly\rin the north-east, Canudos and Joazeiro were manifestations of similar developments.\rOn the other hand, when considering social movements as\rmanifestations of rebellion, Joazeiro has little in common with the other\rtwo movements. Although Padre Cicero clashed continuously with the\recclesiastical authorities, and at times with factions of the oligarchy, his\rmovement for better or worse fell within the system of domination\rwhich prevailed during the First Republic. Put simply, the city of\rJoazeiro can be seen as an area controlled by a <i>priest-coronel</i>, who had a\rconsiderable degree of influence within the political oligarchy, particularly\rafter 1909 when Padre Cicero began to involve himself directly in\rthe political struggles.\n<br>\rThe Canudos and Contestado movements were attempts to create an\nalternative way of life, and were considered sufficiently dangerous for\rboth to be brutally crushed by military forces. This does not mean that\rthey were totally opposed to the power structure of the coronets. Before\rsettling in Canudos, Antonio Conselheiro had been a practising member\rof the Catholic church, living an ascetic, nomadic life. He summoned\rthe people together in order to build or rebuild churches. He built\rwalls around cemeteries, and he showed concern for the small parish\rchurches of the interior. There is evidence that at this stage he was well\rlooked upon by certain coronets, for whom his disciplined followers built\rroads and dams. The village of Canudos itself did not depart very much\rfrom the traditional pattern of settlement in the interior. There was a\rcertain degree of social and economic differentiation, a considerable\rdegree of trade with the surrounding area, and religious links with the\rpriests of the neighbouring parishes. Canudos was also a source of votes\rand influence at election time.\n<br>\rThe instigators of the Contesdado movement were the followers of a\rcoronet who was a member of the opposition and seen as a friend of the\rpoor. Others of varying origins joined this group, among them those\rwho were the victims of the process of modernization in both urban and\rrural areas: rural workers driven off the land by the construction of a\rrailway and a timber plant, people who had been recruited for railway\rconstruction from among the unemployed of large cities and then\rabandoned at the end of their contract, and criminals who were at large in\rthe region. However, the village settlements which grew up during the\rContestado, with their emphasis on equality and fraternity, clashed with\restablished social values, and assumed characteristics which were clearly\rmessianic. This can be seen, among other features, through the way\rmany of the members of the Contestado remained loyal to the monarchy\rwhich, it has been argued, represented an eschatological kingdom more\rthan a political institution. The theme of the monarchy, whether\rbecause of the form it took or because of the period in which the\rContestado movement occurred, was not exploited to any extent by the\rgovernment. In contrast, the earlier monarchism of Antonio\rConselheiro, with its attacks on the Republic, responsible for the\rintroduction of civil marriage and for the taking of cemeteries away from\rthe control of the church, took more concrete forms. As a result it was a\rmobilizing factor against Canudos in the urban centres, at a time when\nthe possibility of the restoration of the monarchy was seen as a real threat.\rCanudos, Contestado and Joazeiro were not episodes devoid of\rsignificance, nor were they isolated expressions by an ignorant rural\rpopulation in contrast to the centres of civilization on the coast. In\rdifferent degrees, these movements can be linked to changes in the\rCatholic church, to socio-economic changes in their respective areas, and\rto the political development of the nation itself. Their particular strength\ras a demonstration of popular religious belief cannot be ignored.\rNevertheless, as attempts at independent organization on the part of the\rrural population, they effectively illustrate the severe limitations of such\rorganization during the period of the First Republic.\n", 
+        "id": "redstarbra19141916", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1914, 
+        "title": "Guerra do Contestado", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1914, 
+        "entry": "U.S. Marines loot the National Bank of Port Au Prince, Haiti", 
+        "id": "econhai1914", 
+        "loc": "hai1", 
+        "source": "", 
+        "start": 1914, 
+        "title": "The US Marines and the Haitian Bank", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1934, 
+        "entry": "1914-34<br>\nU.S. troops occupy to prevent Rosalvo Bobo, known for his anti-U.S. positions, from becoming president. This occupation lasts until August 1934, using brutal measures to defeat the armed resistance of the Haitian people. The resistance is organized by the Cacos and led by Charlemagne Peralte, until his murder by a U.S. Marine officer. After his murder, the U.S. Military circulates pictures of his corpse tied to a door to intimidate sympathizers, but it has the opposite effect, making Peralte, killed at 33, into a martyr.\n<br>\n<img src=\"mapimages/haitiperaltesamidcacos.jpg\" style=\"padding:7px;column-span: all;max-width:100%;\"><br>\n<span class=\"caption\"> Charlemagne Peralte, center, with Cacos</span>\n<br>\nMarine Commander Thorpe told new Marine arrivals that the war would last long enough \n<i>&quot;to give every man a chance against the Hun in Europe as against the Hun in Santo Domingo.&quot;</i> \nThe hand of the Huns was particularly evident in Haiti, he explained: \n&quot;Whoever is running this revolution is a wise man; he certainly is getting a lot out of the n\u2014\u2014-s . . . It shows the handwork of the German.&quot; \n<br>\n<img src=\"mapimages/haitigenwaller.jpg\" style=\"padding:7px;column-span: all;max-width:100%;\"><br>\n<span class=\"caption\"> Col. L. W. T. Waller</span>\n<br>\nIn actual fact, the real ruler of Haiti was Col. L. W. T. Waller of the US Marines, fresh from atrocities in the conquest of the Philippines; he was acquitted in court-martial proceedings on grounds that he had merely been following higher orders to take no prisoners and to kill every male Filipino over age 10. Waller particularly despised mulattos: \n<i>&quot;They are real n\u2014\u2014r and no mistake . . . real nigs beneath the surface&quot;</i>; negotiations, in his eyes, meant <i>&quot;bowing and scraping to these coons.&quot; </i>\nThis murderous lout was particularly contemptuous of highly educated Haitians such as Philippe Dartiguenave, selected to be president by the Marines and then elected in a &quot;free election&quot; under Marine rule. Wilson's Secretary of State William Jennings Bryan, on the other hand, found the n\u2014\u2014s amusing: after a briefing on Haiti, he remarked: &quot;Dear me, think of it. N\u2014\u2014\u2014s speaking French.&quot; His successor, Robert Lansing, also stressed the fear of the Huns in justifying the invasion, while commenting that &quot;the African race are devoid of any capacity for political organization and [have no] genius for government.&quot; After the nineteen-year occupation by those who had a &quot;capacity for political organization&quot; that followed, Haiti was left a nightmare of misery and repression.&quot;", 
+        "id": "powhai19141934", 
+        "loc": "hai1", 
+        "source": "Chomsky turning The Tide", 
+        "start": 1914, 
+        "title": "19-year Occupation After Revolts", 
+        "type": "power"
+    }, 
+    {
+        "end": 1914, 
+        "entry": "US Troops occupy the city of Veracruz, Mexico, to support reactionary forces that oppose the popular and anti-imperialist principles of the 1910 Mexican revolution", 
+        "id": "powmex1914", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1914, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1914, 
+        "entry": "1914 The Canal Zone is annexed.", 
+        "id": "powpan1914", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1914, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1924, 
+        "entry": "US invades DR and occupies the country until 1924. The US military kicks peasants off land illegitimately owned by (mostly American) sugar companies, creates the National Police Force, and strictly controls the expression of dissent through censorship and imprisonment. U.S. Marines train the police forces that bring Rafael Leonidas Trujillo to power in 1930.", 
+        "id": "powdomrep19161924", 
+        "loc": "domrep1", 
+        "source": "", 
+        "start": 1916, 
+        "title": "The Occupation Before Trujillo", 
+        "type": "power"
+    }, 
+    {
+        "end": 1917, 
+        "entry": "A contingent of U.S. Marines land in Cuba to strengthen the government of conservative President Mario Garcia Menocal. Menocal faces the Liberal Party Chambelona insurrection.", 
+        "id": "powcub1917", 
+        "loc": "cub1", 
+        "source": "", 
+        "start": 1917, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1920, 
+        "entry": "1918-1920 &quot;Police Duty&quot; during unrest after elections.", 
+        "id": "powpan19181920", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1918, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1919, 
+        "entry": "Semana Tragica. A Steel factory strike is attacked by police and workers are said to have fired shots. A police officer died, and a few days later the police retaliated, killing five and wounding 20. Workers lashed out with violence against industry and the state. An unrelated maritime strike then shut down the harbors, and police attacked with more violence. The Federacion Obrera Regional Argentina voted for a one-day General Strike in the city. In response, there was a red scare and socialists were hunted down. The police fired on workers rallies, and a group calling itself the Argentine Patriotic League attacked workers, socialists, and attempted to incite pogroms against the city's Jewish population. It is said some Jews pleaded for their lives by claiming they were Italian. Over the month of January, a thousand workers, socialists and Jews were killed, and tens of thousands were imprisoned at various points.", 
+        "id": "massacrearg1919", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1919, 
+        "title": "", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1919, 
+        "entry": "1919 Marines land during election campaign.", 
+        "id": "powhon1919", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1919, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1922, 
+        "entry": "The urban working class found little in common with the middle class.\nThey resented the economic privileges of factory owners, landholders,\nand exporters, as well as the Radical party's patronage of the middle\nclass. Strikes became more disruptive as industry attempted to deal with\nmaterial shortages caused by World War I. The war disrupted coal imports\nfrom England, forcing industry to operate at reduced levels. Railway\ncompanies struggled to maintain schedules while imports plunged. Real\nwages fell between 1914 and 1917 by a third as shortages forced industries\nto dismiss workers. Use of agricultural wastes compressed into briquettes\nfor heating and cooking symbolized wartime hardships and the decline\nin living standards. Frustrated workers clashed with factory owners\nas strikes became violent. Employers with links with vigilante groups\nformed the Labor Association (Asociacion del Trabajo) to break strikes with\nreplacement workers. The meatpacking strike of December 1917 ended\nbloodily, as the police stormed union headquarters armed with sabers\nslashing anyone unlucky enough to be in the way. A railroad strike earlier\nin the year resulted in damaged and burned equipment. The government\nusually intervened against strikes mounted by supposed radicals,\nwhile moderate union leaders often received President Yrigoyen's support. In the\ncase of the rail strike the president imposed a generous contract on the\ncompanies, including an eight-hour day, annual paid vacations, and sick\nand overtime pay. Yrigoyen's tactics undercut the Socialists and pushed\nthe Anarchists into confrontation, with grim consequences. Two violent\nclashes, the January 1919 Semana Tragica (Tragic Week) and the Patagonia\nTragica (1921-1922), rank among the worst labor disturbances of the early\ntwentieth century.\n<br>\nThe Semana Tragica began with a strike against a metalwork factory by\nan Anarchist union late in 1918. Fighting broke out between strikebreakers\nand workers. Heavy-handed police tactics added to the violence.\nOver the course of the next several diays, events spun out of control. \nThe Anarchist Labor Federntion's call for a genernl strike provided the pretext\nfor vigilantes, who subsequently provided the core of Liga Patriotica\nArgentina (Argentine Patriotic League). Thugs swept into the Jewish\nbarrio of Buenos Aires (popular perceptions associated Jews with\nAnarchists) and by the time the destruction ended, 700 to 1,500 people\ndied and another 4,000 had been beaten or injured. The army, without\norders from the president, assumed control of the capital. Property damage\nand lost production and wages cast the economy millions of pesos.\nYrigoyen offered to arbitrate between the parties. In the end, an alarmed\ngovernment forced the company to settle the strike. Lingering police and\nvigilante violence slowly played itself out and the Semana Tragica ended.\nUpper class perceptions that the government lacked the will or ability to\ndiscipline workers resul ted in the forma tion of the Liga Patriotica Argentina.\nThe LPA responded to fears that foreign ideologies, and labor organiziltions\ninfluenced by them, would shred the social fabric and damage the\neconomy. Manuel Carles established the League in 1919 with the idea of\nusing physical force to root out radicals. Organized as a paramilitary organization,\nthe LPA drew much of its leadership from the Jockey Club. The\nleague's mission to indoctrinate the working class to counter radicalism\nhad the support of the Church, the elite, and the middle class. A female\ndivision labored to bring the League's message to working-women. While\nthe upper and middle classes becnme more concerned, labor became\nincreasingly desperate and militant.\n<br>\nIn Patagonia, violence came on the heels of a momentary improvement\nin working conditions. In late 1920, employers, mainly British sheep operators,\norganized as the Sociedad Rural de Santa Cruz, responded positively\nto demands for better wnges and conditions. Workers wanted a limit\non the number of occupants per hut, a mattress for each person, and\nsalaries in hard currency to protect the value of wages. Unfortunately, a\ndrop in the price of wool on world markets led to deterioration of labor\nand living conditions. A general strike drew a sharp line between owners\nand workers. The issue cnme down to which side would bear the\nburden of hard times. Angry workers seized property, while landowners\nformed white guards to defend their interests. Local Radical party officials\nsided with the owners. Unbalanced reports picked up by the press\npresented an alarmist and distorted picture. After local muscle failed to\nbreak the strike, the army arrived in early 1921, believing that it faced an\nAnarchist insurrection. The Tenth Cavalry, commanded by Lt. Colonel\nHector Varela assisted by LPA members, shot suspected Anarchists in\ncold blood, tortured strikers, and dumped their bodies into mass graves.\nAfter some 2,000 victims, the strike collapsed. In a gruesome aftermath,\nColonel Varela died in a bomb blast, his assassin subsequently murdered\nby a guard, who then in turn died violently: a chain of death that shook\nthe nation.", 
+        "id": "massacrearg19211922", 
+        "loc": "arg1", 
+        "source": "Argentina: What Went Wrong\n By Colin M. MacLachlan", 
+        "start": 1921, 
+        "title": "The Tragic Week and the Patagonian Tragedy", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1927, 
+        "entry": "In many ways Brazil's hyper-federal political system failed to govern a country that was undergoing rapid social and economic change. With an impractical constitution and archaic institutions, the government could barely keep pace with the nation's progress, let alone solve its burgeoning problems. By the 1920s the tensions caused by government ineffectiveness erupted into major challenges to the state. \nFar and away the biggest challenge was a series of military rebellions called the Tenente Revolts (tenente means &quot;lieutenant&quot; in Portuguese). Civil-military relations had not been smooth since the early days of the Old Republic, and in 1922 several hundred officer cadets seized army installations to demand reforms. Their revolt was put down brutally, and those who survived were jailed or fled into exile. In 1924 the cadets captured the capital of Sao Paulo and held it for nearly a month to protest their mistreatment and blocked aspirations. When dislodged, they embarked on the Great March through the Brazilian backlands, which eventually covered 24,000 kilo-meters and lasted over 2 years. The rebels disbanded in early 1927, but their cry for reforms left a potent impression on educated Brazilians.", 
+        "id": "redstarbra19221927", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1922, 
+        "title": "The Lieutenants", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1930, 
+        "entry": "The Mexican Mural Movement starts with Marxist and radical painters in Mexico City, most famously Diego Rivera, though other notables included David Alfaro Siquieros and Jose Clemente Orozco. The murals usually have political or social themes, and eventually the tradition spreads far beyond Mexico to Chicano communities and other Latin American countries.", 
+        "id": "cultmex1922", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1922, 
+        "title": "Art for the People", 
+        "type": "culture"
+    }, 
+    {
+        "end": 1925, 
+        "entry": "U.S. Troops intervene in the Honduran Civil War, which has been provoked by the U.S.-owned United Fruit and Coyumel companies.", 
+        "id": "powhon19241925", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1924, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1925, 
+        "entry": "In 1924, a number of young leaders of the Federacion Obrera, who were organized in the Grupo Comunista, had broken away to establish the Sindica to General de Trabajadores (SGT). It organized several new unions, but more importantly, established the Liga de Inquilinos (Tenants' League). That organization conducted an extensive campaign to lower rents in the cities of Panama. This culminated in a general rent strike in Panama City, which was marked by considerable violence. The government of Panama thereupon asked that United States Army units from the Canal Zone intervene, which they did, establishing martial law and breaking the strike. Twenty-two people were said to have been killed and many others wounded in the process of this movement.\n This incident provoked severe repression of the labor movement on the part of the Panamanian government. The SGT disappeared.", 
+        "id": "redstarpan1925", 
+        "loc": "pan1", 
+        "source": "A History of Organized Labor in Panama and Central America\n By Robert Jackson Alexander, Eldon M. Parker", 
+        "start": 1925, 
+        "title": "The high point of militancy of Panamanian organized labor in this period was reached in 1925.", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1927, 
+        "entry": "Under-Secretary of State Robert Olds, expresses US policy goals in Nicaragua as the US once again sent the Marines:\n&quot;The Central American area down to and including the Isthmus of Panama constitutes a legitimate sphere of influence for the United States [...] We do control the destinies of Central America and we do so for the simple reason that the national interest absolutely dictates such a course [...] We must decide whether we shall tolerate the interference of any other power in Central American affairs, or insist upon our own dominant position [...] Until now, Central America has always understood that governments that we recognize and support stay in power, while those we do not recognize and support fall [...] Nicaragua has become a test case, it is difficult to see how we can afford to be defeated.&quot;", 
+        "id": "powusa1927", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1927, 
+        "title": "&quot;Those we do not recognize and support fall&quot;", 
+        "type": "power"
+    }, 
+    {
+        "end": 1928, 
+        "entry": "Calles created the National Revolutionary Party (PNR), the precursor of the Institutional Revolutionary Party (PRI), in power for 71 years until its defeat in the July 2, 2000 elections.", 
+        "id": "powmex1928", 
+        "loc": "mex22", 
+        "source": "Zapatista Timeline by Tom Hansen and Enlace Civil", 
+        "start": 1928, 
+        "title": "The PNR", 
+        "type": "power"
+    }, 
+    {
+        "end": 1961, 
+        "entry": "\n<img src=\"mapimages/trujillo.jpg\" style=\"display:block;max-width:100%;padding:10px 4px;\">\nDictatorship of Rafael Leonidas Trujillo, who seizes power thanks to the US-trained National Police Force and enjoys US support during his rule thanks to his anti-communist stance.\n<br>\nThe U.S. occupied the Dominican Republic in 1916 and created the the National Guard to put Rafael Leonidas &quot;The Chief&quot; Trujillo into power.The fact that Trujillo was court-martialed for kidnapping and rape in 1920 did not impede his rise to power or taint his relationship with the U.S. As dictator of the Dominican Republic for 30 years, Trujillo had a penchant for self-adulation, naming the country's capital &quot;Ciudad Trujillo&quot; and likening himself to Jesus Christ. He also put his personal stamp on everything. On village water pumps: &quot;Trujillo alone gives us water to drink.&quot; On a home for the aged: &quot;Trujillo is the only one who gives us shelter.&quot;\n<br>\nTrujillo won the 1930 presidential election with more votes than there were registered voters, but as long as he was anti-communist, Washington was happy, so he invoked anti-communism to justify mass deportations, torture and summary execution. \nWorkers who asked for wage increases were labelled &quot;communists&quot; and shot on the spot, as were farmers who tried to stop Trujillo from confiscating their land. He eventually controlled over 80% of the country's sugar plantations, using slave labor provided by neighboring Haiti to keep profits high, but in 1937 he decided to blame depressed sugar prices on the Haitian workers and massacred 20,000 of them. Trujillo was finally assassinated by the CIA in 1961, after he attempted to have President Romulo Betancourt of Venezuela murdered because of his criticism of Trujillo's brutal regime (this was after a failed attempt to attack revolutionary Cuba). It was only then that the Marine Corps made public the fact that our &quot;ally&quot; Trujillo was a convicted rapist!\n\n Highlights of the Trujillo era include the policy of blanquismo (whitening) and the massacre of 20-25,000 Haitians.\n\n\n\n\n\n\n", 
+        "id": "powdomrep19301961", 
+        "loc": "domrep1", 
+        "source": "", 
+        "start": 1930, 
+        "title": "The Terrible Dictatorship of Trujillo", 
+        "type": "power"
+    }, 
+    {
+        "end": 1930, 
+        "entry": "After mergers and acquisitions, the United Fruit Company becomes Central America's largest employer. In the 1950s, many of its former Board Members and Presidents will lead the CIA and the US State Department.", 
+        "id": "econusa1930", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1930, 
+        "title": "United Fruit Grows", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1930, 
+        "entry": "A military coup overthrows President Hipolito Yrigoyen of the centrist party known as the Radical Civic Union. Yrigoyen was the first president to have been cleanly elected by a secret and obligatory vote; he represented the accession to the government of the new middle classes of immigrant origins.\n<br>\nIn the following half century, Argentina will undergo no fewer than one military coup per decade and will be governed by more presidents who owe their office to the sword than to the ballot. During this period, which lasted until the democratic election of President Raul Alfonsin, also a Radical Civic Union member, in 1983, only two elected presidents successfully concluded the constitutional term of six years, and both were retired army generals. One of them, Agustin P. Justo, came to power through fraudulent elections in 1932. The other, Juan D. Peron, was overthrown in the middle of his second term as president in 1955.\n\n", 
+        "id": "powarg1930", 
+        "loc": "arg1", 
+        "source": "Horacio Verbitsky's Confessions of an Argentine Dirty Warrior", 
+        "start": 1930, 
+        "title": "A Long Series of Coups", 
+        "type": "power"
+    }, 
+    {
+        "end": 1931, 
+        "entry": "During the desparation of the global Great Depression, it was announced that a Communist militia had every plan for open insurrection. Early Christmas morning, Communist militants attacked army barracks but were repelled. Some left for the hills, but federal forces attacked those inside the party's offices. They dynamited the office, and then searched for every communist in the city, executing those they found.", 
+        "id": "redstarchi1931", 
+        "loc": "chi5", 
+        "source": "", 
+        "start": 1931, 
+        "title": "The Norte Grande insurrection", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1944, 
+        "entry": "<img src=\"mapimages/1932_massacreelsavadormassacre.jpg\" style=\"float:right; margin:4px;\">\n&quot;A failed uprising organized by El Salvador's Communist Party founder, Farabundo Marti, six weeks after Hernandez Martinez had seized power in a 1931 coup, sparked the General's crackdown on &quot;communists.&quot; &quot;Roadways and drainage ditches were littered with bodies,&quot; writes Raymond Bonner. &quot;Hotels were raided; individuals with blond hair were dragged out and killed as suspected Russians. Men were tied thumb to thumb, then executed, tumbling into mass graves they had first been forced to dig.&quot; \n\n\n<br>\n\n\nU.S. warships were stationed off-shore, ready to send in Marines to aid the General in case he ran into serious opposition.Hernandez Martinez was run out of the country in 1944, but his memory was celebrated as recently as 1980, when the Maximiliano Hernandez Martinez Brigade carried out a series of death-squad assassinations of prominent Salvadoran leftists. Farabundo Marti, killed during the purge, has also left a legacy into the eighties as well: the rebels fighting the U.S.-backed government of El Salvador called themselves the FMLN, the Farabundo Marti Liberation Front&quot;  ", 
+        "id": "massacreels19311944", 
+        "loc": "inels1", 
+        "source": "FRIENDLY DICTATORS TRADING CARDS", 
+        "start": 1931, 
+        "title": "General Maximilio Hernandez and the Massacre of Peasants (1932 - 1944)", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1931, 
+        "entry": "In 1931, shortly before retiring, Major General Smedley Butler summarized his career before a legionnaires convention: &quot;I spent 33 years and four months in active military service and during that period I spent most of my time as a high class muscle man for Big Business, for Wall Street and the bankers. In short, I was a racketeer, a gangster for capitalism. I helped make Mexico and especially Tampico safe for American oil interests in 1914. I helped make Haiti and Cuba a decent place for the National City Bank boys to collect revenues in. I helped in the raping of half a dozen Central American republics for the benefit of Wall Street. I helped purify Nicaragua for the International Banking House of Brown Brothers in 1902-1912. I brought light to the Dominican Republic for the American sugar interests in 1916. I helped make Honduras right for the American fruit companies in 1903. In China in 1927 I helped see to it that Standard Oil went on its way unmolested. Looking back on it, I might have given Al Capone a few hints. The best he could do was to operate his racket in three districts. I operated on three continents.&quot; Two years later, Butler blows the whistle on the Business Plot, an attempt by Wall Street barons to enlist Butler into leading a fascist coup in the United States. ", 
+        "id": "powusa1931", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1931, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1932, 
+        "entry": "Constitutionalist Revolution of 1932", 
+        "id": "redstarbra1932", 
+        "loc": "bra3", 
+        "source": "", 
+        "start": 1932, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1932, 
+        "entry": "U.S. warships enter the Salvadoran port city of Acajutla to &quot;prevent disorder that would affect U.S. interests. With impunity, General Hernandez Martinez's rounds up tens of thousands of the opposition and kills them (The affair is known as both &quot;The peasant uprising of 1932&quot; and &quot;La matanza,&quot; or &quot;The Massacre&quot;). The 1932 anti-communist purge, was carried out on behalf of El Salvador's rich coffee oligarchy, the so-called &quot;Fourteen Families.&quot; <br>\nNew president Alfredo Cristiani is a member of those same &quot;Fourteen Families&quot; and his ARENA party is linked to brutalities surpassing Hernandez Martinez's. Cristiani, former leader of a motorcycle gang, the &quot;Bad Boys,&quot; is a perfect figure-head: photogenic, moderate-sounding, schooled in Washington D.C., and indebted to the military for power. As puppet president, he yields to ARENA founder Roberto D'Aubuisson, whom former U.S. Ambassador Robert White calls a &quot;pathological killer.&quot;<br>\nD'Aubuisson, a former cashiered Army Major with ties to Jesse Helms arid the U.S. right, studied unconventional warfare in the U.S. and Taiwan. He once told European joumalists, &quot;You Germans were very intelligent. You realized that the Jews were responsible for the spread of communism, so you killed them.&quot; According to D'Aubuisson, &quot;the Christian Democrats [Ex- President Jose Napoleon Duarte's party] are communists,&quot; but Jesuit priests are &quot;the worst scum&quot; of all. U.S. State Department cables indicate D'Aubuisson &quot;planned and ordered the assassination of the late Archbishop Oscar Arnulfo Romero.&quot; It is believed he was behind the White Warriors Union (UGB), whose slogan was &quot;Be patriotic - kill a priest.&quot; In 1989 six priests were slain and Cristiani soon admitted his U.S. trained soldiers had committed the murders. Yet, although assassinations of priests are notable, 70,000 other civilians have been killed by the Salvadoran military and the death squads since 1980.", 
+        "id": "massacreels1932", 
+        "loc": "inels2", 
+        "source": "", 
+        "start": 1932, 
+        "title": "", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1979, 
+        "entry": "Corruption, torture, and wholesale murder of dissidents continued for 45 years under two generations of Somozas, for after Somoza Garcia was gunned down in the streets in 1956, his son Anastasio Somoza Debayle took control. The Somozas plundered Nicaragua and became millionaires. The younger Somoza, &quot;the vampire dictator,&quot; made $12 million a year buying the blood of his people and selling it abroad at a 300% mark-up, but his biggest single rip-off occurred in 1972 after an earthquake killed and wounded hundreds of thousands of Nicaraguans: Somoza had his National Guard seize $30 million in international relief supplies and sold them to the highest bidder. Near the end of his reign, he aerially bombed his own capital to stay in power, but he was overthrown in 1979 by a rebel group who called themselves the Sandinistas, after the revolutionary hero his father had slain.", 
+        "id": "pownic19331979", 
+        "loc": "nic1", 
+        "source": "Friendly Dictators Trading Cards", 
+        "start": 1933, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1940, 
+        "entry": "The populist presidency of Lazaro Cardenas proclaims a common struggle with indigenous communities. Many indigenous Chiapanecos assume positions in PRI-controlled labor unions and peasant organizations. Although Cardenas's populism largely ends with his presidency, many indigenous political structures remain under PRI control for decades.", 
+        "id": "indmex19341940", 
+        "loc": "mex23", 
+        "source": "Zapatista Timeline by Tom Hansen and Enlace Civil", 
+        "start": 1934, 
+        "title": "A Common Struggle", 
+        "type": "ind"
+    }, 
+    {
+        "end": 1937, 
+        "entry": "For five days in October, Dominican soldiers swept across the border with Haiti, and massacre between twenty and thirty thousand Haitians, most of whom were Dominican-born. Many were misled to believe they were being deported, and were trucked out to the middle of nowhere and executed. <br>It is said the soldiers would go to some people with a sprig of parsley and ask them what it was, killing them if they could not pronounce the Spanish word &quot;perejil&quot; correctly. In the end, American President Franklin D. Roosevelt and Haitian President Stenio Vincent sought reparations of $750,000, of which $525,000 (US$ 8,487,500 in 2012) was paid; of this 30 dollars per victim, only 2 cents were given to survivors, due to corruption in the Haitian bureaucracy.", 
+        "id": "massacredomrep1937", 
+        "loc": "domrep1", 
+        "source": "", 
+        "start": 1937, 
+        "title": "Perejil and Two Cents", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1939, 
+        "entry": "\u201cSomoza may be a son of a bitch, but he\u2019s our son of a bitch.\u201d", 
+        "id": "powusa1939", 
+        "loc": "usa1", 
+        "source": "<sup>*</sup>\nThe source of this, quoted in Time Magazine \nand by contemporary D.C. political columnists, \nis apocryphal. Nonetheless, it is quoted \neverywhere because it feels right. ", 
+        "start": 1939, 
+        "title": "Ours", 
+        "type": "power"
+    }, 
+    {
+        "end": 1970, 
+        "entry": "Land reform under the Ejido system (communally owned land) continues to lag in Chiapas while large land owners consolidate their holdings. Cattle ranching becomes an important business and roads penetrate the state. Pressure for land from a booming indigenous population results in over 100,000 Indians migrating to the Lancandon Jungle. ", 
+        "id": "econmex19401970", 
+        "loc": "mex2", 
+        "source": "Zapatista Timeline by Tom Hansen and Enlace Civil", 
+        "start": 1940, 
+        "title": "The Pressure", 
+        "type": "economy"
+    }, 
+    {
+        "end": 1944, 
+        "entry": "The United States's problem of combating &quot;subversion&quot; had come to the fore in 1943, when Bolivian mine owners called on government troops to suppress striking tin miners, killing hundreds of them in the &quot;Catavi massacre.&quot; There was no US reaction until the nationalist, anti-oligarchic, pro-labor National Revolutionary Movement (MNR) deposed the dictatorship a year later. The US denounced the new regime as &quot;pro-fascist&quot; (on flimsy pretexts) and as opposed to &quot;Anglo-Yankee imperialism&quot; (accurately, in this case), demanded that all MNR members be excluded from positions of power, and quickly secured its overthrow in favor of a military government. A State Department memo identified one decisive theme: the mine owners, it observed, are afraid of the MNR's &quot;announced intention to interest itself in the betterment of the workers, fearing this can only be done at the expense of the mining interests.&quot;", 
+        "id": "massacrebol19431944", 
+        "loc": "bol1", 
+        "source": "Year 501", 
+        "start": 1943, 
+        "title": "Catavi Massacre and MNR repression", 
+        "type": "massacre"
+    }, 
+    {
+        "end": 1943, 
+        "entry": "A military group that sympathizes with the Axis Powers takes control of the government. Among them is Juan D. Peron, then a colonel, who becomes, successively, secretary of labor and social welfare, minister of war and vice president. While serving as secretary of labor he formulates a policy of respect for the rights of workers, inspired by the social doctrines of the Catholic Church.", 
+        "id": "powarg1943", 
+        "loc": "arg1", 
+        "source": "Horacio Verbitsky's Confessions of an Argentine Dirty Warrior", 
+        "start": 1943, 
+        "title": "Secretary of Labor / Minister of War", 
+        "type": "power"
+    }, 
+    {
+        "end": 1945, 
+        "entry": "Peron is arrested by his comrades and a spontaneous popular demonstration demanding his freedom converges on the center of Buenos Aires from the suburbs.", 
+        "id": "redstararg1945", 
+        "loc": "arg12", 
+        "source": "Horacio Verbitsky's Confessions of an Argentine Dirty Warrior", 
+        "start": 1945, 
+        "title": "Demonstrations", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1946, 
+        "entry": "\n\n\n\n\n\nA march of the Mapuche indigenous left from their towns on May 15th for basic indigenous rights and land claims. They arrived in the provincial capital of San Salvador, and from there continued their march on foot, arriving in Buenos Aires in early August.\n<img src=\"mapimages/arg1946malon3.jpg\" style=\"max-width:100%\">\n President Juan Peron held a large rally to welcome them, and made great promises, allowing nationalist allies to attack them but calling in the police before the skirmishes got too far. \n\n<img src=\"mapimages/arg1946malon1.jpg\" style=\"max-width:100%\">\nWith the indigenous protesters camped out in the capital for weeks, Peron turned around and sent riot police against them until they boarded trains to return to their homes.", 
+        "id": "indarg1946", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1946, 
+        "title": "Mal\u00f3n de la Paz", 
+        "type": "ind"
+    }, 
+    {
+        "end": 1946, 
+        "entry": "Juan D. Peron is elected president in a clean vote.\n\n", 
+        "id": "redstararg1946", 
+        "loc": "arg3", 
+        "source": "Horacio Verbitsky's Confessions of an Argentine Dirty Warrior", 
+        "start": 1946, 
+        "title": "A Clean Vote", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 1947, 
+        "entry": "Paraguayan Civil War", 
+        "id": "redstarpar1947", 
+        "loc": "par2", 
+        "source": "", 
+        "start": 1947, 
+        "title": "", 
+        "type": "redstar"
+    }, 
+    {
+        "end": 2003, 
+        "entry": "1947-2003 US Navy expels families in Vieques and uses the land for military exercises, including with depleted uranium.", 
+        "id": "powpue19472003", 
+        "loc": "pue1", 
+        "source": "", 
+        "start": 1947, 
+        "title": "", 
+        "type": "power"
+    }, 
+    {
+        "end": 1948, 
+        "entry": "Costa Rican Civil War. In the 1940s, Presidents (initially conservative) Rafael Calderon and his successor Teodoro Picaro instituted a series of reforms aimed at alleviating poverty and neo-colonialism, forming a social security system, setting a minimum wage and allying with the communist Partido Vanguardia Popular. Opposition groups, some of whom had clashed with the PVP and attacked workers movements, claimed they believed the 1948 election would be tampered with in an attempt to return Calderon to power, and so Picaro created an independent electoral tribunal. When the vote appeared to elect the opposition conservative Otilio Ulate, Picaro and Calderon cried foul and called for a new election. Their majority in the national assembly granted their request, and more violent clashes ensued. An ally of Ulate's died at the hands of the military, and the liberal anti-communist Jose Figueres led a rebel army that was at first allied with a hardline right-wing against the government. The United States supported Figueres's rebels, but its asset, the Nicaraguan dictator Anastasio Somoza supported the government, and both were prepared to sent in troops for their respective sides. The war went national, lasting 44 days and leaving two thousand dead. The US-backed rebels won and Ulate took the office.", 
+        "id": "warcos1948", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1948, 
+        "title": "44 Days of War", 
+        "type": ""
+    }, 
+    {
+        "end": 1948, 
+        "entry": "\nWriting about the Far East, American Adviser and Diplomat George Kennan writes: &quot;Furthermore, we have about 50% of the world's wealth but only 6.3% of its population.  This disparity is particularly great as\n    between ourselves and the peoples of Asia.  In this situation, we\n    cannot fail to be the object of envy and resentment.  Our real\n    task in the coming period is to devise a pattern of relationships\n    which will permit us to maintain this position of disparity\n    without positive detriment to our national security.  To do so, we\n    will have to dispense with all sentimentality and day-dreaming;\n    and our attention will have to be concentrated everywhere on our\n    immediate national objectives.  We need not deceive ourselves that\n    we can afford today the luxury of altruism and world-benefaction.&quot;", 
+        "id": "econusa1948", 
+        "loc": "usa1", 
+        "source": " \nPPS/23, 24th February 1948 Written by George Kennan, pictured, <br>\nFormer head of the US State Department Policy Planning Staff", 
+        "start": 1948, 
+        "title": "&quot;We need not deceive ourselves&quot;", 
+        "type": "economy"
+    }
+]

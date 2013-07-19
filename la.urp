@@ -1,0 +1,37 @@
+database dbname=la
+sql la.sql
+library random
+library hash
+rewrite url La/main
+rewrite url La/*
+library unsafe
+script http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js
+script http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js
+allow url http://map.historyisaweapon.com/static/*
+allow url http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css
+rewrite style La/*
+script http://map.historyisaweapon.com/static/site.js
+ffi lajs
+jsFunc Lajs.init=init
+benignEffectful Lajs.init
+jsFunc Lajs.set_fragment=set_fragment
+benignEffectful Lajs.set_fragment
+jsFunc Lajs.set_visible=set_visible
+benignEffectful Lajs.set_visible
+jsFunc Lajs.paginate=paginate
+benignEffectful Lajs.paginate
+jsFunc Lajs.toggle_div=toggle_div
+benignEffectful Lajs.toggle_div
+jsFunc Lajs.set_year_specific=set_year_specific
+benignEffectful Lajs.set_year_specific
+jsFunc Lajs.get_fragment_year=get_fragment_year
+benignEffectful Lajs.get_fragment_year
+jsFunc Lajs.get_fragment_id=get_fragment_id
+benignEffectful Lajs.get_fragment_id
+
+$/list
+$/option
+sourceL
+userpass
+messages
+la

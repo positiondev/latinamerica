@@ -1,0 +1,3904 @@
+[{
+        "end": 1925, 
+        "entry": "1912-25<br> Occupation of U.S. Marines maintains Conservatives in power in face of continued Liberal rebellion in Nicaragua.", 
+        "id": "powernic19121925", 
+        "loc": "nic4", 
+        "source": "", 
+        "start": 1912, 
+        "title": "US Marines Occupy 1912-25", 
+        "type": "power"
+    }, 
+
+
+ {
+        "end": 1914, 
+        "entry": "Outbreak of First World War, collapse of Second International.", 
+        "id": "wareur1914", 
+        "loc": "eur1", 
+        "source": "", 
+        "start": 1914, 
+        "title": "Outbreak of First World War, collapse of Second International.", 
+        "type": "war"
+    }, 
+
+ {
+        "end": 1917, 
+        "entry": "1917 The Immigration Act of 1917 restates all past qualitative exclusions and also adds the categories of illiterates, requiring a literacy test and an eight-dollar head tax for entry. The legislation also establishes the &ldquo;Asiatic Barred Zone,&rdquo; a geographic area that included most of Asia and the Pacific Islands, further restricting the entry of Asian immigrants.", 
+        "id": "powerusa1917", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1917, 
+        "title": "The Immigration Act of 1917", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1918, 
+        "entry": "The 1918 Passport Act makes it a crime for any &ldquo;alien&rdquo; to enter the United States without a passport.", 
+        "id": "powerusa1918", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1918, 
+        "title": "The 1918 Passport Act", 
+        "type": "power"
+    }, 
+
+
+ {
+        "end": 1919, 
+        "entry": "1919 Unions from El Salvador, Nicaragua, and Honduras Join short&middot;lived PanAmerican Federation of Labor which is sponsored by American Federation of Labor.", 
+        "id": "redfisthon1919", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1919, 
+        "title": "PanAmerican Federation of Labor", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1920, 
+        "entry": "In 1920, President Coolidge announces Evart Doctrine to justify U.S. intervention in internal affairs of Latin America in order to protect U.S. foreign holdings. President Coolidge was of the view that the person and property of a citizen are part of the general domain of the nation, i.e. the US nation, even when abroad. This thesis formed the basis of the Evart Doctrine,which claimed legal immunity for US citizens and their business activities in Latin America, in violation of the national sovereignty of the affected countries. This overarching position of the US government provided another modality of justification for interventionism in Latin America, and was a continuing source of friction in US-Latin American relations.", 
+        "id": "powerusa1920", 
+        "loc": "usa2", 
+        "source": "Geopolitics andthe Post-colonial by David Slater", 
+        "start": 1920, 
+        "title": "The Evart Doctrine", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1920, 
+        "entry": "U.S. military intervention in Guatemala during a period of fighting between trade unionists and the government. President Coolidge pressures Guatemala to overthrow President Carlos Herrera, enabling United Fruit to expand.", 
+        "id": "powergua1920", 
+        "loc": "gua11920", 
+        "source": "", 
+        "start": 1920, 
+        "title": "The Suffocating influence of United Fruit", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1921, 
+        "entry": "Unrest in San Salvador as women strikers are killed and a shoemakers' strike is brutally crushed.", 
+        "id": "powerels1921", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1921, 
+        "title": "Brutally Crushed", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1921, 
+        "entry": "The Temporary Quota Act of 1921 limits the number of admissions of any one particular nationality to three percent of the group&rsquo;s population already in the United States according to the 1910 census; this marks the first quantitative immigration restriction in U.S. history.", 
+        "id": "powerusa1921", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1921, 
+        "title": "The Temporary Quota Act of 1921", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1924, 
+        "entry": "Regional Federation of Workers of El Salvador is established with 80,000 members; it affiliates with the Central American Workers Federation. ", 
+        "id": "redfistels1924", 
+        "loc": "els2", 
+        "source": "", 
+        "start": 1924, 
+        "title": "Regional Federation of Workers of El Salvador", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1924, 
+        "entry": "The Immigration Act of 1924 (also known as the Johnson-Reed Act) makes the 1921 quotas permanent, but uses the census of 1890 as its base. The legislation includes the Oriental Exclusion Act, which bans all Asian immigration except that from the Philippines. The 1924 act also requires immigrants for the first time to obtain visas from U.S. consular officials abroad before traveling to the United States. As before, the restrictions have unintended consequences, leading to a rapid rise in the number of unauthorized European immigrants who would enter from Canada or Mexico, countries not subject to immigration quotas. The Department of Labor Appropriations Act grants one million dollars for &ldquo;additional land-border patrol,&rdquo; thus creating the U.S. Border Patrol.", 
+        "id": "powerusa1924", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1924, 
+        "title": "The Johnson-Reed Act of 1924", 
+        "type": "power"
+    }, 
+
+ 
+
+
+
+ {
+        "end": 1929, 
+        "entry": "In 1929, International Railways of Central America, a United Fruit affiliate, connects Guatemalan and Salvadoran railways. IRCA also operates banana railroads in Costa Rica and Honduras.", 
+        "id": "economyhon1929", 
+        "loc": "hon3", 
+        "source": "", 
+        "start": 1929, 
+        "title": "International Railways of Central America", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1929, 
+        "entry": "1929 The Act of March 4, 1929 makes the entry of noncitizens at locations other than those designated by the U.S. government or by means of &ldquo;a willfully false or misleading representation&rdquo; a misdemeanor. It also makes reentry of a previously deported &ldquo;alien&rdquo; a felony. Both &ldquo;crimes,&rdquo; according to the act, are punishable by fine and/or imprisonment. The combination of the onset of the Depression and rising anti-Mexican immigrant sentiment results in the deportation of hundreds of thousands of Mexican immigrants between 1929 and 1935, including tens of thousands of U.S. citizens of Mexican descent.", 
+        "id": "powerusa1929", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1929, 
+        "title": "The Act of March 4, 1929", 
+        "type": "power"
+    }, 
+ {
+        "end": 1929, 
+        "entry": "1929 Great Depression in United States adversely affects all Central American economies.", 
+        "id": "economyusa1929", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1929, 
+        "title": "The Great Depression", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1930, 
+        "entry": "Getulio Vargas comes to power in Brazil", 
+        "id": "powerbra1930", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1930, 
+        "title": "Getulio Vargas comes to power in Brazil", 
+        "type": "power"
+    }, 
+
+
+ {
+        "end": 1931, 
+        "entry": "New dictators Jorge Ubico of Guatemala and Carias Andino of Honduras receive immediate support of U.S. government. ", 
+        "id": "powergua1931", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1931, 
+        "title": "The New dictators", 
+        "type": "power"
+    }, 
+ {
+        "end": 1931, 
+        "entry": "New dictators Jorge Ubico of Guatemala and Carias Andino of Honduras receive immediate support of U.S. government. ", 
+        "id": "powerhon1931", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1931, 
+        "title": "The New dictators", 
+        "type": "power"
+    },
+
+ {
+        "end": 1931, 
+        "entry": "1931 In El Salvador dictator Maximiliano Hernandez Martinez takes power. The Communist Party of El Salvador wins a number of municipal  elections, but Maximiliano Hernandez Martinez, the military dictator, refuses to accept the  electoral results.", 
+        "id": "powerels1931", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1931, 
+        "title": "Maximiliano Hernandez Martinez", 
+        "type": "power"
+    },  
+
+
+ {
+        "end": 1932, 
+        "entry": "Earthquake destroys Managua", 
+        "id": "envirnic1932", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1932, 
+        "title": "Earthquake destroys Managua", 
+        "type": "envir"
+    }, 
+
+ {
+        "end": 1933, 
+        "entry": "President Herbert Hoover merges the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service (INS).", 
+        "id": "powerusa1933", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1933, 
+        "title": "The Beginning of INS", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1933, 
+        "entry": "President Franklin Roosevelt announces Good Neighbor Policy for Latin America and declares that United States is opposed to armed intervention.", 
+        "id": "powerusa1933", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1933, 
+        "title": "The Good Neighbor Policy", 
+        "type": "power"
+    }, 
+ 
+ {
+        "end": 1933, 
+        "entry": "Congress withdraws appropriation for US marines. Before leaving Nicaragua, United States sets up National Guard and appoints Somoza Garcia as commander-in-chief. Sandino agrees to peace settlement.", 
+        "id": "powernic1933", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1933, 
+        "title": "The Americans Hand Power to Somoza", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1934, 
+        "entry": "A National Guard detachment assassinates Sandino after he leaves a meeting at the presidential palace.", 
+        "id": "powernic1934", 
+        "loc": "nic3", 
+        "source": "", 
+        "start": 1934, 
+        "title": "The Assassination of Sandino", 
+        "type": "power"
+    }, 
+ {
+        "end": 1936, 
+        "entry": "Somoza with the support of the Guard becomes president of Nicaragua", 
+        "id": "powernic1936", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1936, 
+        "title": "Somoza becomes President", 
+        "type": "power"
+    }, 
+ {
+        "end": 1937, 
+        "entry": "Brazil&rsquo;s Vargas establishes authoritarian State, the Estado Novo. Nationalism was perhaps, in this period, the identifiable common denominator of the military's political orientations in the several Latin American countries. The officers' seemingly ambiguous behaviour, often more authoritarian than reformist even in the 'revolutionary' experiments, always had its roots in their underlying concern, even in the pursuit of social justice, to reinforce the human, economic and therefore military potential of their nations. This orientation accorded with the policies of independent, inward-looking development through import substitution industrialization, which were beginning to be adopted at the time. This national-militarist current, which was not systematically opposed to change if carried out in an orderly fashion, nor to improvements in the labouring classes' conditions if accomplished under the state's tutelage, seems to have been dominant in the armed forces. Without multiplying the examples, suffice it to recall that in Brazil, not only did numerous officers show an affinity for integralismo, but the Estado Novo itself was founded in 1937 by a general staff imbued with similar attitudes. General Pedro Goes Monteiro, minister of war (1934—37) and army chief of staff (1937—44), who hoped &quot;progressively to increase state power&quot; and who was said to be a fascist sympathizer and pro-German, listed among the greatmen of the day, who embodied the political experiments he admired:&quot;Mussolini, Hitler, Stalin, Mustafa Kemal Pacha, Roosevelt and Salazar&quot;. <br> They had, in his view, each in his own way, succeeded in 'creating new organs and new state institutions, thereby furnishing the state with the means to overcome the domestic crisis'. The political ideal of the Estado Novo's most important military potentate was, in brief, that &quot;the state must have the power to intervene to regulate the whole of collective life and to discipline the nation.&quot; Repression of the left was intensified after the failed Communist-military risings of November 1935, and the Integralists were forcefully suppressed after the failure of their May 1938 coup attempt. The Italian and German communities of southern Brazil naturally contained many Axis sympathizers, and were also Integralist strongholds. The Estado Novo imposed censorship and relied on a powerful secret police apparatus. Immigrant enclaves with their own schools, newspapers and autonomous civic organizations were now brought under central control and required to promote the Portuguese language. The German community, in particular, was forced in 1938 to choose between its allegiance to the Reich and its allegiance to Brazil, and thousands left for Europe in disgust. An August 1938 decree provided that conscripts must only speak Portuguese during their military training. The large Japanese community in Brazil was also subject to these measures, although in practice it preserved a large degree of separateness, at least until the shock of the Emperor's surrender in 1945. For several years thereafter a substantial sector of the Japanese community persisted in believing this to be a lie, propaganda invented by the Brazilian and western press.", 
+        "id": "powerbra1937", 
+        "loc": "bra1", 
+        "source": "The Cambridge History of Latin America, Volume 6", 
+        "start": 1937, 
+        "title": "Estado Novo", 
+        "type": "power"
+    }, 
+
+
+ {
+        "end": 1940, 
+        "entry": "The INS moves from the Department of Labor and becomes part of the Department of Justice.", 
+        "id": "powerusa1940", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1940, 
+        "title": "The Criminal INS", 
+        "type": "power"
+    }, 
+ {
+        "end": 1942, 
+        "entry": "1942 The Bracero Program begins. As labor shortages reappeared during World War II, the U.S. government launched the Bracero Program that recruited millions of Mexican laborers, many of whom were expelled through Operation Wetback that was implemented during the economic downturn of the late 1950s.", 
+        "id": "powerusa1942", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1942, 
+        "title": "Bracero", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1945, 
+        "entry": "1942-1945 <br> Rubber estates re-activated under US/Brazilian agreement. New wave of rubber tappers brought from north-east Brazil", 
+        "id": "econbra19421945", 
+        "loc": "bra9", 
+        "source": "", 
+        "start": 1942, 
+        "title": "subtitle", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1943, 
+        "entry": "Congress repeals the Chinese Exclusion Laws, largely as a result of the U.S. entry into World War II as an ally of China against Japan.", 
+        "id": "powerusa1943", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1943, 
+        "title": "Congress repeals the Chinese Exclusion Laws", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1944, 
+        "entry": "Nervous about popular unrest in El Salvador, the United States advises General Martinez to resign. Military rule continues. ", 
+        "id": "powerels1944", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1944, 
+        "title": "The United States advises General Martinez to resign.", 
+        "type": "power"
+    }, 
+
+
+ {
+        "end": 1945, 
+        "entry": "U.S. government starts to provide credit for purchase of U.S. exports through provisions of Export-Import Bank Act.", 
+        "id": "economyusa1945", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1945, 
+        "title": "US Exports credited through Export-Import Bank Act.", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1968, 
+        "entry": "1945-late 60s Brazilian Rubber estates subsidised by federal government", 
+        "id": "econbra19471968", 
+        "loc": "bra8", 
+        "source": "", 
+        "start": 1945, 
+        "title": "Brazilian Rubber estates subsidized by federal government", 
+        "type": "economy"
+    }, 
+
+
+
+
+ {
+        "end": 1947, 
+        "entry": " U.S.-sponsored Rio Pact stresses cooperation between United States and Latin America against external attack.<br> A formal alliance system for the Western hemisphere, established by a treaty signed on September 2, 1947 at an Inter-American Defence Conference held at Petr&oacute;polis near Rio de Janeiro, Brazil, by 19 of the 21 American republics. Its formal title in English is the Inter-American Treaty of Reciprocal Assistance and, in Spanish, Tratado Interamericano de Asistencia Rec&iacute;proca. Since then, Ecuador, Nicaragua, Trinidad and Tobago and the Bahamas have adhered to the Treaty, but Cuba withdrew on March 29, 1960, and Mexico gave notice in 2002 of its intention to do so also. By Article 3 of the Treaty the signatories &lsquo;agree that an armed attack by any states against an American state shall be considered as an attack against all the American states&rsquo;, and consequently &lsquo;undertake to assist in meeting the attack in exercise of the inherent right of individual or collective self-defence recognized by Article 51 of the UN Charter&rsquo;. The procedure for doing so is that &lsquo;on the request of the state or states directly attacked and until the decision of the organ of consultation of the inter-American system&rsquo;, each of the signatories &lsquo;may determine immediate measure which it may individually adopt in fulfilment of the obligation contained in the preceding paragraph and in accordance with the principle of continental solidarity. The organ of consultation shall meet without delay for the purpose of examining these measures and agreeing upon measures of a collective character that should be adopted&rsquo;. The Treaty was invoked on 14 occasions between 1948 and 1962; it has only been invoked once since, by the USA in 2001.", 
+        "id": "powerbra1947", 
+        "loc": "bra5", 
+        "source": "", 
+        "start": 1947, 
+        "title": "U.S.-sponsored Rio Pact stresses cooperation between United States and Latin America against external attack.", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1948, 
+        "entry": "The Partido Revolucionario de Unificacion Democratica (Revolution&shy;ary Party of Democratic Unification-PRUD) is founded in El Salvador. Its  leader, Oscar Osorio, is president from 1950 to 1956. This is the beginning of a period of industrialization. ", 
+        "id": "redfistels1948", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1948, 
+        "title": "The Partido Revolucionario de Unificacion Democratica is Founded", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1948, 
+        "entry": "An anti-communist revolution led by Jose Figueres and supported by United States is successful in Costa Rica. Figueres, three-time president of Costa Rica, later admits to his connections with CIA. From William Blum&rsquo;s <i>Killing Hope</i>:<br> &ldquo;If ever the CIA maintained a love-hate relationship, it was with Jose Figueres, three times the head of state of Costa Rica. <br> On the one hand, Figueres, by his own admission in 1975, worked for the CIA 'in 20,000 ways … all over Latin America' for 30 years.1 'I collaborated with the CIA when we were trying to topple Trujillo,' he divulged, speaking of the Dominican Republic dictator.<br> On the other hand, Figueres revealed that the Agency had twice tried to kill him. He did not elaborate, although he stated at the same time that he had tried for two years to get the Bay of Pigs invasion called off. This may have precipitated one or both of the assassination attempts. <br> The CIA also tried to overthrow the Figueres. government. In 1964, the first significant expose of the Agency, <i>The Invisible Government</i>, disclosed that: <blockquote> in the mid-1950s CIA agents intruded deeply into the political affairs of Costa Rica, the most stable and democratic republic in Latin America. Knowledgeable Costa Ricans were aware of the CIA's role. The CIA's purpose was to promote the ouster of Jose (Pepe) Figueres, the moderate socialist who became President in a fair and open election in 1953.</blockquote><br> Figueres remained in office until 1958, in this his first term as president; he had headed a liberal junta in the late 1940s. <br> The Agency's 'major grievance was that Figueres had scrupulously recognized the right of asylum in Costa Rica&mdash;for non-Communists and Communists alike. The large influx of questionable characters complicated the agency's job of surveillance and forced it to increase its staff.'&rdquo;", 
+        "id": "powercos1948", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1948, 
+        "title": "The Beginning of Jose Figueres", 
+        "type": "power"
+    }, 
+
+
+
+
+
+ {
+        "end": 1948, 
+        "entry": "1948 President Truman sends first U.S. military training mission to El Salvador.", 
+        "id": "powerels1948", 
+        "loc": "els3", 
+        "source": "", 
+        "start": 1948, 
+        "title": "The Training Begins", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1948, 
+        "entry": "Organization of American States (OAS) is founded. The OAS is the successor organization to the old Pan American Union. Established by Charter at the Ninth Inter-American Conference held at Bogotá (now Santa f&eacute; de Bogot&aacute;, Colombia) in 1948,  the Bogota Conference also made reference to the cold war. Secretary of State George Marshall, who was the representative of the United States at the conference in Bogota, referred to the &quot;determined and open opposition of the Soviet Union to world recovery and peace.&quot; The very fact that a riot broke out during the conference, on April 9 (the &quot;Bogotazo&quot;), incorrectly blamed on Communists, was conducive to the passing of a resolution by the 1948 conference condemning intemational communism &quot;as incompatible with the concept of American freedom&quot;", 
+        "id": "powercol1948", 
+        "loc": "col1", 
+        "source": "", 
+        "start": 1948, 
+        "title": "Organization of American States (OAS) is founded.", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1947, 
+        "entry": "Since the late 1840s the Conservative and Liberal parties have dominated Colombian politics. The Conservative Party has historically aligned with and represented the interests of the large landholding oligarchy and the Catholic Church. The Liberal Party, on the other hand, has been more closely aligned with Colombia&rsquo;s commercial sector and tended to view the Catholic Church as a backward social institution that prevented economic modernization. Although for many years their policy programmes were largely indistinguishable, the rise of Jorge Gaitan, a left-wing Liberal Party member during the 1940s, managed to reorient the Liberal Party towards a more reformist and egalitarian agenda that sought modest land reforms and progressive labour laws. Gaitan&rsquo;s populism was based on his appeal to the poor and dispossessed throughout Colombia; in the words of Jenny Pearce, he sought to make &lsquo;capitalism socially responsible, not to abolish it&rsquo;.38 Gaitan took over the leadership of the Liberal Party in 1947, and was almost certain to win elections scheduled for 1950.", 
+        "id": "redstarcol1947", 
+        "loc": "col1", 
+        "source": "", 
+        "start": 1947, 
+        "title": "The rise of Jorge Gaitan", 
+        "type": "redstar"
+    }, 
+
+ {
+        "end": 1949, 
+        "entry": "Jorge Gaitan’s increasingly populist appeal, combined with his overt rhetoric attacking the unequal distribution of national resources, made Colombia’s ruling class, and especially the large landowners aligned with the Conservative Party, increasingly worried and hostile. Gaitan was subsequently assassinated in Bogotá (Colombia’s capital city) in 1948. His assassination ended the democratic challenge to oligarchic rule in Colombia, and destroyed the hopes of the poor majority that he represented. His death also ‘ruptured the breakwaters holding back years of discontent’ and the immediate response to his assassination was a spontaneous popular uprising in Bogotá that destroyed established symbols of power and privilege. The Colombian military put down the uprising but the violence spread to Colombia’s rural areas and sparked a large-scale civil war within Colombia now known as <i>la violencia</i>. <br> <i>Galeano Now</i>: When he was shot dead, the hurricane was unleashed. First the spontaneous bogotazo&#8212;an uncontrollable human tide in the streets of the capital; then the violence spread to the countryside, where bands organized by the Conservatives had for some time been sowing terror. The bitter taste of hatred, long in the peasants' mouths, provoked an explosion; the government sent police and soldiers to cut off testicles, slash pregnant women’s bellies, and&#8212;throw babies in the air to catch on bayonet points--the order of the day being \"don't leave even the seed.\" Liberal Party sages shut themselves in their homes, never abandoning their good manners and the gentlemanly tone of their manifestos, or went into exile abroad. It was a war of incredible cruelty and it became worse as it went on, feeding the lust for vengeance. New ways of killing came into vogue: the <i>corte corbata</i>, for example, left the tongue hanging from the neck. Rape, arson, and plunder went on and on; people were quartered or burned alive, skinned or slowly cut in pieces; troops razed villages and plantations and rivers ran red with blood. Bandits spared lives in exchange for tribute, in money or loads of coffee, and the repressive forces expelled and pursued innumerable families, who fled to seek refuge in the mountains. Women gave birth in the woods. The first guerrilla leaders, determined to take revenge but without clear political vision, took to destroying for destruction's sake, letting off blood and steam without purpose.", 
+        "id": "massacrecol1948", 
+        "loc": "col2", 
+        "source": "", 
+        "start": 1948, 
+        "title": "The Killing of Gaitan, the Bogotazo, and La Violencia", 
+        "type": "massacre"
+    }, 
+
+
+
+ {
+        "end": 1950, 
+        "entry": "U.S. direct investment in Central America totals $313 million.", 
+        "id": "economyusa1950", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1950, 
+        "title": "$313m", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1951, 
+        "entry": "1951 U.S. Congress passes Mutual Security Act, which makes funds available to strengthen Latin American armies for hemispheric defense.", 
+        "id": "powerusa1951", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1951, 
+        "title": "Mutual Security Act", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1951, 
+        "entry": "National Liberation Party (PLN) formed by Jose Figueres.", 
+        "id": "redstarcos1951", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1951, 
+        "title": "National Liberation Party", 
+        "type": "redstar"
+    }, 
+
+
+ {
+        "end": 1951, 
+        "entry": "Inter-American Regional Organization of Workers (ORIT) forms with backing of U.S. Department of State. Originally based in Mexico, the ORIT was been created within the framework of Cold War politics with the aim of &quot;resisting communist influence&quot; in Latin America. When it was based in Cuba in the early 1950s, ORIT first opposed the 1953 military coup that brought dictator Fulgencio Batista to power, then accommodated itself to his brutal regime. When the Castro-led revolution prevailed in 1959, ORIT ﬂed to Mexico City to set up its new headquarters and chose one of Batista’s former cabinet members as an assistant to ORIT’s general secretary.’ It was common knowledge among Latin American unionists that ORIT fronted for the CIA. As one US State Department official put it,“ORIT was bought and paid for by Uncle Sam.” <br> Philip Agee, the former CIA agent and whistleblower, fingered ORIT as &quot;a principal mechanism for CIA labor operations in Latin America&quot; Its purpose, said Agee, was to subvert radical Latin American unions and help the CIA &quot;divide the victims and neutralize their leaders.&quot; One could hardly miss the CIA connections. Agee reported that, as of 1963, several ORIT bosses&#8212;its secretary-general and assistant secretary-general&#8212;were CIA agents.  <BR> The CIA apparently viewed ORIT as incompetent. Agee, in a 1960 diary entry, wrote: &quot;Officers in the WH Division [the CIA’s Western Hemisphere Division] were practically unanimous in condemning ORIT. . . . They said ORIT is hopeless, discredited and completely ineffective for attracting non-communist labor organizations in Latin America.&quot; ", 
+        "id": "economymex1951", 
+        "loc": "mex1", 
+        "source": "The Man Who Hated Work and Loved Labor: The Life and Times of Tony Mazzocchi By Les Leopold", 
+        "start": 1951, 
+        "title": "Inter-American Regional Organization of Workers Forms", 
+        "type": "economy"
+    }, 
+ {
+        "end": 1953, 
+        "entry": " Colon Free-Trade Zone in Panama is created from a proposal by a vice-president of National City Bank of New York.", 
+        "id": "economypan1953", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1953, 
+        "title": "The Colon Free-Trade Zone is Created.", 
+        "type": "economy"
+    }, 
+
+
+
+
+ {
+        "end": 1954, 
+        "entry": "Brazilian military threaten coup; Vargas commits suicide", 
+        "id": "powerbra1954", 
+        "loc": "bra3", 
+        "source": "", 
+        "start": 1954, 
+        "title": "Brazilian military threaten coup; Vargas commits suicide.", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1954, 
+        "entry": "While President Dwight D.Eisenhower&rsquo;s attorney general Herbert Brownell helped to incite public opposition to &ldquo;illegal&rdquo; immigration, his actions demonstrated the administration's uncertainty. Thus, after having reported to Congress that the &ldquo;wetback problem&rdquo; had never been so bad, Brownell recommended that there be no increase in the Border Patrol's budget, and that there be a reduction in the INS's overall budget, suggesting that it was premature to deport &ldquo;illegal&rdquo; workers. Nevertheless, in the face of growing pressure, the Eisenhower administration demonstrated some commitment to fighting unregulated immigration by announcing the start of its infamous Operation Wetback on June 9, 1954.<br> Led by INS Commissioner General Joseph Swing, the operation involved the massive roundup of suspected &ldquo;wetbacks&rdquo; in border states. According to the INS, the agency apprehended over one million migrants during fiscal year 1954, most of the apprehensions taking place during the operation. By means of high-visibility shows of force in restricted locales and highly sensationalized media coverage, the INS was able to give the impression of being far more powerful than it was, thus causing, according to the INS, &ldquo;uncounted thousands&rdquo; of unauthorized migrants to leave the United States on their own accord. Although Operation Wetback resulted in a record number of deportations, the U.S. government compensated agricultural interests by greatly increasing the number of braceros admitted into the United States. In this regard, the operation&rsquo;s most important outcome was to increase state and grower control over migrant labor.", 
+        "id": "powerusa1954", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1954, 
+        "title": "The INS launches Operation Wetback.", 
+        "type": "power"
+    }, 
+
+
+
+ {
+        "end": 1954, 
+        "entry": "1954 A successful strike by Honduran banana workers opens way for widespread organizing among other Honduran workers.", 
+        "id": "redfisthon1954", 
+        "loc": "country#", 
+        "source": "", 
+        "start": 1954, 
+        "title": "The General Strike of 1954", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1955, 
+        "entry": "Cotton becomes the primary export of Nicaragua", 
+        "id": "economynic1955", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1955, 
+        "title": "Cotton becomes the primary export of Nicaragua", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1956, 
+        "entry": "1956 Anastasio Somoza Garcia is assassinated by poet Rigoberto Lopez Perez.<br> In 1956, Rigoberto Lopez Perez, a twenty-six-year-old Nicaraguan poet,wrote his mother a last letter: <blockquote>&quot;seeing that all efforts to return Nicaragua to being (or to becoming for the first time) a free country without shame or stain have been futile, I have decided that I should be the one to try to initiate the beginning of the end of this tyranny.&quot;</blockquote> A few days later in his hometown of Leon, he publicly assassinated Anastasio Somoza. He was himself immediately killed, receiving thirty-five bullet wounds. As we know, he did in fact &quot;initiate the beginning of the end&quot; of that tyranny. Rigoberto tried to console his mother by denying that his act was a sacrifice: &quot;I hope that you will take this calmly. You must understand that my act is a duty that any Nicaraguan would desire to be done for his country . . . not a sacrifice, but a duty that I want to fulfill.&quot; <br>In 1972, Carlos Fonseca Amador, founder and leader of the FSLN, published in Cuba an essay entitled &quot;Notes on the Testimonial Letter of Rigoberto Lopez Perez,&quot; which concluded: &quot;no epistle by an evangelist . . . no decalogue by a hero or treatise on virtue contains more ethical richness than the words of Rigoberto Lopez Perez to his mother, affirmed with his lifeblood&quot;. <br>The themes of Rigoberto’s letter have become almost mythic in Nicaragua — the son or daughter who gives his or her life, but not as a sacrifice; the young revolutionary who wins the support of his or her mother, and often her cooperation, in revolutionary struggle; the dignity of duty, deﬁned as working for the liberation of one’s people; the ideal of the &quot;new person,&quot; drawn from Cuba’s revolution; the revolutionary motivated by feelings of great love (as Che expressed it), who overcomes egoism and fear and commits his or her life to creating a new society. For many in Nicaragua these themes have come alive in their revolution, giving it deep spiritual meaning. Christians see love of one’s neighbor put into practice. Jesus becomes a model for revolutionary Nicaraguans alongside Che Guevara. <br> Somoza&rsquo;s killer, Rigoberto L&oacute;pez P&eacute;rez, was slain on the spot by presidential bodyguards. A twenty-seven-year-old poet, L&oacute;pez P&eacute;rez had loose ties to the dissident PLI, and he had been trained and armed by anti-Somoza former National Guardsmen who lived in exile in El Salvador. Sixteen years later, in his &lsquo;&lsquo;Notes on the Testimonial Letter of Rigoberto L&oacute;pez P&eacute;rez,&rsquo;&rsquo; Fonseca described L&oacute;pez P&eacute;rez as a &lsquo;&lsquo;legitimate child of Sandino,&rsquo;&rsquo; characterizing his action as &lsquo;&lsquo;not just understandable but also justifiable&rsquo;&rsquo; because &lsquo;&lsquo;in the whole country there was no organization, no leadership, no revolutionary consciousness.&rsquo;&rsquo;&ge;&Omega; Fonseca had no praise for L&oacute;pez P&eacute;rez in 1956, however, when he was still committed to nonviolent methods and believed that the PSN provided the leadership Nicaragua needed. <br> Somoza's eldest son, Luis Somoza Debayle, becomes president. President Luis Somoza declared a state of siege after his father&rsquo;s killing and began a roundup of suspected conspirators that was particularly intense in Le&oacute;n. The area surrounding the university was turned into an armed camp, its streets blocked o&radic; by barbed wire and patrolled by the National Guard. Hundreds of students and other dissidents were arrested, including Carlos Fonseca, who had never met L&oacute;pez P&eacute;rez and knew nothing about the assassination plot. Held from September 27 to November 14, Carlos was eventually released without charges, probably as a result of his father&rsquo;s intervention. Tom&aacute;s Borge remained in jail more than two years, winning release only after sustained student protests. <br> Luis Somoza Debayle rules until he dies of a heart attack in 1967.", 
+        "id": "redfistnic1956", 
+        "loc": "nic1", 
+        "source": "The Best of what We are: Reflections on the Nicaraguan Revolution By John Brentlinger and SANDINISTA: Carlos Fonseca and the Nicaraguan Revolution by MATILDE ZIMMERMANN", 
+        "start": 1956, 
+        "title": "The Poet Kills the Dictator", 
+        "type": "redfist"
+    }, 
+
+
+ {
+        "end": 1957, 
+        "entry": "1957 President Eisenhower establishes Office of Public Safety (OPS) to train Latin American police.<br> From the early 1960s until the mid 1970s, the US Office of Public Safety (part of AID), operated The International Police Academy, at first in Panama, then in Washington. It did for foreign police officers what the SOA did for the military. OPS provided training abroad for more than a million policemen in the Third World, ten thousand of whom were selected to come to Washington for advanced training. There may well have been more serious human-rights abusers amongst the OPS police students than amongst the SOA military graduates because of the former's closer and more frequent contact with the populace. Moreover, most of the classes were held abroad, where the instructors could feel less constrained than in Washington or Georgia about lecturing in a very militant manner on %quot;the communist menace&quot; and the use of any means necessary to combat it. Amongst the means sometimes taught was torture.<br> OPS provided the police with weapons, ammunition, radios, patrol cars, tear gas, gas masks, batons and other crowd control devices; a class on Assassination Weapons—&quot;A discussion of various weapons which may be used by the assassin&quot; is how OPS put it; and instruction on the design, manufacture and employment of bombs and incendiary devices, taught at the &quot;bomb school&quot; in Los Fresnos, Texas. The official OPS explanation for the bomb courses was that policemen needed such training in order to deal with bombs placed by terrorists. There was, however, no instruction in destroying bombs, only in making them. <br> When Congress abolished the Public Safety Program in 1975 in response to rising criticism of this dark side of American foreign policy, the Drug Enforcement Administration, with help from the FBI and the Defense Department, quietly stepped in and continued the program. In various reincarnations, the program continues, just as the School of the Americas made it to the 21st century.", 
+        "id": "powerusa1957", 
+        "loc": "usa1", 
+        "source": "Rogue State: A Guide to the World's Only Superpower by William Blum", 
+        "start": 1957, 
+        "title": "The Office of Public Safety, Anything but.", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1958, 
+        "entry": "David Rockefeller initiates U.S. Inter-American Council to promote development of private sector in Latin America.", 
+        "id": "economyusa1958", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1958, 
+        "title": "U.S. Inter-American Council", 
+        "type": "economy"
+    }, 
+
+
+ {
+        "end": 1959, 
+        "entry": "1959 Panamanians march into Canal Zone to raise Panamanian flag on Independence Day, are turned back by U.S. troops.", 
+        "id": "redfistpan1959", 
+        "loc": "pan2", 
+        "source": "", 
+        "start": 1959, 
+        "title": "Panamanians march into Canal Zone to raise Panamanian flag on Independence Day", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1959, 
+        "entry": "Inter-American Development Bank forms to channel multilateral grants and loans to Latin America.<br> The IADB has regularly served as a tool of US foreign policy: <br> Against Chile under Allende, the United States representative at the Inter-American Development Bank was instructed to block all proposals for loans to Chile. When the bank's president protested, the administration forced his resignation. The new president reduced Chile's credit rating from B to D. Private banks followed suit, and the Export-Import Bank, citing the reduction, canceled a scheduled $21 million loan intended to pay for new Boeing jets for Chile's national airline. <br> And against Nicaragua under the Sandanistas, the Nicaraguan government sent a loan request to the Inter-American Development Bank (IDB) in 1985 requesting $100 million to develop its private-sector agriculture. Then US Secretary of State George Shultz sent a letter to the bank threatening to withdraw US support for the bank if the loan was made, but gave no reason as to why this would be the case. A senior IDB official later remarked: &quot;I have never seen such political pressure on the bank as in the last four years.&quot; The blocking of this loan illustrates the hypocrisy of the Reagan administration as the private agricultural sector was the very area that Washington had said it had hoped to preserve against an alleged Marxist takeover. <br> But not all countries have been punished: the brutal Junta in El Salvador was well financed by the bank during both the Carter and Reagan administrations.", 
+        "id": "economyusa1959", 
+        "loc": "usa1", 
+        "source": "America’s Other War: Terrorizing Colombia by Doug Stokes and Overthrow: America's Century of Regime From  Hawaii to Iraq by Stephen Kinzer", 
+        "start": 1959, 
+        "title": "Inter-American Development Bank", 
+        "type": "economy"
+    },
+
+
+
+
+
+ {
+        "end": 1960, 
+        "entry": "U.S. direct investment in Central America over last decade more than doubles to a new total of $747 million.", 
+        "id": "economyusa1960", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1960, 
+        "title": "$747 million", 
+        "type": "economy"
+    }, 
+ {
+        "end": 1960, 
+        "entry": "1960 Panama Canal Zone becomes a key center for training in counterinsurgency.", 
+        "id": "powerpan1960", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1960, 
+        "title": "Panama Canal Zone becomes a key center for training in counterinsurgency.", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1961, 
+        "entry": "1961 Free Costa Rica Movement (MCRL) founded. ", 
+        "id": "redfistcos1961", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1961, 
+        "title": "Free Costa Rica Movement (MCRL) founded.", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1961, 
+        "entry": "Frente Sandinista de Liberacion Nacional (Sandinista National Liberation Front) is founded in Nicaragua. Carlos Fonseca Amador, Tomas Borge, Silvio Mayorga and others found the FSLN (Sandinista Front for National Liberation) and begin clandestine organizing and guerrilla attacks to bring down the Somoza dynasty. Only Borge will live long enough to see the Sandinista victory.", 
+        "id": "redfistnic1961", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1961, 
+        "title": "Founding the FSLN", 
+        "type": "redfist"
+    }, 
+
+
+ {
+        "end": 1961, 
+        "entry": "The right-wing anti-communist group ORDEN is founded in El Salvador by General Jose Alberto Medrano.", 
+        "id": "powerels1961", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1961, 
+        "title": "ORDEN Founded", 
+        "type": "power"
+    },  
+
+ {
+        "end": 1961, 
+        "entry": "1961 The Central American Common Market (CACM) is formed.  U.S. corporate investment in Central America dramatically increases. The Kennedy administration's Alliance for Progress and the establishment of a Central American Common Market (CACM) in the early 1960s initiated a period of highly capital intensive industrialization in Nicaragua dominated by American multinationals who actively exploited the advantages offered not only by a protected regionwide market but also by government tax and other fiscal inducements, a &quot;docile&qiot; labor force, and low wage levels. According to an American businessman who worked in the construction industry, Nicaragua &quot;was an easy place to do business in but you had to know the type of business conducive to low labor costs. Much of the U.S. investment was to take advantage of the agrarian situation - fertile land and low labor costs - or to take advantage of tariff barriers of the CACM.&quot; Central American Bank for Economic Integration (BCIE) is also formed.", 
+        "id": "econels1961", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1961, 
+        "title": "Central American Common Market (CACM) and Central American Bank for Economic Integration (BCIE) are formed.", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1961, 
+        "entry": "Agency for International Development (AID) is established. Foreign Assistance Act states that U.S. aid should be used to assist U.S. economy. Let that sink in for a second. The Office for Public Safety (OPS) is transferred to AID and program expanded. For example, OPS trained more than thirty thousand Guatemalan police personnel between 1961 and 1970 in methods of policing and the control of dissidents.", 
+        "id": "powerusa1961", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1961, 
+        "title": "Agency for International Development (AID) is established.", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1961, 
+        "entry": "President Kennedy creates Alliance for Progress to promote economic development of Latin American countries.", 
+        "id": "powerusa1961", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1961, 
+        "title": "Alliance for Progress created", 
+        "type": "power"
+    }, 
+
+ {
+        "end": 1962, 
+        "entry": "1962 National Sandinista Front for Liberation (FSLN) forms in Nicaragua.", 
+        "id": "redfistnic1962", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1962, 
+        "title": "National Sandinista Front for Liberation (FSLN) forms in Nicaragua.", 
+        "type": "redfist"
+    }, 
+
+ {
+        "end": 1962, 
+        "entry": "1962 U.S.-sponsored Operation Brotherhood, forerunner to CONDECA, stages military exercises with participation by Honduras, Guatemala, Nicaragua, and El Salvador. <br> As well as encouraging the economic integration of Central America, the United States was anxious to promote collaboration and cooperation between the armed forces of the region.<br> The Guatemalan and Nicaraguan governments were the most enthusiastic about the idea. In 1962 two guerrilla movements had appeared in Guatemala, the 13 November Revolutionary Movement (MR 13 de Noviembre) and the Rebel Armed Forces (FAR). In Nicaragua the Sandinista National Liberation Forces (FSLN) was formally founded in 1961.<br> In September 1962, in order to promote coordination, the United States sponsored a series of military exercises which were given the name 'Operation Brotherhood'. They involved armed units from Honduras, Guatemala, El Salvador, Nicaragua, Colombia and the Canal Zone and they centered around a hypothetical guerrilla attack on Honduras national airport. In 1964 with strong United States backing the defense ministers of Guatemala, Honduras, El Salvador and Nicaragua signed an agreement establishing the Central American Defense Council (CONDECA). Costa Rica, whose army had been abolished in 1948, and Panama were given observer status with an option to join. <br> The Objectives of CONDECA were no coordinate action against internal subversion, and to facilitate United States control  over such action. The CIA and the Central American representatives of the United States armed forces acted as advisors to CONDECA. It was also seen as a convenient way of standardizing the training and equipping of the region's armies and reducing regional military rivalries. In addition, the United States tried to use the organization to promote the militarization of Costa Rica and in 1966 Costa Rica secretly took part in one of CONDECA joint maneuvers  known as  'Operation Nicarao.' <br> Altogether some ten anti-guerrilla maneuvers were conducted under the auspice of CONDECA, the last one, 'Operation Aguila VI', took place in Nicaragua in 1976. In 1972 there were strong suggestions that the Nicaragua and Guatemalan air forces helped a right-wing government in El Salvador crush an attempted coup. <br> However the organization never achieved the regional military coordination the United States had hoped for. Honduras withdrew after the war with El Salvador in 1969, and in 1979 the fall of Somoza, whose National Guard had been the backbone of the alliance, further contributed to its decline. By then the United States had in any case reached  the  conclusion  than  regional  rivalries  and  differences prevented the organization becoming an effective instrument of coordinated counter-insurgency and had ceased to have a formal advisory role in is. Nevertheless, CONDECA has left a legacy of friendship and personal ties between the most right-wing army officers of the region and the idea of mutual assistance has not been abandoned.", 
+        "id": "powernic1962", 
+        "loc": "nic1962", 
+        "source": "Under the Eagle by Jenny Pearce", 
+        "start": 1962, 
+        "title": "Brotherhood and Condeca", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1962, 
+        "entry": "1962 American Institute for Free Labor Development (AIFLD) founded to \"respond to threat of Castroite infiltration and eventual control of major labor movements within Latin America.\"", 
+        "id": "powerusa1962", 
+        "loc": "usa", 
+        "source": "", 
+        "start": 1962, 
+        "title": "American Institute for Free Labor Development (AIFLD) Founded", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1963, 
+        "entry": "First communiques signed by the Sandinista Front for National Liberation (FSLN) are issued", 
+        "id": "redfistnic1963", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1963, 
+        "title": "First communiques signed by the Sandinista Front for National Liberation (FSLN) are issued", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1964, 
+        "entry": "The Bracero Program ends.", 
+        "id": "econusa1964", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1964, 
+        "title": "The Bracero Program ends.", 
+        "type": "econ"
+    }, 
+
+
+
+
+    {
+        "end": 1964, 
+        "entry": "Panamanians march into Zone on January 9 after U.S. students raise only U.S. flag. U.S. troops kill 28 Panamanian civilians and wound more than 300. Panama breaks diplomatic relations with United States. Relations resume after United States agrees to discuss new treaty.", 
+        "id": "powerpan1964", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1964, 
+        "title": "Panamanian Flag: resistance and repression", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1964, 
+        "entry": "United States sponsors formation of CONDECA to coordinate Central American military action against internal subversion.", 
+        "id": "powernic1964", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1964, 
+        "title": "CONDECA forms", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1964, 
+        "entry": "The Atlantic Community Development Group for Latin America, dubbed ADELA forms &quot;to promote economic and social progress in Latin America by encouraging development of the private enterprise sector.&quot; Time Reports that &quot;Businessmen the world over agree about the urgent needs of Latin America's economy, but the foreign investors's recent tendency to reduce rather than increase his commitment there. To speed the southward flow of capital and induce more wealthy Europeans and Japanese to help out, a blue-ribbon group of 100 freeworld businessmen meet in Paris to launch a development corporation for Latin America that is both private and multinational. &quot;", 
+        "id": "econeur1964", 
+        "loc": "eur1", 
+        "source": "", 
+        "start": 1964, 
+        "title": "ADELA Forms", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1964, 
+        "entry": "Military overthrow President Joao Goulart with US assistance", 
+        "id": "powerbra1964", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1964, 
+        "title": "Military overthrow President Joao Goulart with US assistance", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1965, 
+        "entry": "Immigration and Nationality Act implemented, ending national origin quotas for immigrants.", 
+        "id": "powerusa1965", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1965, 
+        "title": "Immigration and Nationality Act implemented", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1965, 
+        "entry": "United Brands acquires Numar, a Costa Rican margarine plant. It continues to diversify its ownership along with two other banana companies, Standard Fruit and R.J. Reynolds.", 
+        "id": "econcos1965", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1965, 
+        "title": "United Brands acquires Numar, a Costa Rican margarine plant.", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1966, 
+        "entry": "U.S. Special Forces coordinate Operation Guatemala, a counterinsurgency campaign which kills over 8,000 people.", 
+        "id": "massacregua1966", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1966, 
+        "title": "U.S. Special Forces coordinate Operation Guatemala", 
+        "type": "massacre"
+    }, 
+
+
+
+
+    {
+        "end": 1967, 
+        "entry": "Association of American Chambers of Commerce in Latin America (AACCLA) is established.", 
+        "id": "economyusa1967", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1967, 
+        "title": "Association of American Chambers of Commerce in Latin America (AACCLA) is established.", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1968, 
+        "entry": "Salvadoran Communal Union (UCS) forms with AIFLD's assistance.", 
+        "id": "econels1968", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1968, 
+        "title": "Salvadoran Communal Union (UCS) forms with AIFLD's assistance.", 
+        "type": "economy"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1968, 
+        "entry": "Col. Omar Torrijos overthrows government of wealthy landowners and becomes head of more nationalist military government. Period of reforms begins with expansion of literacy, education, health, rural development, trade union organization and wage laws. Blacks, Mestizos and Indians are appointed to government positions for first time. General Manuel Antonio Noriega becomes head of armed forces.", 
+        "id": "powerpan1968", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1968, 
+        "title": "Col. Omar Torrijos overthrows government", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1969, 
+        "entry": "The Soccer War breaks out between El Salvador and Honduras. The Central American Common Market collapses.", 
+        "id": "warhon1969", 
+        "loc": "hon1", 
+        "source": "1969", 
+        "start": 1969, 
+        "title": "The Soccer War", 
+        "type": "war"
+    }, 
+
+
+
+    {
+        "end": 1969, 
+        "entry": "U.S. government creates Inter&middot;American Foundation to &quot;strengthen the bonds of friendship&quot; between Latin America and United States.", 
+        "id": "powerusa1969", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1969, 
+        "title": "Inter-American Foundation Formed", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1970, 
+        "entry": "U.S. direct investment over last decade more than doubles to a new total of $1,732 million.", 
+        "id": "econusa1970", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1970, 
+        "title": "U.S. direct investment over last decade more than doubles", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1970, 
+        "entry": "David Rockefeller-led Council of the Americas supersedes Council for Latin America", 
+        "id": "econusa1970", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1970, 
+        "title": "Council of the Americas supersedes Council for Latin America", 
+        "type": "economy"
+    }, 
+
+{
+        "end": 1970, 
+        "entry": "International Finance Center is established in Panama City.", 
+        "id": "econpan1970", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1970, 
+        "title": "International Finance Center is established in Panama City.", 
+        "type": "economy"
+    },
+
+
+    {
+        "end": 1970, 
+        "entry": "With removal of subsidies, owners abandon the rubber estates or sell to cattle ranchers from other parts of Brazil", 
+        "id": "econbra1970", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1970, 
+        "title": "Owners abandon the rubber estates", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1970, 
+        "entry": "U.S. corporations form Latin American Agribusiness Development Corporation (LAAD) to promote production of non-traditional exports from Latin America.", 
+        "id": "econusa1970", 
+        "loc": "usa4", 
+        "source": "", 
+        "start": 1970, 
+        "title": "Latin American Agribusiness Development Corporation Forms", 
+        "type": "economy"
+    }, 
+
+
+
+
+
+    {
+        "end": 1971, 
+        "entry": "Over next four years three separate guerilla organizations form in El Salvador.", 
+        "id": "redfistels1971", 
+        "loc": "els2", 
+        "source": "", 
+        "start": 1971, 
+        "title": "Guerrilla Organizations forming", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1971, 
+        "entry": "Established as an agency of the US government, the Overseas Private Investment Corporation (OPIC) is created to insure and guarantee U.S. investors.", 
+        "id": "economyusa1971", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1971, 
+        "title": "OPIC Created", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1972, 
+        "entry": "1972 Earthquake devastates Managua; corruption by Anastasio Somoza Debayle associated with the relief effort turns many elites and middle class against Somoza", 
+        "id": "environic1972", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1972, 
+        "title": "Earthquake devastates Managua", 
+        "type": "environment"
+    }, 
+
+
+
+
+    {
+        "end": 1972, 
+        "entry": "Ruling Junta is confirmed by election.", 
+        "id": "powerpan1972", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1972, 
+        "title": "Ruling Junta is confirmed by election.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1974, 
+        "entry": "U.S. Congress abolishes OPS upon discovery that police are being trained in torture techniques.", 
+        "id": "powerusa1974", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1974, 
+        "title": "Congress bans Office of Public Safety", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1974, 
+        "entry": "Five Central American countries form Union of Banana Exporting Countries (UPEB) to increase their control in banana market.", 
+        "id": "econcol1974", 
+        "loc": "col1", 
+        "source": "", 
+        "start": 1974, 
+        "title": "UPEB forms", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1974, 
+        "entry": "Brazils' Rural Workers unions of Xapuri and Brasileia founded", 
+        "id": "econbra1974", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1974, 
+        "title": "Rural workers Unions Founded", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1974, 
+        "entry": "In 1974, the International League for the Rights of Man and the Inter-American Association for Democracy and Freedom issued the charge that the government of Paraguay was complicit in genocide against the Guayaki Indians (Ach&eacute;). In doing so, the two organizations &#64257;led a complaint with the United Nations secretary-general in which they listed a series of alleged violations that they claimed would ultimately lead to the disappearance of the Guayaki ethnic group. Most of the killings&mdash;as well as the forcible transfer of Ach&eacute; children&mdash;had been committed by Paraguayan ranchers, farmers, and laborers and not by members of the Paraguayan army or police forces. Some scholars and activists argued at the time that de facto genocide had occurred and that the Paraguayan government was responsible due to the fact that it had failed to adequately protect its citizens. It was also argued that the Paraguayan government purposely disregarded the actions against the Ach&eacute; because it favored the opening up of lands for ranching, farming, and other uses. During the debate that ensued over the plight and fate of the Ach&eacute;, it was argued by some that the issue of the &ldquo;intent&rdquo; to commit genocide was difficult, if not impossible, to establish in a clear and decisive manner. Leo Kuper (1908&ndash;1994), an early and noted genocide scholar, countered (in his book, Genocide: Its Political Use in the Twentieth Century. New Haven, CT: Yale University, 1981) that intent could be imputed when such killings and kidnapping had become an established practice, and, he continued, the latter is exactly what the Ach&eacute; had faced.", 
+        "id": "massacrepar1974", 
+        "loc": "par1", 
+        "source": "DICTIONARY OF GENOCIDE", 
+        "start": 1974, 
+        "title": "Paraguay Charged with Genocide against Indigenous", 
+        "type": "massacre"
+    }, 
+
+
+
+
+    {
+        "end": 1975, 
+        "entry": "People's Vanguard Party (PVP) again legalized.", 
+        "id": "redfistcos1975", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1975, 
+        "title": "People's Vanguard Party (PVP) again legalized.", 
+        "type": "1975"
+    }, 
+
+
+
+
+
+    {
+        "end": 1975, 
+        "entry": "Offshore light assembly industries start to locate in Central America because of cheap labor and tax incentives.", 
+        "id": "econgua1975", 
+        "loc": "gua1975", 
+        "source": "", 
+        "start": 1975, 
+        "title": "Offshore light assembly industries start to locate in Central America because of cheap labor and tax incentives.", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1975, 
+        "entry": "Harkin Amendment states foreign assistance won't be sent to governments with gross human rights violations.", 
+        "id": "powerusa1975", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1975, 
+        "title": "Harkin Amendment", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1976, 
+        "entry": "Carlos Fonseca, founder of the FSLN, is killed.", 
+        "id": "powernic1976", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1976, 
+        "title": "Carlos Fonseca, founder of the FSLN, is killed.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1977, 
+        "entry": "Honduran soldiers arrive in Standard Fruit's railroad cars to destroy successful Las Isletas banana cooperative.", 
+        "id": "powerhon1977", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1977, 
+        "title": "Honduran Soldiers attack Las Isletas Banana cooperative", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1977, 
+        "entry": "Guatemala and El Salvador reject U.S. aid because of human rights attachments.", 
+        "id": "powergua1977", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1977, 
+        "title": "Guatemala and El Salvador reject U.S. aid because of human rights attachments.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1977, 
+        "entry": "Comunbana forms as marketing arm of UPEB. In Panama, United Brands refuses to load Comunbana ships and government threatens to nationalize United Brands acreage.", 
+        "id": "powerpan1977", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1977, 
+        "title": "Comunbana and United Tangle", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1977, 
+        "entry": "Three treaties known as Torrijos-Carter treaties are signed. Key provisions include total return of U.S. military bases and Canal Zone to Panarna by year 2000; no interference in Panama's internal affairs; and restrictions on U.S. military presence in Panama.", 
+        "id": "redstarpan1977", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1977, 
+        "title": "torrijos-Carter Treaties Signed", 
+        "type": "1977"
+    }, 
+
+
+
+
+    {
+        "end": 1977, 
+        "entry": "Carter Administration cuts off military aid to Guatemala because of continuing human rights violations there.", 
+        "id": "powerusa1977", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1977, 
+        "title": "Carter Administration cuts off military aid to Guatemala because of continuing human rights violations", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1978, 
+        "entry": "Rodrigo Carazo becomes president. Costa Rica's severe economic crisis begins. Costa Rica quietly supports Sandinistas' military operations along border with Nicaragua.", 
+        "id": "powercos1978", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1978, 
+        "title": "Carazo Becomes President", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1978, 
+        "entry": "Jan. 10<br>Managua newspaper editor Pedro Joaquin Chamorro, leading critic of the conservative opposition to the Somoza regime, is assassinated, presumably at the orders of dictator Anastasio Somoza Debayle. The death of the widely respected  editor sparks rioting and serves as a catalyst in bringing together anti-Somoza forces. ", 
+        "id": "powernic1978", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1978, 
+        "title": "Chamorro Killed by Somoza", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1978, 
+        "entry": "Aug. 22<br> A group of 25 Sandinistas led by Commander Zero - Eden Pastora - takes the National Palace in Managua, holding 1,500 hostages, including 49 deputies of the national assembly. The two-day occupation focuses world attention on Nicaragua and the Sandinistas. ", 
+        "id": "redfistnic1978", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1978, 
+        "title": "Commander Zero Leads Occupation of National Palace", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1979, 
+        "entry": "Torrijos-Carter Treaties take effect establishing joint United States-Panamanian control over Panama Canal. 65% of the Zone reverts to Panamanian control.", 
+        "id": "econpan1979", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "Torrijos-Carter Treaties take effect", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1979, 
+        "entry": "General Figueiredo takes over as president of Brazil promising to restore democracy. The two party system is abolished and six new parties formed, including the PT.", 
+        "id": "powerbra1979", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "General Figueiredo takes over as president ", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1979, 
+        "entry": "President Carter sets up airborne Caribbean Task Force.", 
+        "id": "powerusa1979", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "President Carter sets up airborne Caribbean Task Force", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1979, 
+        "entry": "May 19<br> Sandinista forces begin their final offensive from Costa Rica. ", 
+        "id": "redfistcos1979", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "Sandinista forces begin their final offensive from Costa Rica", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1979, 
+        "entry": "June 20<br>ABC correspondent Bill Stewart is murdered by a National Guardsman in Managua in full view of U.S. television cameras.", 
+        "id": "powernic1979", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "ABC Correspondent Murdered by a National Guardsman in Managua in full view of U.S. television cameras.", 
+        "type": "power"
+    }, 
+
+
+
+ 
+
+    {
+        "end": 1979, 
+        "entry": "July 17<br> Sandinistas topple Somoza dictatorship in Nicaragua.<br> Anastasio Somoza Debayle resigns and goes into exile in Miami. His National Guard surrenders to the Sandinistas two days later. Sandinistas lead a broad-based coalition of forces which overthrows the Somoza government and comes to power; revolutionary junta established consisting of three Sandinistas, Violeta Chamorro, and businessman Alfonso Robelo, but in reality it was the nine-member Sandinista National Directorate that held power in the country. The FSLN composed slogans for each year that they were in power. Early slogans included:<br> 1979: Year of Liberation<br>1980: Year of Literacy<br>1981: Year of Defense and Production<br>1982: Year of Unity against the Aggression<br>1983: Year of Struggle for Peace and Sovereignty<br>Just imagine the absolute tantrums happening in Washington D.C. at the news of this.", 
+        "id": "redfistnic1979", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "Sandinistas topple Somoza dictatorship in Nicaragua.", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1979, 
+        "entry": "Oct. 10<br> Sandinista hit team kills Somocista leader Comandante Bravo (Major Pablo Emilio Salazar) in Honduras.", 
+        "id": "redfisthon1979", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "Somocista leader Emilio Salazar killed in Honduras", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1979, 
+        "entry": "Oct. 15<br> Reform-minded officers in El Salvador overthrow the dictatorship of General Carlos Humberto Romero. ", 
+        "id": "powerels1979", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "officers in El Salvador Overthrow the Dictatorship", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "1979 to 1981 <br> Contra resistance forces formed from former National Guardsmen in Honduras; President Reagan assists in organizing and arming them.", 
+        "id": "powerhon19791981", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1979, 
+        "title": "The Contras Start Up", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1980, 
+        "entry": "Beginning of literacy and co-operative projects in Xapuri. Increasing conflicts with ranchers. Empates begin.", 
+        "id": "redfistbra1980", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Brazilian Worker Resistance", 
+        "type": "redfist"
+    }, 
+
+
+{
+        "end": 1980, 
+        "entry": "President of the Brasileia rural Workers Union, Wilson Pinheiro, assassinated", 
+        "id": "powerbra1980", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Pinheiro Assassinated", 
+        "type": "power"
+    },
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "First U.S./Argentine involvement in covert aid to Guardia exiles.", 
+        "id": "powernic1980", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "U.S./Argentine involvement in covert aid to Guardia exiles", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1980, 
+        "entry": " Infighting and Instability in the El Salvadoran Juntas<br> Jan. 3, 1980 Mass resignations from the Salvadorean government, including the three civilians in the junta. <br> Jan. 10, 1980  A second junta is formed in El Salvador, two prominent Christian Democrats fill vacancies in the junta.<br> March 6, 1980  The Salvadoran junta announces plans for agrarian reform.  This is followed by an upsurge in government repression.<br> March 9, 1980 A third Salvadorean junta is formed. Jose Napoleon Duarte of the PDC joins the junta. Mass PDC defections by members unwilling to be associated with the government follow. Dec. 13, 1980 Jose Napoleon Duarte, a member of the junta since March, is named president. ", 
+        "id": "powerels1980", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Infighting and Instability in the El Salvadoran Juntas", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1980, 
+        "entry": "Ronald Reagan campaigns for President with promise not to give up Canal.", 
+        "id": "powerusa1980", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Reagan campaigns for President with promise not to give up Canal.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "U.S. direct investment over last decade more than doubles to a new total of $4,223 million.", 
+        "id": "econusa1980", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1980, 
+        "title": "U.S. direct investment over last decade again doubles", 
+        "type": "economy"
+    }, 
+
+
+
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "In Guatemala workers win a five year union struggle against Coca-Cola.", 
+        "id": "redfistgua1980", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Guatemalan workers win a five year union struggle against Coca-Cola", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "Amigos del Pais and Guatemalan Freedom Foundation hire U.S. public relations firms to launch a campaign in United States praising Guatemalan government.", 
+        "id": "powergua1980", 
+        "loc": "gua2", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Praise", 
+        "type": "1980"
+    }, 
+
+    {
+        "end": 1980, 
+        "entry": " U.S. economic aid to El Salvador is resumed. Total for 1980 is $150 million. March 27, 1980 USAID grants 13 million dollars in aid to El Salvador. The American Institute for Free Labor Development sponsors agrarian reform program in El Salvador. April 1, 1980 U.S. House of Representatives Appropriations Committee approves $5.7 million in military aid to El Salvador.", 
+        "id": "powerels1980", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "U.S. economic aid to El Salvador is resumed. Total for 1980 is $150 million.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "April 15, 1980<br> A coalition of over 50 mass organizations join together to form Revolutionary Democratic Front (FOR) in El Salvador. The Frente Democratico Revolucionario (Democratic Revolutionary Front--FDR) is formed in El Salvador.<br> Also in 1980, Farabundo Marti Liberation Front (FMLN) is established as umbrella organization for the five guerilla organizations of El Salvador. ", 
+        "id": "redfistels1980", 
+        "loc": "els2", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Revolutionary Organizations Join Together", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "May 14, 1980 Massacre of Salvadorean peasants trying to flee into Honduras at the Rio Sumpul. Six hundred killed by Salvadorean troops acting in unison with Honduran forces. Oct. 4, 1980 The Salvadorean Army begins a military offensive in Morazan, resulting in 3000 peasants killed and over 20,000 refugees. Nov. 27, 1980 Six leaders of the FDR are kidnapped in San Salvador with the assistance of the military; later their tortured bodies are found. Dec. 2, 1980 Four religious workers from the U.S. are killed after returning to El Salvador from a short trip. Their bodies are found in shallow graves near the airport. Members of El Salvador's National Guard are blamed for their deaths. Three days later President Carter suspends all aid to El Salvador. The women's murderers have yet to be brought to justice.   ", 
+        "id": "massacreels1980", 
+        "loc": "els3", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Government Repression Increases", 
+        "type": "massacre"
+    }, 
+
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "1980  AID funds Caribbean/Central American Action (C/CAA) to promote private sector interest in region.", 
+        "id": "econusa1980", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Caribbean/Central American Action Forms", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1980, 
+        "entry": "Sept. 17<br> Argentine led hit team working for the Sandinistas assassinates deposed Nicaraguan dictator Anastasio Somoza in Paraguay.", 
+        "id": "redfistpar1980", 
+        "loc": "par1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Somoza Assassinated", 
+        "type": "1980"
+    }, 
+
+
+
+    {
+        "end": 1980, 
+        "entry": "Two guerilla organizations come in public view in Honduras. ", 
+        "id": "redfisthon1980", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Two guerilla organizations come in public view in Honduras.", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1980, 
+        "entry": "Dec. 13<br>Contra war launched with attack by September 15th Legion against Radio Noticias del Continente, a leftist radio station in Costa Rica. ", 
+        "id": "powernic1980", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1980, 
+        "title": "Contra War Launches", 
+        "type": "power"
+    }, 
+
+{
+        "end": 1981, 
+        "entry": "1981 The U.S. Select Commission on Immigration and Refugee Policy releases its final report.", 
+        "id": "powerusa1981", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1981, 
+        "title": "The U.S. Select Commission on Immigration and Refugee Policy releases its final report.", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1981, 
+        "entry": "Jan. 5<br> North Americans Michael Hammer and Mark Pearlman, working as advisers to El Salvador's agrarian reform program, together with Jose Viera, head of the Salvadorean agrarian reform agency, are gunned down in San Salvador under orders of soldiers trained at the US School of Americas. ", 
+        "id": "powerels1981", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "The Sheraton Dining Room Murders", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1981, 
+        "entry": "Feb. 10, 1981<br> The new Reagan administration gives an aid package of $64 million to El Salvador and suspends aid disbursement of $15 million to Nicaragua.<br> Feb. 23, 1981<br> State Department releases a white paper showing what it calls &quot;definitive evidence&quot; that leftist rebels of El Salvador are receiving arms and training from communist countries, especially Cuba, with the help of Nicaragua. <br>   March 3, 1981<br> Reagan administration announces that 20 more U.S. military advisers will be sent to El Salvador, bringing the total number to more than 50. It also announces $25 million in additional military aid to El Salvador. <br> March 9, 1981<br> Reagan signs his first Presidential Finding authorizing $19.5 million for CIA operations in Nicaragua.  <br> APRIL 1, 1981<br> Reagan terminates $118 million in U.S. aid to Nicaragua (obtained by Jimmy Carter) despite report of the U.S. ambassador in Managua that Sandinistas had halted transshipment of arms to leftist guerrillas in El Salvador. United States suspends aid to Nicaragua claiming that Cuban arms are moving to El Salvador through Nicaragua. <br> June 1981<br> Credibility of State Department's white paper destroyed by several articles in the U.S. press which refute it on every point. AUGUST 11-12 Assistant Secretary of State Thomas Enders discusses a negotiated resolution of differences with the Sandinistas, centering on their military buildup and support for leftist insurgencies.<br> NOVEMBER 16, 1981<br> Reagan approves proposal to provide $19.95 million in support for contra rebels to CIA to destabilize Nicaraguan government. ", 
+        "id": "powerusa1981", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Reagan bares his teeth at El Salvador", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1981, 
+        "entry": "December 1981 <br> U.S.-trained Salvadoran Brigade, Atlacatl, is responsible for murdering 1,000 civilians during search and destroy missions.    ", 
+        "id": "massacreels1982", 
+        "loc": "els2", 
+        "source": "", 
+        "start": 1981, 
+        "title": "The Atlacatl Brigade", 
+        "type": "massacre"
+    }, 
+
+    {
+        "end": 1981, 
+        "entry": "Jan. 10, 1981 Guerrillas' unsuccessful &quot;final offensive&quot; launched in El Salvador.", 
+        "id": "redfistels1981", 
+        "loc": "els3", 
+        "source": "", 
+        "start": 1981, 
+        "title": "subtitle", 
+        "type": "type"
+    }, 
+
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "JANUARY 20, 1981 <br> Ronald Reagan inaugurated as President. From 1981 to 1988, the Reagan administration wages a &lsquo;low-intensity&rsquo; war against the Sandinistas.", 
+        "id": "massacreels1981", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Reagan Elected.", 
+        "type": "massacre"
+    }, 
+
+
+
+    {
+        "end": 1981, 
+        "entry": "U.S. resumes military assistance in Costa Rica after 14-year hiatus.", 
+        "id": "powercos1981", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "U.S. resumes military assistance in Costa Rica after 14-year hiatus.", 
+        "type": "power"
+    }, 
+
+ 
+
+
+
+    {
+        "end": 1981, 
+        "entry": "February 1981<br> United States sponsors a peace treaty between El Salvador and Honduras.<br>  April 1981<br> At a meeting with CIA Director William Casey, Honduran army Colonel Gustavo Alvarez Martinez proposes that the United State's back anti-Sandinista insurgents based in Honduras in a plan leading to direct U. S. intervention to oust the government in Managua.<br>  AUGUST 1981<br> Casey's newly appointed operations director for Latin America, Duane Clarridge, twice visits Honduras to signal U. S. go-ahead for Alvarez proposal. A team of 21 U.S. military advisors, including four Green Berets, arrives in Honduras. <br> Nov. 29, 1981<br> Roberto Suazo Cordova elected president of Honduras; he later appoints Colonel Gustavo Alvarez as commander-in-chief. ", 
+        "id": "powerhon1981", 
+        "loc": "hon2", 
+        "source": "", 
+        "start": 1981, 
+        "title": "The Honduran Government Offers to Assist the Repression", 
+        "type": "1981"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "July<br> Panama's General Torrijos dies in plane crash.", 
+        "id": "powerpan1981", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "General Torrijos dies in plane crash.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "July 8, 1981 Pastora resigns as Nicaragua's Vice Minister of Defense and goes into exile. ", 
+        "id": "power", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1981, 
+        "title": "subtitle", 
+        "type": "type"
+    }, 
+
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "Aug. 1981 Brooklyn Rivera goes into exile.  ", 
+        "id": "indnic1981", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Brooklyn Rivera goes into exile.", 
+        "type": "ind"
+    }, 
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "August Costa Rica becomes first Latin American country to cease debt payments. ", 
+        "id": "econcos1981", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Costa Rica becomes first Latin American country to cease debt payments.", 
+        "type": "economy"
+    }, 
+
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "August 1981  Americas Society forms as an umbrella organization to coordinate activities of various institutions promoting private sector development in Latin America. David Rockefeller forms it.", 
+        "id": "econusa1981", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1981, 
+        "title": "David Rockefeller forms Americas Society", 
+        "type": "economy"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "AUGUST 11 1981 Nicaraguan Democratic Forces (FDN), backed by Reagan and the CIA, formed in Guatemala city. It is one of the earliest Contra groups", 
+        "id": "powergua1981", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Nicaraguan Democratic Forces (FDN) formed in Guatemala city.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "Aug. 28, 1981 Mexico and France issue a joint communique recognizing the FDR-FMLN, the umbrella organization of the Salvadorean opposition, as a &quot;representative political force.&quot;", 
+        "id": "powereur1981", 
+        "loc": "eur1981", 
+        "source": "", 
+        "start": 1981, 
+        "title": "FDR-FMLN Recognized", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "September 1981 Belize gains independence from United Kingdom. Part of the reason this takes so long is because the military governments refuse to promise not to invade Belize and take it over.", 
+        "id": "redfistbel1981", 
+        "loc": "bel1", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Belize gains independence from United Kingdom.", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1981, 
+        "entry": "Nov. 1981 Misura launches &quot;Red Christmas&quot; offensive along Coco River, marking start of contra war on Nicaragua's Atlantic Coast. ", 
+        "id": "powernic1981", 
+        "loc": "nic3", 
+        "source": "", 
+        "start": 1981, 
+        "title": "Contra War Starts on Atlantic Coast", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1982, 
+        "entry": "1982  U.S./Argentine covert aid unites Legion 15 de Septiembre and MILPAS; combined unit becomes Fuerza Democratica Nicaraguense (Contras).  Feb. 1982 Pastora meets with CIA official Duane Clarridge and agrees to open Southern Front.  March 15, 1982 Amid growing tension with the United States, the Sandinista government declares a state of emergency in Nicaragua.  April 15, 1982 Pastora publicly breaks with Sandinistas at San Jose press conference.  April 1982 Alfonso Robelo leaves Nicaragua for exile in Costa Rica.   AUGUST 20, 1982  Enders outlines U.S. policy on Nicaragua in San Francisco speech, adding democratization to list of U.S. conditions for normal relations.  Sept. 1982 Pastora, Robelo, Fernando (&quot;El Negro&quot;) Chamorro, and Rivera form ARDE (Democratic Revolutionary Alliance).  1982  Nicaragua unable to get loans from World Bank due to U.S. pressure", 
+        "id": "warnic1982", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Pressure Builds", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1982, 
+        "entry": "Feb. 1982 A Sandinista commando unsuccessfully tries to kill Negro Chamorro in his San Jose apartment.", 
+        "id": "warnic1982", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1982, 
+        "title": "The Failed Killing of Chamorro", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1982, 
+        "entry": "January 1982 President Reagan proposes Caribbean Basin Initiative (CBI) which significantly increases U.S. economic aid to Central America. At same time he also proposes increases in military aid for Central America.  DECEMBER 8, 1982  Democratic-controlled House bans covert aid for purpose of overthrowing the Sandinistas.  Dec. 21, 1982 Congress passes first Boland Amendment prohibiting use of CIA and other u.s. funds for toppling the Nicaraguan government. Boland Amendment to the 1973 War Powers Act prohibits U.S. funds from being used to overthrow government of Nicaragua.  August 1982 Congress passes a revised CBI proposal and additional military aid for Central America increasing fiscal year 1982 economic aid for Central America by $200 million and military aid by $12 million. ", 
+        "id": "powerusa1982", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Congress Attempts to Reign in Reagan, or does it?", 
+        "type": "1982"
+    }, 
+
+
+
+    {
+        "end": 1982, 
+        "entry": "October 7, 1982 Hector Frances &quot;kidnapped&quot; in San Jose and later reveals details of CIA/FDN operations in Costa Rica.  Late 1982 CIA begins locating airstrips and training camps for contras in Costa Rica.  ", 
+        "id": "warcos1982", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Costa Rica Serves Reagan's Hatred for Nicaragua", 
+        "type": "war"
+    }, 
+
+
+
+    {
+        "end": 1982, 
+        "entry": "1982 Debt crisis breaks, forcing Brazil to turn to the International Monetary Fund (lMF) for assistance ", 
+        "id": "econbra1982", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Debt Crisis Breaks in Brazil", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1982, 
+        "entry": "January 1982 Reagan Administration begins bringing 1,600 Salvadoran soldiers and officers to United States for training.", 
+        "id": "powerusa1982", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Reagan trains 1,600 Salvadoran soldiers and officers", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "March 28, 1982 In the midst of civil war and government repression, and under a state of siege, elections are held in El Salvador. They result in a victory by right-wing parties which threaten to squeeze the Christian Democrats remaining in the government out of power. Roberto &quot;Blowtorch&quot; D'Aubuisson, former death-squad leader, becomes head of the new Constituent Assembly. Alvarado Magana becomes president of El Salvador.", 
+        "id": "powerels1982", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "The Shift Right", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "July 27, 1982 Reagan certifies that the human rights situation is improving in El Salvador and that reforms are proceeding there, contrary to evidence from international human rights monitoring agencies and other groups. In the period immediately following the certification, government killings of civilians soar.", 
+        "id": "massacreels1982", 
+        "loc": "els2", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Reagan is Happy with El Salvador", 
+        "type": "massacre"
+    }, 
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "May 19, 1982 The Salvadorean Constituent Assembly, now dominated by parties to the right of the Christian Democrats, calls a halt to the agrarian reform.", 
+        "id": "econels1982", 
+        "loc": "els3", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Halting the Agrarian Reforms", 
+        "type": "1982"
+    }, 
+
+
+    {
+        "end": 1982, 
+        "entry": "February 1982 In Guatemala, four main guerilla groups form Guatemalan National Revolutionary United (URNG).", 
+        "id": "redfistgua1982", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "URNG forms", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1982, 
+        "entry": "March 23, 1982 A military coup in Guatemala overthrows the lame-duck government of Romeo Lucas Garcia after Garcia's candidate, Gen. Anibal Guevara, had been declared the winner in allegedly fraudulent elections. A three-man junta takes over, led by retired General Efraln Rios Montt, a born-again Christian with ties to U.S. evangelical organizations.  June 9, 1982 General Efrain Rios Montt drops the other members of the junta and takes over as sole leader of Guatemala.  June 30, 1982 Montt announces a state of siege in Guatemala and declares war on leftist guerrillas, whom he says will be executed upon conviction.", 
+        "id": "powergua1982", 
+        "loc": "gua2", 
+        "source": "", 
+        "start": 1982, 
+        "title": "The Rise of Rios Montt", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "Daniel Chaij, Director of AID (U.S. Agency for International Development) in Costa Rica arrives. He advances a neo-liberal agenda and his work neatly overlaps with CIA objectives.", 
+        "id": "econcos1982", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Chaij Arrives in Costa Rica", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "January 1982 With U.S. prodding, Costa Rica, El Salvador, and Honduras form Central American Democratic Community (CDC) to stimulate private sector development and to provide mutual aid in case of external aggression.", 
+        "id": "powerhon1982", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Central American Democratic Community Forms", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "May 1982  Luis Alberto Monge becomes president of Costa Rica, taking place of Rodrigo Carazo. He quickly negotiates agreements with IMF (International Monetary Fund) and AID.", 
+        "id": "economycos1982", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Luis Alberto Monge becomes president, goes to IMF", 
+        "type": "economy"
+    }, 
+
+
+
+
+
+    {
+        "end": 1982, 
+        "entry": "July 1982  Aristides Royo exits as president of Panama and former vice president Ricardo de la Espriella enters, marking a move to the right with increasing influence of the National Guard. ", 
+        "id": "powerpan1982", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "Panama Shifts Rightward", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1982, 
+        "entry": "August 1982 UN High Commission on Refugees reports it has 287,000 registered refugees in Mexico and Central America.", 
+        "id": "econmex1982", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1982, 
+        "title": "287,000 registered refugees", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "1983 General Noriega is named Commander of newly created Panamanian Defense Forces.", 
+        "id": "powerpan1983", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1983, 
+        "title": "Noriega is named Commander of newly created Panamanian Defense Forces.", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "Jan. 8-9, 1983 Foreign Ministers of Panama, Venezuela, Colombia, Mexico form the Contadora Group to seek negotiated end to Nicaraguan war. ", 
+        "id": "warven1983", 
+        "loc": "ven1", 
+        "source": "", 
+        "start": 1983, 
+        "title": "Contadora Group Formed.", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "May 1983 Felipe Vidal's Cuban contingent, later known as the International Brigade, arrives to join Southern Front. The CIA and the Defense Department arrange for Israel to transfer captured PLO weapons to contras. Known as &quot;Operation Tipped Kettle,&quot; the deal is overseen by Richard Secord, who had just retired from the military under a cloud of scandal.", 
+        "id": "warcos1983", 
+        "loc": "cos8", 
+        "source": "", 
+        "start": 1983, 
+        "title": "Operation Tipped Kettle", 
+        "type": "war"
+    }, 
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "June 29, 1983 Bomb carried by two Nicaraguans explodes prematurely in San Jose parking lot, killing one. The pair were Sandinista agents sent to kill ARDE political leader Alfonso Robelo.", 
+        "id": "warcos1983", 
+        "loc": "cos5", 
+        "source": "", 
+        "start": 1983, 
+        "title": "Sandinistas fail to assassinate ARDE political leader Alfonso Robelo", 
+        "type": "type"
+    }, 
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "July 21-23,1983 John Hull, Luis Rivas, and Bill Crone visit Washington to lobby against Pastora. They meet with Oliver North, Sen. Dan Quayle, and Robert Owen.", 
+        "id": "powerusa1983", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1983, 
+        "title": "The Anti-Pastoras Lobby", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "July 28, 1983  For the first time since Reagan took office, the house votes down contra aid.  Dec. 8, 1983 Congress passes $24 million aid package to contras, stipulating that when funds run out, CIA must withdraw. This prompts Reagan administration to approach third countries for support and to set up covert North network to run war. ", 
+        "id": "powerusa1983", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1983, 
+        "title": "For the first time since Reagan took office, the house votes down contra aid.", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1983, 
+        "entry": "1983 The IMF imposed austerity programme leads to a 3.5 per cent drop in national output and food riots in Sao Paulo ", 
+        "id": "econbra1983", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1983, 
+        "title": "IMF Austerity Program leads to Food Riots", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1983, 
+        "entry": "April 15, 1983 ARDE issues call for armed struggle.", 
+        "id": "warnic1983", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1983, 
+        "title": "ARDE issues call for armed struggle.", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "May 1, 1983 ARDE's first military action, against El Castillo Viejo on San Juan River.   Sept. 8-9, 1983 ARDE air attack against Managua airport and tanks at Corinto port.  Sept. 15-17, 1983 ARDE attack Sandinista garrison at El Castillo on San juan River.   Sept. 28, 1983 ARDE attack at Pefias Blancas, first in series of CIA-orchestrated border incidents.   ", 
+        "id": "warnic1983", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1983, 
+        "title": "ARDE attacks", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "June 5, 1983 Felipe Vidal and sixteen other &quot;private volunteers&quot; from Miami arrive in Costa Rica to join the contras. Some members of this &quot;International Brigade&quot; work for the CIA, are involved in drug trafficking, and plot to replace Pastora and Brooklyn Rivera with commanders aligned with the FDN.", 
+        "id": "warcos1983", 
+        "loc": "cos6", 
+        "source": "", 
+        "start": 1983, 
+        "title": "CIA shenanigans", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "Sept. 9, 1983 ETA guerrilla Gregoria Jimenez is arrested and jailed in Costa Rica and accused of being part of a Sandinista hit team sent to kill Pastora. Jimenez claims he was to spy on, not kill, Pastora and other contra leaders. ", 
+        "id": "warcos1983", 
+        "loc": "cos4", 
+        "source": "", 
+        "start": 1983, 
+        "title": "ETA guerrilla Gregoria Jimenez arrested and accused of being sent to kill Pastora.", 
+        "type": "war"
+    }, 
+
+
+
+    {
+        "end": 1983, 
+        "entry": "Sept. 15: Monge's Neutrality Proclamation.  The  Monge administration was clearly inclined to intervene more directly against   the contra camps on its border once death-squad style murders of leftist Costa   Rican citizens and burning and looting of stores owned by contra supporters   began. The Monge administration moved consistently after mid-1983 toward a more   effectively neutral position vis a vis the Nicraguan border fighting in   particular, and the Central American crisis in general. This move was opposed   throughout by the United States and important Rightist elements within Costa   Rica, and even within the administration itself. TEXT OF COSTA RICAN NEUTRALTY STATUTE  &quot;We declare that Costa Rica will observe neutrality in all   armed conflicts affecting the states of the international   community, subject to the following:   Active   Our neutrality does not imply impartiality in ideological   and political conflicts in the world. Costa Rica has   maintained and will continue to maintain the political and   social concepts it shares with Western democracies. This   neutrality will not prevent it from actively exercising its   rights as a member of the United Nations and the OAS in all   actions aimed at preserving international peace and security,   except those having military implications; at achieving a more   just social and economic system in relations among states; and   at the promotion of human rights and fundamental freedoms.   Autonomous   Our neutrality is based on our sovereignty. Our country   does not recognize the right of any state to interpret the   consequences of this declaration of neutrality to determine,   define, or limit our country's foreign policy, either at the   United Nations and its agencies, at the OAS, or in bilateral   relations with other states. We ratify the obligations   imposed on us by international treaties and pacts that we have   signed, and we request that in the collective security systems   to which we belong we be freed from participating in military   actions, which we have not taken Part in for more than 30 years because we do not have an army. Instead, in those   situations we have preferred to fulfill our duties through   humanitarian actions. . .&quot;  ", 
+        "id": "powercos1983", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1983, 
+        "title": "Monge's Neutrality Proclamation", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "Sept. 25, 1983 U.S. proposes sending military engineers to Costa Rica's northern zone. ", 
+        "id": "powercos1983", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1983, 
+        "title": "U.S. proposes sending military engineers to Costa Rica's northern zone.", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "Oct. 1, 1983 Immigration records show La Penca terrorists, &quot;Per Anker Hansen&quot; and &quot;Patricia Anne Boone Mariscot&quot; first arrive in Costa Rica.  For the CIA and North network, la Penca signals the point at which Costa Rica is converted from a base for conventional warfare against Nicaragua into an arena for \"unconventional\" warfare. Before La Penca, the United States had been attempting to build up the Southern Front as the mirror image of the Northern Front in Honduras with a large, uniﬁed, conventional contra army. Afterward the Sandinistas launched a major offensive against ARDE, sending hundreds of guerrillas fleeing into Costa Rica. Political in-fighting, the bombing, and the Sandinista assault left ARDE badly crippled. However, rather than regrouping and rebuilding the Southern Front forces, U.S. strategists moved, over the coming months, to swiftly dismantle those that remained and to replace them with a small \"dirty tricks\" network whose main task was not to ﬁght against the Sandinista army but to stage terrorist actions designed to be blamed on the Sandinistas. In the process Costa Rica, the region's only real democracy, was to become the base for what is known in the covert trade as \"simulated terrorism,\" actions designed to be blamed on one’s enemy and to cause a public outcry. Simulated terrorism is a well-established CIA tactic. Miami Cubans involved with the Southern Front adopted it in their war against Fidel Castro, John Hull employed it as a CIA operative in Brazil, and the contras used it in border incidents. After La Penca, the CIA/North/Hull network laid plans an ambitious program of terrorism: a 1985 assassination attempt on Pastora, a phony \"Sandinista\" attack on the border town of Los Chilies, a series of bombings against the U.S. embassies in Costa Rica and Honduras, and the murders of U.S., Costa Rican, and contra officials in both these countries.  Parallel to these plots, this same group became increasingly involved in drug traflicking for both personal proﬁt and to help ﬁnance the contra war after Congress cut off funding. Contra operations provided a perfect womb for securely moving cocaine from Colombia through Costa Rica to the United States: personnel, airplanes, landing strips, loose ﬁnancial records, and, most important, protection under the aegis of a clandestine CIA operation. In Costa Rica, guardsmen and contras protected private landing strips and farms in Guanacaste and San Carlos that were used for arms deliveries and military. On some of these same farms, planes were reloaded with sacks of cocaine for their retum run to the States. When planes landed at commercial or military airports in the United States, DEA and customs agents were routinely kept away, told not to inspect because this was a covert Agency mission. In some cases, CIA operatives within the anti-Sandinista network made deals to give drug cartel ofﬁcials immunity from prosecution. In return, drug dollars flowed into the contras’ war chest and into the private bank accounts of certain rebel leaders and CIA oﬁcials. As Miami-based former federal attorney John Mattes put it, \"There was a marriage of convenience between the contras and the coke smugglers. The smugglers had access to intelligence, airstrips, and, most importantly, unimpeded access into the U.S. And that to a drug smuggler is worth all the tea in China.\" These activities—terrorism and drug trafficking—were among the most closely guarded secrets of the Iran-contra scandal. The La Penca bombing represented the union of U.S.-sponsored murder and narcotics smuggling under the banner of ﬁghting communism, but la Penca itself was just one event in a much broader and more complex panorama. Even after years of our own investigations, coupled with those of the Christic Institute and other journalists and researchers, as well as judicial and congres- sional inquiries in both the United States and Costa Rica, many mysteries remain. But enough had been revealed about the under- world surrounding Washington's war against Nicaragua to show that, as the young frightened contra \"David\" whispered to Carlos Rojas, \"These people are involved in drug and arms trafficking and they are making money off the blood of my brothers.\"", 
+        "id": "powercos1983", 
+        "loc": "cos2", 
+        "source": "Hostile Acts: U. S. Policy in Costa Rica in the 1980s By Martha Honey", 
+        "start": 1983, 
+        "title": "La Penca", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1983, 
+        "entry": "Oct. 24, 1983 CIA-orchestrated M-3 (&quot;Third Way&quot;) faction splits from ARDE, forming an Anti-Pastora faction.", 
+        "id": "powercos1983", 
+        "loc": "cos3", 
+        "source": "", 
+        "start": 1983, 
+        "title": "M-3 Splits from ARDE", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "Jan. 1984 Pastora visits Washington and has hostile meeting at National Security Council (NSC) with Robert McFarlane, North, and Clarridge. ", 
+        "id": "powerusa1984", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Pastora Visits Washington", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "OCTOBER 10, 1984  Congress suspends U.S. aid to contras. Congress passes second Boland amendment prohibiting &quot;direct and indirect&quot; u.s. aid to the contras. ", 
+        "id": "powerusa1984b", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Congress passes second Boland amendment", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "NOVEMBER 6, 1984 Reagan reelected in forty-nine-state land slide", 
+        "id": "powerusa1984c", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Reagan reelected in forty-nine-state land slide", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "JANUARY-FEBRUARY 1984 CIA mines Nicaraguan harbors. CIA places mines in harbor at Corinto and damages at least 9 ships.  1984  CIA carries out commando raids against Sandinista targets.", 
+        "id": "warnic1984", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1984, 
+        "title": "CIA mines Nicaraguan harbors.", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "April 11-14, 1984 ARDE attacks and occupies San Juan del Norte, marking its biggest military victory.  ", 
+        "id": "warnic1984b", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1984, 
+        "title": "ARDE attacks and occupies San Juan del Norte", 
+        "type": "war"
+    }, 
+
+
+
+    {
+        "end": 1984, 
+        "entry": "May 1, 1984 Pastora receives CIA's 30-day ultimatum demanding he align ARDE with FDN.    SEPTEMBER 5-6, 1984  U.S. envoy presents U.S. position at Manzanillo.  ", 
+        "id": "powernic1984", 
+        "loc": "nic3", 
+        "source": "", 
+        "start": 1984, 
+        "title": "US Involvement in Nicaragua", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "Oct. 1984 Rivera and Sandinistas begin peace talks.  ", 
+        "id": "powernic1984b", 
+        "loc": "nic4", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Rivera and Sandinistas begin peace talks. ", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1984, 
+        "entry": "NOVEMBER 4, 1984: Daniel Ortega elected president in Nicaragua. ", 
+        "id": "redstarnic1984", 
+        "loc": "nic5", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Daniel Ortega elected president in Nicaragua.", 
+        "type": "redstar"
+    }, 
+
+
+
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "March 24, 1984 Contra supply plane crashes in northern Costa Rica. ", 
+        "id": "powercos1984", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Contra supply plane crashes in northern Costa Rica.", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1984, 
+        "entry": "May 15, 1984 Largest peace march in Costa Rica's history held in San Jose.", 
+        "id": "redfistcos1984", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Largest peace march in Costa Rica's history held in San Jose.", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1984, 
+        "entry": "May 30, 1984 Bomb explodes at La Penca during Pastora's press conference. Subsequently, both Pastora and President   Monge implied that the Sandinista regime might have been behind the attack, which Managua vehemently denied. Nevertheless, Monge ordered pastora's arrest  while hospitalized and quickly deported him to Venezuela, this intended to further prove Costa Rica's neutrality .", 
+        "id": "powercos1984b", 
+        "loc": "cos6", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Bomb explodes during Pastora's press conference", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "May 10, 1984 Leaked draft of secret State Dept. memo says U.S. military aid can prevent Costa Rica from &quot;backsliding into neutrality.&quot;  May 26, 1984 North's envoy Robert Owen arrives in San Jose.  May 27, 1984 North arrives in San Jose for clandestine meeting with U.S. embassy and contra officials.       July 1984 Joe Fernandez becomes CIA station chief in Costa Rica.  Aug. 16, 1984 Monge reshuffles cabinet, replacing pro-neutrality Security Minister Angel Solano with CIA collaborator Benjamin Piza.   ", 
+        "id": "powercos1984c", 
+        "loc": "cos7", 
+        "source": "", 
+        "start": 1984, 
+        "title": "US Meddling in Costa Rican Affairs", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "Nov. 1984 South African military delegation makes secret visit to Costa Rica to meet Southern Front contras.   ", 
+        "id": "powercos1984d", 
+        "loc": "cos8", 
+        "source": "", 
+        "start": 1984, 
+        "title": "South African military delegation makes secret visit to Costa Rica", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1984, 
+        "entry": "Nov. 1984 Pedro Joaquin Chamorro takes asylum in San Jose and begins publishing Nicaragua Hoy. ", 
+        "id": "culturenic1984", 
+        "loc": "nic6", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Nicaragua Hoy Publishes", 
+        "type": "culture"
+    }, 
+
+
+
+    {
+        "end": 1984, 
+        "entry": "Nov. 1984 Nicaraguan throws grenade into car, injuring Alfonso Robelo and his girlfriend. The attacker escapes and is suspected of working for the Sandinistas. ", 
+        "id": "warcos1984", 
+        "loc": "cos9", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Nicaraguan throws grenade into car, injuring Alfonso Robelo", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1984, 
+        "entry": "Aug. 19, 1984 Legislature passes Ley de la Moneda, the first major bank privatization bill.", 
+        "id": "econcos1984", 
+        "loc": "cos3", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Ley de la Moneda", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1984, 
+        "entry": "JUNE 1, 1984  Shultz travels to Managua and launches new negotiating round aimed at resolving U.S.-Sandinista differences.  ", 
+        "id": "powernic1984c", 
+        "loc": "nic6", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Shultz Negotiations", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1984, 
+        "entry": "MARCH 31 1984 Alvarez ousted in Honduras. Alvarez was a fierce anti-Communist who detested the Sandinista movement that had recently come to power in neighboring Nicaragua. When the Reagan administration asked him to turn Honduras into a base for anti-Sandinista rebels, known as contras, he eagerly agreed. Soon hundreds of contras were operating from camps along the Nicaraguan border, and thousands of American soldiers were flying in and out of the ballooning Aguacate air base nearby. From 1980 to 1984, annual United States military aid to Honduras increased from $4 million to $77 million. Once again, it had surrendered its national sovereignty to Americans. Rivals forced General Alvarez from power in 1984 but did not dismantle his repressive machine. It had two purposes: supporting the contras and repressing dissent within Honduras. To achieve this latter goal, the army established a secret squad called Battalion 3-16, trained and supported by the CIA, that maintained clandestine torture chambers and carried out kidnappings and killings. The most powerful figure in the country during this period was the American ambassador, John Negroponte, who studiously ignored all pleas that he try to curb the regime's excesses. ", 
+        "id": "warhon1984", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1984, 
+        "title": "Alvarez ousted in honduras", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1984, 
+        "entry": "MAY 1984 NSC adviser Robert McFarlane secures Saudi pledge $1 million a month to contras.   ", 
+        "id": "econmie1984", 
+        "loc": "mie1", 
+        "source": "", 
+        "start": 1984, 
+        "title": "NSC adviser Robert McFarlane secures Saudi pledge $1 million a month to contras. ", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1985, 
+        "entry": "March 1985.  Contra leaders sign San Jose Declaration giving Sandinistas list of demands and ultimatum. ", 
+        "id": "powernic1985", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Contra leaders sign San Jose Declaration giving Sandinistas list of demands and ultimatum.", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1985, 
+        "entry": "April 16, 1985 Rene Corvo leads attack on Nicaraguan border town of Esperanza which North network blames for defeat of congressional contra aid package.  ", 
+        "id": "warnic1985", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Rene Corvo leads attack on Nicaraguan border town of Esperanza", 
+        "type": "war"
+    }, 
+
+
+    {
+        "end": 1985, 
+        "entry": "April 25 1985.  Five foreign mercenaries and nine Nicaraguans arrested in contra camp on Hull's property. ", 
+        "id": "powernic1985b", 
+        "loc": "nic3", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Five foreign mercenaries and nine Nicaraguans arrested in contra camp on Hull's property. ", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1985, 
+        "entry": "Aug. 7-8, 1985 Twenty-nine Witness for Peace pacifists captured by ARDE on San Juan River. They are released the next day unharmed. ", 
+        "id": "powernic1985", 
+        "loc": "nic4", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Twenty-nine Witness for Peace pacifists captured by ARDE on San Juan River.", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1985, 
+        "entry": "June 10, 1985 MCRL demonstrators stone Nicaraguan embassy. Patria y Verdad terrorists bomb electrical station in Naranjo. XXXXXDOUBLE CHECK THIS XXXXXXXXXX ", 
+        "id": "powercos1985", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Patria y Verdad terrorists bomb electrical station in Naranjo. ", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "JANUARY 18, 1985 United States announces suspension of Manzanillo talks with Nicaraguan government. The talks were taking place in Mexico.", 
+        "id": "powermex1985", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "United States announces suspension of Manzanillo talks", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "1985 The military complete the transition to a civilian government, ending 21 years of military rule. The new President is Jose Samey, previously leader of the Brazilian military's political party ", 
+        "id": "powerbra1985", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "The military complete the transition to a civilian government, ending 21 years of military rule.", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1985, 
+        "entry": "1985  First National Rubber Tappers' Congress held in Brasilia ", 
+        "id": "redfistbra1985", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1985, 
+        "title": "First National Rubber Tappers' Congress held in Brasilia", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1985, 
+        "entry": "DECEMBER 6, 1985 North tells Israeli official of plan to divert profits to contras from secret sale of arms to Iran. ", 
+        "id": "powermie1985", 
+        "loc": "mie1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "North tells Israeli official of plan to divert profits to contras from secret sale of arms to Iran.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "FEBRUARY 11, 1985 Saudi king Fahd pledges another $24 million to contras, for total of $32 million. ", 
+        "id": "powermie1985b", 
+        "loc": "mie2", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Saudi Funding Contras", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1985, 
+        "entry": "1985 Relations between Noriega and United States become hostile after Panama rebuffs demands of Admiral Poindexter, Reagan's National Security Adviser, to collaborate on invasion of Nicaragua. ", 
+        "id": "powerpan1985", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Noriega won't assist Invasion of Nicaragua", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "Sept. 13, 1985 Beheaded body of Hugo Spadafora found near Costa Rican-Panama border.  ", 
+        "id": "massacrepan1985", 
+        "loc": "pan2", 
+        "source": "", 
+        "start": 1985, 
+        "title": "&quot;And What do you do to a dog?&quot;", 
+        "type": "massacre"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "March 2 1985 U.S. amends Foreign Assistance Act to permit police aid to Costa Rica. ", 
+        "id": "powerusa1985", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "U.S. amends Foreign Assistance Act to permit police aid to Costa Rica.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "APRIL 30, 1985 Langhorne A. Motley resigns as Assistant Secretary of State for Inter-American Affairs; replaced by Elliott Abrams.", 
+        "id": "powerusa1985b", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1985, 
+        "title": "Abrams becomes Assistant Secretary of State for Inter-American Affairs", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "MAY 1, 1985 United States enforces full trade embargo against Nicaragua.", 
+        "id": "economyusa1985", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1985, 
+        "title": "U.S. economic embargo against Nicaragua.", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "JUNE 12, 1985  Congress passes $27 million &quot;humanitarian aid&quot; package for contras and in Aug. Reagan signs order creating State Department's Nicaraguan Humanitarian Assistance Office (NHAO) to oversee program. ", 
+        "id": "powerusa1985c", 
+        "loc": "usa4", 
+        "source": "", 
+        "start": 1985, 
+        "title": "House approves $28 million in &quot;humanitarian&quot; aid to contras.", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1985, 
+        "entry": "January 30,1985 $3.2 million VOA (Voice of America) station, &quot;Radio Costa Rica,&quot; beamed at Nicaragua opens in northern Costa Rica.   May 1985 U.S. Green Berets arrive in Costa Rica to train Civil Guard at battalion at Murcielago.  Carlos Rojas comes forward with &quot;David's&quot; story about La Penca.  May 31,1985 Two Civil Guardsmen killed in Las Crucitas incident. U.S. and Costa Rica blame Sandinistas.   June 11, 1985 CIA creates contra umbrella organization, UNO (United Nicaraguan Opposition), announced in San Jose with &quot;Triple A&quot; (Alfonso Robelo, Arturo Cruz, and Adolfo Calero) as directors.  JUNE 30-JULY 1, 1985 After meeting contra military leaders in Miami, Oliver North implements plan to raise funds and deliver arms to contras through offshore enterprise managed by Richard Secord. North gives exclusive right to purchase contra military supplies to Richard Secord's group, the Enterprise, cutting out other businessmen and Calero brothers.  July 19, 1985 Ambassador Lewis Tambs arrives with orders from North to &quot;open&quot; the Southern Front. &quot;I really have one mission: to open a southern front for the Contras.&quot  Late July 1985 Ultra rightist plot to bomb U.S. embassy and other targets exposed. &quot;David&quot; disappears and presumed murdered.  Aug. 1985 North network begins expansion of Santa Elena airstrip for contra resupply operations.    Sept 25, 1985.  Honey and Avirgan release La Penca report implicating CIA and FDN in bombing.  XXXXX Perhaps this should be several entries XXXXXX ", 
+        "id": "powercos1985", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1985, 
+        "title": "US Ramping up", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "1986 U.S. government proposes turning over Canal by 1990 if agreement is reached to allow u.s. bases to remain until 2015. ", 
+        "id": "powerpan1986", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "The Bases Requisite", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1986, 
+        "entry": "July 1986 Top Noriega drug pilot Floyd Carlton arrested in San Jose in DEA sting operation. Eventually extradited to U.S. and becomes key witness against Noriega. ", 
+        "id": "powerpan1986b", 
+        "loc": "pan2", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Top Noriega drug pilot Floyd Carlton arrested", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1986, 
+        "entry": "1986  Brazilian Government launches Plan Cruzado, an economic stabilisation plan which succeeds in bringing short-term relief to the economic crisis. It lasts just long enough to ensure a landslide victory for the government party, the PMDB, in state and National Congress elections ", 
+        "id": "econbra1986", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Plan Cruzado", 
+        "type": "economy"
+    }, 
+
+    {
+        "end": 1986, 
+        "entry": "1986  Chico Mendes unsuccessfully runs as a PT candidate for the State Assembly ", 
+        "id": "redfistbra1986", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Chico Mendes unsuccessfully runs as a PT candidate for the State Assembly", 
+        "type": "redfist"
+    }, 
+
+
+    {
+        "end": 1986, 
+        "entry": "May 24-25, 1986 At Esquipulas, Guatemala summit, five Central American presidents reiterate intention to sign Contadora peace plan.", 
+        "id": "wargua1986", 
+        "loc": "gua1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "five Central American presidents reiterate intention to sign Contadora peace plan.", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1986, 
+        "entry": "NOVEMBER 3, 1986 U.S. arms-for-hostages talks with Iran revealed in Beirut magazine. The U.S. secretly sold arms to Iran. ", 
+        "id": "redfistmie1986", 
+        "loc": "mie1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "U.S. arms-for-hostages talks with Iran revealed in Beirut magazine.", 
+        "type": "redfist"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "Feb. 2, 1986 Oscar Arias, running as peace candidate, elected president of Costa Rica.   May 8,1986 Arias inaugurated as President of Costa Rica and informs Ambassador Tambs to close down Santa Elena airstrip.  June 4, 1986 North network contravenes Arias's orders and secretly reopens Santa Elena airstrip.   June 9, 1986 A C-I23 cargo plane loaded with contra military supplies gets stuck in mud at Santa Elena airstrip.  Sept. 5, 1986 In late night telephone call, Tambs warns Arias not to publicly reveal Santa Elena airstrip.  Sept. 24, 1986 Journalists who had discovered Santa Elena publicly confront Security Minister Hernan Garron. He describes the mile-long airstrip as a &quot;tourist&quot; project owned by private investors from Udall Research.  Sept. 25, 1986 In memo to his boss Poindexter, North falsely writes he has closed down Udall and removed all &quot;USG fingerprints&quot; from the airstrip project.  Nov. 1986 CIA Director Casey makes unannounced visit to Costa Rica and Arias refuses to meet with him.   ", 
+        "id": "powercos1986", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Arias, North, and the Secret Santa Elena Airstrip", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "Feb.-March 1986 After years of controversy, 173 U.S. military engineers arrive, but only permitted to work in southern Costa Rica. ", 
+        "id": "warcos1986", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1986, 
+        "title": "173 U.S. military engineers", 
+        "type": "war"
+    }, 
+
+
+
+    {
+        "end": 1986, 
+        "entry": "May 16, 1986 Pastora gives up armed struggle and asks for political asylum in Costa Rica.  ", 
+        "id": "warcos1986b", 
+        "loc": "cos3", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Pastora gives up armed struggle", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "May 22-23, 1986 Honey and Avirgan win libel case brought by Hull over accusations of participation in Pastora Press Conference Bombing. ", 
+        "id": "warcos1986c", 
+        "loc": "cos4", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Honey and Avirgan win libel case brought by Hull", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "Late March 1986 Singlaub makes unsuccessful last ditch effort to negotiate an arms-for-FDN-alliance deal with Pastora.   April 1986 Nicaraguan Resistance, a new contra umbrella group with expanded leadership, formed to replace UNO.   May 9,1986 At CIA-organized ceremony, six top Pastora commanders sign document shifting allegiance to FARN and FDN.    NOVEMBER 25, 1986 Nicaraguan Resistance's General Assembly in San Jose abruptly terminated when Reagan and Attorney General Edwin Meese announce on TV the arms sales to Iran and diversion to contras. Poindexter resigns and North is removed. Iran-contra scandal officially becomes public.   ", 
+        "id": "warnic1986", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "The Converging Paramilitaries", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "OCTOBER 5, 1986 CIA supply plane flown by Eugene Hasenfus shot down and provides evidence of extensive CIA supply network to the contras; Hasenfus publicly revealed that, contrary to the Boland Amendment, the United States was supplying military aid to the contras in an attempt to overthrow the Sandinista government; precipitates &lsquo;&lsquo;Iran-contra scandal&rsquo;&rsquo; in Washington.&rdquo;)", 
+        "id": "warnic1986b", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1986, 
+        "title": "U.S. supply plane shot down over Nicaragua. Crew member Eugene Hasenfus parachutes into captivity and reveals covert resupply network.", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "1986 Congress passes the Immigration Reform and Control Act. ", 
+        "id": "powerusa1986g", 
+        "loc": "usa7", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Congress passes the Immigration Reform and Control Act.", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1986, 
+        "entry": "1986  World Court condemns the mining of Nicaraguan harbors as a violation of international law and fines the United States; President Reagan ignores the court&rsquo;s decision; United States supplies contra forces with land mines and Stinger anti-aircraft missiles; ", 
+        "id": "powerusa1986h", 
+        "loc": "usa8", 
+        "source": "", 
+        "start": 1986, 
+        "title": "World Court condemns the US mining of Nicaraguan harbors", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1986, 
+        "entry": "March 19, 1986 Security Minister Piza goes to Washington with Joe Fernandez to meet Reagan, NSC Adviser John Poindexter, North, and Secord and to draft cover story letter for airstrip. ", 
+        "id": "powerusa1986b", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Covering Up the Strip", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "JUNE 25, 1986 House approves $100 million, including $70 million in military aid to contras.   Aug. 13,1986 Senate approves $100 million in aid for contras. House had approved similar package in June. This marks resumption of official CIA role in war.   NOVEMBER 4, 1986 Democrats win control of the Senate.   ", 
+        "id": "powerusa1986c", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Congressional Support for the Death Squads", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1986, 
+        "entry": "DECEMBER 15, 1986 CIA Director William Casey disabled by stroke.", 
+        "id": "powerusa1986d", 
+        "loc": "usa4", 
+        "source": "", 
+        "start": 1986, 
+        "title": "CIA Director William Casey disabled by stroke.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1986, 
+        "entry": "Dec. 4, 1986 Arias visits Washington and meets Reagan and Casey, who try to win his cooperation in the war against Nicaragua.  ", 
+        "id": "powerusa1986e", 
+        "loc": "usa5", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Drumming Up A War", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1986, 
+        "entry": "Dec. 13, 1986 Steven Carr, American mercenary who had revealed important details of CIA operations in Costa Rica dies in Van Nuys, Calif., reportedly of cocaine overdose.  ", 
+        "id": "powerusa1986f", 
+        "loc": "usa6", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Mercenary Steven Carr Dies", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1986, 
+        "entry": "Dec. 19, 1986 Reagan appoints Independent Counsel Lawrence Walsh to investigate Iran-contra affair. Over next four years, Walsh convicts eleven. Two cases overturned on appeal and one dismissed before Bush issues presidential pardons.", 
+        "id": "powerusa1986", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1986, 
+        "title": "Reagan appoints Independent Counsel Lawrence Walsh to investigate Iran-contra affair.", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1987, 
+        "entry": "Jan. 11, 1987 Tambs, who resigned in wake of Santa Elena airstrip scandal, leaves Costa Rica. CIA Station Chief Fernandez is recalled and departs secretly shortly afterward. ", 
+        "id": "cospower1987", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Two departures in wake of Santa Elena airstrip scandal", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "Jan. 17, 1987 San Jose Summit convened by Arias to launch peace plan. Attended by presidents of Honduras, Guatemala, and El Salvador, but not Nicaragua.  Feb.-Aug. 1987 AID withholds funds to Costa Rica as sign of displeasure with Arias peace plan.  April 1, 1987 Arias, under pressure from Washington, removes Guido Fernandez as ambassador.   June 17, 1987 Arias summoned to White House and has hostile exchange with Reagan and top administration officials over peace plan.   July 25, 1987 Arias incorporates Santa Elena property into national park, touching off years of complex legal battles with u.s. owners.  June 1987 AID Director Chaij recalled at request of Arias.  Oct. 13, 1987 Arias wins Nobel Peace Prize.  Nov. 1987 Costa Rican judiciary opens case against Piza and Col. Jose Montero for involvement in Santa Elena airstrip project. Ambassador Deane Hinton arrives. ", 
+        "id": "powercos1987", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Arias's Very Interesting Year", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "January, 1987 Contadora Group finally announces it has been unsuccessful in negotiating Nicaraguan peace agreement. mexico ", 
+        "id": "warmex1987", 
+        "loc": "mex1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Contadora Unsuccessful", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "1987 The National Congress of Brazil starts drawing up a new constitution which is finally promulgated in October 1988 ", 
+        "id": "powerbra1987", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Brazil's National Congress Draws New Constitution", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1987, 
+        "entry": "1987  Brazil&rsquo;s Chico Mendes lobbies Governors' meeting of Inter-American Development Bank. Visits UK. Receives UN Global 500 prize. ", 
+        "id": "redfistbra1987", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Chico Mendes Lobbies", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1987, 
+        "entry": "September 24, 1987 U.S. Senate approves resolution demanding that Panama change its government or face a cutoff of U.S. aid.", 
+        "id": "powerpan1987", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "U.S. Senate Demandd Panama change its government", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "Feb. 26, 1987 Tower Commission Report on Iran-contra scandal released.  May 6,1987 Casey dies of a brain tumor.  May 7, 1987 Congressional Iran-contra hearings open.   ", 
+        "id": "powerusa1987b", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Iran-Contra", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "AUGUST 5, 1987 Wright-Reagan plan for peace presented. XXXXX good piece online from chomsky's necessary illusions XXXXXX  AUGUST 7-8, 1987 Central American leaders agree to peace plan drafted by Costa Rican president Oscar Arias. (Central American presidents sign &quot;Arias Peace Plan&quot; at summit in Guatemala.)  In a last-ditch effort to undermine the peace agreement, Washington put forth the Reagan-Wright plan on August 5, calling for dismantling the political system in Nicaragua, an end to arms aid to Nicaragua, and demobilization of Sandinista forces. In return the United States would pledge to halt shipments of arms to the contras. This proposal received wide media acclaim as fair and just; the Iran-contra hearings that had concluded two days earlier had passed into ancient history, along with their suggestion that a U.S. pledge might be worth less than gold. Nevertheless, to the surprise and annoyance of the administration, the Central American presidents reached an agreement on August 7.  Government propaganda then shifted, predictably, to the demolition of the unacceptable accords. The media followed faithfully along. I have reviewed the details elsewhere, so I will only summarize this most remarkable campaign.  The problem to be addressed was a familiar one: a great power has been unable to impose its will and finds itself confronted with conditions and circumstances that it refuses to accept. A state that commands unusual power, such as the United States, has a variety of ways to deal with the problem. One is to pretend that the adversary has capitulated, accepting the U.S. stand. This option can be pursued only if the information system can be trusted to fall into line, presenting the U.S. government version as if it were true, however outlandish the pretense. If the media meet their responsibilities in this way, then the adversary must indeed accept U.S. terms, or else suffer retribution for violating the alleged solemn commitment to adhere to them.  One striking example of this technique was the treatment of the Paris peace treaty of January 1973, which the United States was compelled to sign after the failure of its attempt to bludgeon North Vietnam into submission by the Christmas B-52 bombings of populated areas. The U.S. government at once offered a version of the treaty that was diametrically opposed to its terms on every crucial point. This version was uniformly accepted and promulgated by the media, so that the actual terms of the peace treaty had been dismissed to the memory hole literally within a few days. The United States and its South Vietnamese client then proceeded with massive violations of the actual treaty in an effort to attain their long-sought goals by violence, and when the Vietnamese adversaries finally responded in kind, they were universally denounced for the breakdown of the agreements and compelled to suffer for their crime. The case of the Central America peace accords was similar. It was necessary to refashion them to conform to U.S. dictates, a task that was accomplished with the anticipated cooperation of the media, though it took a little longer than the overnight victory at the time of the Paris peace accords -- perhaps an indication that the media really have become more &quot;adversarial&quot; than in the past.  The first requirement of the demolition campaign was to establish that it was U.S. support for the contras that had forced the Sandinistas to negotiate. This is always an important doctrine, since it can be exploited to justify subsequent resort to armed force and terror. The thesis hardly withstands the evidence of history: Nicaragua's effort to pursue the peaceful means required by international law through the World Court, the United Nations, and the Contadora process, and Washington's success in &quot;trumping&quot; these initiatives. Such problems were readily overcome by dismissal of the facts to the memory hole. The required doctrinal truth then became the merest cliché. The New York Times editors could therefore criticize Michael Dukakis during the 1988 election campaign because he &quot;undervalues the role of force in bringing the Sandinistas to the bargaining table.&quot; It would be unreasonable to expect troublesome facts to stand in the way of a principle that authorizes continued reliance on violence as the necessary means for bringing peace. More generally, what is useful is True. Period.  The first task was accomplished with dispatch. The next problem was to dismantle the accords themselves. Their first phase ran from the signing in August 1987 to January 1988, when the Central American presidents were to receive the report of the International Verification Commission (CIVS), which was charged with monitoring the accords. The goal of the Reagan administration was to focus all attention on the Sandinistas, thus ensuring that the United States could maintain the attack by its proxy forces and exclude the U.S. client states from the provisions of the accords. The media at once dedicated themselves to these further tasks, and by January the last shreds of the original accords disappeared, replaced by the initial U.S. terms. Henceforth, the irrelevant facts become of interest only to archivists. It is the necessary illusions that prevail.  The peace plan specified one &quot;indispensable element&quot; for peace, namely, a termination of open or covert aid of any form (&quot;military, logistical, financial, propagandistic&quot;) to &quot;irregular forces&quot; (the contras) or &quot;insurrectionist movements&quot; (indigenous guerrillas). In response, the United States at once stepped up its illegal CIA supply flights, which had already reached the phenomenal level of one a day in an effort to keep the proxy forces in the field. These doubled in September and virtually tripled in the months that followed. Surveillance flights also increased. Successes were immediately evident as contra attacks on civilians doubled in intensity, including ambushes, murders, attacks on farm cooperatives, and kidnappings. The CIA also offered bribes to Miskito leaders to prevent them from joining the peace process.  The peace agreements were thus effectively dead from the first moment. These were, by far, the most significant developments during the August-January phase of the accords. ", 
+        "id": "powergua1987", 
+        "loc": "gua1", 
+        "source": "Necessary Illusions, Noam Chomsky", 
+        "start": 1987, 
+        "title": "Reagan Miscalculates his Sabotage", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "Nov. 5, 1987 Peace accords begin to go into effect in Nicaragua.  NOVEMBER 5, 1987 Sandinistas announce readiness for indirect talks with contras. ", 
+        "id": "warnic1987", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "Peace accords begin to go into effect in Nicaragua.", 
+        "type": "war"
+    }, 
+
+
+
+    {
+        "end": 1987, 
+        "entry": "Nov. 17, 1987 The Iran-Contra Affair of the u.s. Congress report released. ", 
+        "id": "warusa1987", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "The Iran-Contra Affair of the u.s. Congress report released.", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1987, 
+        "entry": "October 10, 1987  Repatriation back into El Salvador from refugees who has been based in Honduras.  The following is a chronology of incidents of harassment and rights violations against the repopulation communities of Santa Marta, Department of Cabanas, Copapayo, Department of Cuscatlan, and Las Vueltas, Guarjila, and Guarjilita, Department of Chalatenanago. All of the cases were reported to Salvadoran human rights agencies by international observers living in the repopulation communities. OCTOBER 9: The day before the repatriation took place, Evelio Alas, 40, resident of Las Vueltas and ex-refugee from Mesa Grande was captured near the First Military Detachment in Chalatenango as he attempted to obtain personal documentation. He was later released. OCTOBER 16; Near Guarjila, Arcatao and San Antonio Los Ranches, large military operations invaded the area, accompanied by 20 minutes of heavy machine-gun fire from a helicopter and from the ground causing panic in the community. NOVEMBER 1: The military established a cordon around Las Vueltas for the day, entering houses and threatening residents with captures. NOVEMBER 5: The Belloso Batallion, one of the U.S.-trained elite hunter units, shot repeatedly over the town of Las Vueltas at 10:00 a.m. NOVEMBER 8: Two residents of Las Vueltas, both ex-refugees from Mesa Grande, were captured as they tried to get identification papers in the nearby town. They were later released. NOVEMBER 10-11: For two days, heavy bombing occurred between Las Vueltas and San Jose Las Flores, a distance of about eight kilometers, with a large number of planes flying low over Guarjila. NOVEMBER 12: Heavy fighting broke out near Arcatao and San Antonio Los Ranches. More than 1000 soldiers occupied Arcatao and an unidentified man, woman and child were captured. The man was taken away by helicopter, and the woman and child were released.  NOVEMBER 12: In Santa Marta, soldiers entered the village and demanded to see certain residents, asking for them by name, and threatening other residents. The named residents were working in the fields when the soldiers came. NOVEMBER 13: The Salvadoran Air Force bombed and machine-gunned the village of Los Dubon, a village near Arcatao. Two civilians were wounded, Miguel Roble, 12, and Serefino Orellano Miranda, 23, and a third young boy, Faustino Orellano Miranda, was killed. All three were working in a bean field when they were struck. Los Dubon is a village close to the repopulation sites in the Department of Chalatenango. NOVEMBER 19-21: Troops from the Second Military Detachment of Sensuntepeque patrolled the area around and within the village of Santa Marta, Department of Cabanas, repopulation site. On November 20, the soliders distributed food and household items in a Military-Civic Action. The troops remained in the village for two days. On November 19 and 22 military aircraft made repeated low sweeps over the village . NOVEMBER 26: Soldiers from the First Military Detachment in Chalatenango captured and detained temporarily Pedro Castro, 27, a resident of the repopulated community of Guarjila. Castro was interrogated by the soldiers on the whereabouts of leaders of the community. After pressure from other residents, he was released. DECEMBER 1: Pedro Pablo Mendez, 54, and his wife Amparo Cruz, both residents of the repopulation village of Santa Marta, were detained in the public market of Sensuntepeque by troops of the Second Military Detachment. Mendez was interrogated and severely beaten. He was ordered to report every two weeks to the military headquarters to inform on the activities within Santa Marta. He was released the same day and returned to Santa Marta. The following day he was hospitalized in San Salvador for internal injuries. Including a broken rib. DECEMBER 3 : Two international churchworkers were detained at a roadblock outside of Guarjila by soldiers of the First Military Detachment in Chalatenango. They were taken to the Army base in Chalatenango and detained behind bars for several hours before being released the same day. DECEMBER 4: Juan Jose Laines, 22, an ex-refugee from Mesa Grande and a resident of a tiny settlement near Santa Marta, was captured in Sensuntepeque by troops of the Second Military Detachment was taken to the Army barracks in Sensuntepeque. He was held for several days before being released under the custody of the International Committee of the Red Cross. DECEMBER 5: Several bombs landed in the immediate vicinity of Guarjila which disrupted and halted a religious service of the repopulated community. DECEMBER 7: Crescendo Tobia Diaz, 47, a resident of the repopulated village of Guarjila, journeyed with his wife by bus to San Salvador. In visiting relatives, they separated in the capital, however, Tobia Diaz disappeared without notice. His wife sought the aid of human rights groups but no information regarding Tobia Diaz has surfaced. DECEMBER 8: Troops on patrol from the Military Detachment of Chalatenango fired repeatedly near the communities of Guarjila and Guarjilita. DECEMBER 14: Soldiers of the Military Detachment of Chalatenango patrolled the area of Guarjila and Guarjilita firing their machine -guns near the communities which lasted thirty minutes. DECEMBER 20: An Army helicopter swooped low over the area of Guarjila and Guarjilita and strafed with machine-gun fire in the vicinity of the community. DECEMBER 20: Relatives of residents of Guarjila and Guarjilita were denied passage to visit their family members at a military blockade. DECEMBER 22; A truck loaded with construction materials, food and toys for the children headed for Las Vueltas was denied passage by Col. Canjura, commander of the Military Detachment of Chalatenango. DECEMBER 23: International delegations visiting the community of Copapayo were denied entry at a military roadblock. DECEMBER 31: Troops from the Military Detachment of Chalatenago fired mortars which passed directly over the repopulated communities of Guarjila and Guarjilita. JANUARY 3: The same truckload of materials destined for Las Vueltas was denied passage a second time. JANUARY 3-5: During a military operation in the immediate vicinity of Las Vueltas, soldiers fired shots endangering the lives of the residents of Las Vueltas. No injuries were reported. JANUARY 5: Mortar fire from soldiers from the Military Detachment of Chalatenango passed directly over the repopulated communities of Guarjila and Guarjilita. JANUARY 6: A team of lawyers contracted by UNHCR to assist in the documentation effort were temporarily detained at a military roadblock and denied entry to Copapayo. JANUARY 6: A truckload of construction materials for housing was turned back at the military roadblock outside of Copapayo. JANUARY 6: An agricultural technician assigned to Copapayo was denied passage at a military roadblock. JANUARY 7: An international delegation of Jesuit priests, headed by Father Richard Howard, was prevented from journeying to Copapayo at the military roadblock.  JANUARY 16: The military set up a roadblock outside of Santa Marta, Department of Cabanas, to restrict the entry of food, materials and visitors. Previously, Santa Marta had been the only of the five recent repopulations to not have restricted access by the military . JANUARY 23: Margarito Rivas, 66, and his son Manual Rivas, 25, refugee repatriates living in Las Vueltas, El Salvador, were captured by Honduran troops in the Honduran border village of Guarita. The military roadblocks had restricted the entry of food and materials to Las Vueltas so the two men had entered Honduras to make food purchases. Both men carried provisional identification provided by the Salvadoran Archdiocese.   ", 
+        "id": "powerels1987", 
+        "loc": "els1", 
+        "source": "", 
+        "start": 1987, 
+        "title": "The Violent Repatriation back into El Salvador from refugees who has been based in Honduras.", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1988, 
+        "entry": "Jan. 12, 1988 Arias expels contra leaders who refuse to renounce armed conflict and adhere to peace accords.   April 1, 1988 Sandinistas and contras begin truce in fighting. Arias recalls Ambassador Guido Fernandez Washington accused of &quot;lobbying&quot; against contra aid. Fernandez becomes Information Minister. ", 
+        "id": "warcos1988", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Arias and the Contras", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1988, 
+        "entry": "Jan. 21, 1988 State Dept. Inspector General's memo and audit regarding AID malpractice in Costa Rica made public   May 23-29,1988 Biehl publicly denounces AID's Costa Rican Parallel State in small Chilean magazine, APSI, saying that Washington wanted to use &quot;Costa Rica as a military base and transform the economy so that it is in total agreement with Reagan's policies, with 'Reaganomics.'&quot; In August 1988, Biehl leaves Costa Rica.  Dec. 1988 Enormous new AID complex, a symbol of the parallel state, opens in San Jose suburb. Nearby, U.S. Embassy headquarters had opened two months earlier. XXXXXX Did this open in 1988 or 89? XXXXXXXXX ", 
+        "id": "powercos1988", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1988, 
+        "title": "USAID's Second Costa Rica", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1988, 
+        "entry": "Oct. 24, 1988 Costa Rican Legislature passes second bank denationalization law. ", 
+        "id": "econcos1988", 
+        "loc": "cos3", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Costa Rican Legislature passes second bank denationalization law.", 
+        "type": "economy"
+    }, 
+
+
+    {
+        "end": 1988, 
+        "entry": "Nov. 23, 1988 Legislative Assembly's first Special Drug Commission report links leading politicians and officials to drug traffickers.  Dec. 26, 1988 Costa Rica judiciary report blames La Penca bombing on contras, CIA and drug traffickers, accuses CIA and OIJ officials of conspiring to derail the investigation, and charges Hull and Vidal with first degree murder for their involvement in the bombing.  ", 
+        "id": "powercos1988b", 
+        "loc": "cos4", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Drugs, the CIA, and the Goverment", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1988, 
+        "entry": "JANUARY 15-16, 1988 At Central American summit, Daniel Ortega agrees to direct talks with contras, lifts state of emergency. (another timeline: Sandinistas make important concessions at second San Jose Summit on the Central American peace plan. )  March 21-23,1988 Cease fire agreement between Nicaraguan government and contras signed at Sapoa, Nicaragua, marking official end of war.   MARCH 23, 1988 Sandinista and contra leaders sign tentative cease-fire.  ", 
+        "id": "warnic1988", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Tentative Cease-Fires", 
+        "type": "war"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1988, 
+        "entry": "FEBRUARY 3, 1988 House defeats contra funding request, killing the military aid program.  MARCH 11, 1988 Robert McFarlane pleads guilty to mismeanor charges arising from Iran-Contra affair.  MARCH 16, 1988 John Poindexter, Oliver North, Richard Secord, and Albert Hakim indicted on criminal charges.  Dec. 1988 U.S. Senate report, Drugs, Law Enforcement and Foreign Policy, documents links between contras, the CIA, Noriega and the drug cartel.  ", 
+        "id": "powerusa1988", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Iran-Contra Stings", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1988, 
+        "entry": "February 4, 1988 Noriega is indicted by Federal grand juries in Miami and Tampa on drug trafficking.  February 8, 1988 Noriega demands withdrawal of U.S. Southern Command headquartered in Panama.  February 26, 1988 National Assembly (the Congress of Panama) blocks move by President Delvalle to remove General Noriega. Delvalle is removed for violating Panamanian Constitution (similar to impeachment). Washington continues to recognize Delvalle as President after National Assembly names Solis Palma as Acting President.  March 11, 1988 Reagan Administration imposes sanctions, including restrictions on trade and withholding of Canal fees.  April 1988 Reagan Administration increases economic sanctions. U.S. government and private U.S. companies are prohibited from making payments to Panama; $56 million in Panamanian funds in U.S. banks frozen; United States sends additional 2,000 troops to Panama in violation of 1977 treaties. United States gives $1 0 million to Guillermo Endara as presidential candidate. Many more millions are reported to be given covertly. (U.S. election law bars candidates from receiving foreign contributions.)  May 25, 1988 U.S. Secretary of State George Shultz announces talks on deal for Noriega's departure have collapsed.  ", 
+        "id": "powerpan1988", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Panama Ratchets Up", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+    {
+        "end": 1988, 
+        "entry": "1988 Municipal elections in November bring the PT to power in Sao Paulo and other major cities", 
+        "id": "redfistbra1988", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Municipal elections in November bring the PT to power in Sao Paulo and other major cities", 
+        "type": "redfist"
+    }, 
+
+
+
+    {
+        "end": 1988, 
+        "entry": "October 1988 Brazilian government signs decrees creating first three extractive reserves. Repeated death threats Issued against Chico Mendes and others", 
+        "id": "envirbra1988", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Three Extractive Reserves", 
+        "type": "envir"
+    }, 
+
+
+
+    {
+        "end": 1988, 
+        "entry": "June 1988 Rubber tappers' leader Ivair Higino murdered in Xapuri  May 1988 Two rubber tappers shot during empate at Ecuador rubber estate  December 1988 Chico Mendes murdered", 
+        "id": "massacrebra1988", 
+        "loc": "bra3", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Ivair Higino and Chico Mendes murdered,", 
+        "type": "massacre"
+    }, 
+
+
+
+
+    {
+        "end": 1988, 
+        "entry": "MARCH 16, 1988 Reagan dispatches 3,200 troops to Honduras in a &quot;show af force&quot; after a reported Sandinista incursion into Honduras. ", 
+        "id": "powerhon1988", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1988, 
+        "title": "Reagan dispatches 3,200 troops to Honduras in a &quot;show af force&quot;", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1989, 
+        "entry": "Jan. 12, 1989 Costa Rica's public prosecutor charges Hull, Octaviano Cesar, and pilot Gerardo Duran with drug and arms trafficking and &quot;hostile acts&quot; for his contra activities. Hull arrested and subsequently released on bail.   Jan. 26, 1989 Seventeen Congressmen write letter threatening aid cutoff if Costa Rica continues to pursue Hull. Arias sends strong reply.   July 18, 1989 Hull jumps bail and DEA illegal1y flies him out of Costa Rica to avoid prosecution.   July 20, 1989 Legislative Assembly's second Special Drug Commission report links u.s. officials, Noriega, and drug traffickers to Costa Rican contra operations. It recommends Joe Fernandez, North, Poindexter, Tambs, and Richard Secord be declared persona non grata and that Hull be tried and sentenced, and then stripped of his Costa Rican citizenship and expelled.  ", 
+        "id": "powercos1989", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "The Hull Issue", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "Aug. 1989 Anti-Noriega &quot;contras&quot; reported operating out of southern Costa Rica.  ", 
+        "id": "warcos1989", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Anti-Noriega &quot;contras&quot; reported operating out of southern Costa Rica. ", 
+        "type": "war"
+    }, 
+
+
+    {
+        "end": 1989, 
+        "entry": "Oct. 26-28, 1989 Arias hosts hemispheric summit attended by Bush and fifteen other presidents to celebrate one hundred years of Costa Rican democracy. Leaders discuss the &quot;Six D's&quot;: development, drugs, democracy, debt, disarmament and deforestation.  ", 
+        "id": "powercos1989b", 
+        "loc": "cos3", 
+        "source": "", 
+        "start": 1989, 
+        "title": "The Six D's", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "Aug. 23, 1989 Tourists discover Green Berets and Civil Guard carrying out military and anti-drug operations in Costa Rican national park.  ", 
+        "id": "warcos1989b", 
+        "loc": "cos4", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Park Exercises", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "January 20, 1989 George Bush sworn in as U.S. President. ", 
+        "id": "powerusa1989", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "George Bush sworn in as U.S. President.", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "April 13, 1989 Congress agrees to allocate the contras $4.5 million in non-lethal aid each month until Nicaragua holds elections. ", 
+        "id": "powerusa1989b", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Congress Remains Supporting Contras", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "March 3, 1989 McFarlane sentenced in Washington court to two years' probation, a $20,000 fine, and 200 hours of community service for withholding infonnation from Congress.  May 4, 1989 North convicted on several minor counts for role in Iran-contra scandal. Fined and sentenced to community service in july.  Nov. 24, 1989 Washington judge dismisses case against Costa Rican CIA Station Chief Joe Fernandez after Attorney General Dick Thornburgh blocked disclosure of relevant CIA documents.  ", 
+        "id": "powerusa1989c", 
+        "loc": "usa3", 
+        "source": "", 
+        "start": 1989, 
+        "title": "The Paltry Penalties, and lack of, for building a Death Squad Army", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "October 17, 1989 Bush Administration supports wider role for CIA in coup attempts, complaining that restraints about possible death of targets is too limiting. ", 
+        "id": "powerusa1989d", 
+        "loc": "usa4", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Bush Supports CIA Role", 
+        "type": "usa4"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "Jan. 23, 1989 The La Penca bomber Gaguine is reported to be among 28 leftist guerrillas killed in an attack on La Tablada, Argentina's main military base. ", 
+        "id": "redfistarg1989", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Gaguine Dead?", 
+        "type": "redfist"
+    }, 
+    {
+        "end": 1989, 
+        "entry": "Feb. 14, 1989 Five Central American presidents agree contras be demobilized and Nicaraguan president Ortega agrees to free elections in 1990.   ", 
+        "id": "powernic1989", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Contra Demobolizing", 
+        "type": "power"
+    }, 
+    {
+        "end": 1989, 
+        "entry": "March 1989 Second Congress of the National Council of Rubber Tappers in Rio Branco ", 
+        "id": "redfistbra1989", 
+        "loc": "bra1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Second Congress of the National Council of Rubber Tappers in Rio Branco", 
+        "type": "redfist"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "April 1989 Repeated death threats by UDR against rubber tappers&rsquo; leaders, including Julio Barbosa, president of the National Council of Rubber Tappers. Intimidation of witnesses in trial of Darli Alves da Silva ", 
+        "id": "powerbra1989", 
+        "loc": "bra2", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Death Threats and Intimidation", 
+        "type": "power"
+    }, 
+    {
+        "end": 1989, 
+        "entry": "May 7, 1989 Presidential election takes place. Panamanian government nullifies results on May 10 because of u.s. interference. Bush Administration sends 2,000 more troops to Panama. U.s. military starts staging regular military maneuvers on Panamanian territory in violation of treaties. Over 100 such acts take place. Panama appeals to United Nations for observers and assistance in stopping U.S. military activity.  May 11, 1989 President Bush recalls Ambassador Arthur Davis. Begins sending additional 1,700 soldiers and 165 Marines to Panama.  June 1989 U.S. Justice Department issues opinion that United States can carry out arrests in foreign countries without approval of their governments.  October 3, 1989 Noriega puts down coup attempt supported by U.S. government.", 
+        "id": "powerpan1989", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Moving to Invade", 
+        "type": "power"
+    }, 
+    {
+        "end": 1989, 
+        "entry": "November 1989 U.S. government announces that after January 31, 1990, it will bar vessels registered in Panama from entering U.S. ports. This forces other countries to pressure the Panamanian government, as majority of countries in world use Panamanian registry for commercial vessels. ", 
+        "id": "econpan1989", 
+        "loc": "pan2", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Barring Boats", 
+        "type": "economy"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "December 20, 1989 United States invades Panama.", 
+        "id": "warpan1989", 
+        "loc": "pan3", 
+        "source": "", 
+        "start": 1989, 
+        "title": "United States invades Panama.", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "Aug. 6-7, 1989 At Tela, Honduras summit, Central American presidents reject U.S. pressure and unanimously call for demobilizing contras by Dec. 8. They ask United Nations and Organization of American States for help.  ", 
+        "id": "warhon1989", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Central America Presidents Call to Demobolize Contras", 
+        "type": "war"
+    }, 
+
+    {
+        "end": 1989, 
+        "entry": "September 12, 1989 Bush Administration again expands sanctions on Panama, including withdrawing 1989 sugar quota and adding to list of companies and individuals barred from doing business with U.S. citizens and traveling to United States.", 
+        "id": "economypan1989", 
+        "loc": "pan1", 
+        "source": "", 
+        "start": 1989, 
+        "title": "Bush Administration again expands sanctions on Panama", 
+        "type": "economy"
+    }, 
+
+ {
+        "end": 1990, 
+        "entry": "Jan. 24, 1990 In Washington court, Secord sentenced to two years probation for role in Iran-contra scandal.  Feb. 1, 1990 Albert Hakim sentenced to two years probation for illegally supplementing North's salary. ", 
+        "id": "powerusa1990", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1990, 
+        "title": "non-sentences", 
+        "type": "power"
+    }, 
+
+    {
+        "end": 1990, 
+        "entry": "Feb. 4,1990 Conservative Unity Party candidate Rafael Angel Calderon elected Costa Rican president.  May 8, 1990 Arias leaves office and Calderon inaugurated.   Aug. 1990 Calderon government reacts cautiously to Bush's Initiative for the Americas, which is intended to eliminate trade barriers and increase investment.  ", 
+        "id": "powercos1990", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1990, 
+        "title": "Calderon elected", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1990, 
+        "entry": "Feb. 1990 Costa Rica starts extradition proceedings against Hull, asking that u.s. government return him so he can be tried on murder and other charges.  Late Nov. 1990 Legislature appoints special 4-member commission to investigate La Penca bombing.  May 19, 1990 U.S.-trained narcotics agents kill twelve-year-old boy in anti-drug raid.   ", 
+        "id": "powercos1990b", 
+        "loc": "cos2", 
+        "source": "", 
+        "start": 1990, 
+        "title": "US Residue", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1990, 
+        "entry": "March 1990 EARTH university finally opens.", 
+        "id": "envircos1990", 
+        "loc": "cos3", 
+        "source": "", 
+        "start": 1990, 
+        "title": "EARTH university finally opens.", 
+        "type": "envir"
+    }, 
+
+    {
+        "end": 1990, 
+        "entry": "June 8, 1990 Jose Figueres, the &quot;father&quot; of modern Costa Rica, who abolished the army, nationalized the banks, and founded the Liberation Party, dies.  ", 
+        "id": "powercos1990", 
+        "loc": "cos4", 
+        "source": "", 
+        "start": 1990, 
+        "title": "Jose Figueres Dies", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 1990, 
+        "entry": "Feb. 25 1990. Sandinistas defeated in elections by opposition coalition UNO, led by Violeta Chamorro. Violeta Chamorro, wife of assassinated Pedro Joaqu&#305;n Chamorro, defeats Ortega in the presidential election.  April 25,1990 Violeta Chamorro inaugurated as president of Nicaragua.  ", 
+        "id": "powernic1990", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1990, 
+        "title": "Chamorro Wins Election", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1990, 
+        "entry": "March 13, 1990 Bush lifts 5-year-old trade embargo and asks Congress for $300 million in aid for Nicaragua, including $45 million for demobilization of contras. ", 
+        "id": "economyusa1990b", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1990, 
+        "title": "Bush lifts 5-year-old trade embargo off Nicaragua", 
+        "type": "economy"
+    }, 
+
+
+
+    {
+        "end": 1990, 
+        "entry": "March 23, 1990 Contras and Sandinistas reach agreement for disarming and moving rebels into UN-monitored zones.  April 2-3, 1990 In Montelimar, Nicaragua, Central American presidents hold final summit on implementation of peace plan and agree to immediate demobilization of the contras and destruction of their weapons.  ", 
+        "id": "warnic1990", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 1990, 
+        "title": "Demobilization", 
+        "type": "war"
+    }, 
+
+
+    {
+        "end": 1991, 
+        "entry": "Sept. 16, 1991 North's convictions are thrown out on appeal.  Nov. 15, 1991 In Washington, former Under Secretary of State Elliott Abrams sentenced to two years probation and 100 hours' community service for lying to Congress about his role in Iran/contra scandal. Washington judge reverses conviction of Poindexter on five felony counts for role in Iran-contra scandal. ", 
+        "id": "powerusa1991", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1991, 
+        "title": "American Justice", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1991, 
+        "entry": "Oct. 28, 1991 Costa Rica closes last of the Nicaraguan refugee camps. ", 
+        "id": "warcos1991", 
+        "loc": "cos1", 
+        "source": "", 
+        "start": 1991, 
+        "title": "Costa Rica closes last of the Nicaraguan refugee camps.", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1992, 
+        "entry": "1992  Peace accords implemented in Nicaragua", 
+        "id": "warnic1992", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1992, 
+        "title": "Peace accords implemented in Nicaragua", 
+        "type": "war"
+    }, 
+
+
+
+
+    {
+        "end": 1992, 
+        "entry": "Jan. 31, 1992 CIA official Alan Fiers sentenced to one year's probation and 100 hours' community service for withholding information from Congress about illegal financing of contras.  May 25, 1992 Ex-CIA official Tom Clines begins serving sixteen month prison term for tax felonies related to Iran-contra financial deals.  Dec. 9, 1992 In Washington trial, CIA official Clair George found guilty of two felony charges.  Dec. 11, 1992 Bush agrees to turn over to Independent Prosecutor Walsh his personal diary notes on the Iran-contra affair kept after November 1986.  Dec. 24, 1992 Bush gives presidential pardons to former Defense Secretary Caspar Weinberger, Clarridge, George, Abrams, Fiers, and McFarlane, effectively ending Walsh's prosecution of government officials involved in the Irancontra scandal.  ", 
+        "id": "powerusa1992", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1992, 
+        "title": "Injustice", 
+        "type": "power"
+    }, 
+
+
+
+
+
+    {
+        "end": 1993, 
+        "entry": "Aug. 1, 1993 The La Penca bomber is identified as Vital Roberto Gaguine, a leftist Argentine guerrilla who worked for the Sandinista's Fifth Directorate counter-intelligence unit.", 
+        "id": "redfistnic1993", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1993, 
+        "title": "Vital Roberto Gaguine", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 1993, 
+        "entry": "1993 On September 19, the El Paso Sector of the U.S. Border Patrol launches Operation Blockade (later renamed Operation Hold-the-Line).", 
+        "id": "powerusa1993", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1993, 
+        "title": "Operation Blockade", 
+        "type": "power"
+    }, 
+
+
+
+
+
+
+
+    {
+        "end": 1994, 
+        "entry": "1994 On October 1, the INS launches Operation Gatekeeper in San Diego. On November 8, California voters overwhelmingly approve Proposition 187. ", 
+        "id": "powerusa1994", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1994, 
+        "title": "Anti-Immigration Movements", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1995, 
+        "entry": "1995 The INS launches Operation Safeguard in Arizona. ", 
+        "id": "powerusa1995", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1995, 
+        "title": "Operation Safeguard", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1996, 
+        "entry": "1996  Arnoldo Aleman Lacayo elected as president of Nicaragua. The \"Fat Man\" is corrupt.", 
+        "id": "powernic1996", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 1996, 
+        "title": "Arnoldo Aleman Lacayo Elected.", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1996, 
+        "entry": "1996 Congress passes the Illegal Immigration Reform and Immigrant Responsibility Act.", 
+        "id": "powerusa1996", 
+        "loc": "usa2", 
+        "source": "", 
+        "start": 1996, 
+        "title": "Congress passes the Illegal Immigration Reform and Immigrant Responsibility Act", 
+        "type": "power"
+    }, 
+
+
+
+
+    {
+        "end": 1997, 
+        "entry": "1997 The INS launches &ldquo;Operation Rio Grande&rdquo; in the Brownsville area of Texas. ", 
+        "id": "powerusa1997", 
+        "loc": "usa1", 
+        "source": "", 
+        "start": 1997, 
+        "title": "Operation Rio Grande", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 1998, 
+        "entry": "1998  Hurricane Mitch destroys much of infrastructure of the country and 10,000 people die. Nicaragua and Honduras both have deaths in the thousands. ", 
+        "id": "envirhon1998", 
+        "loc": "hon1", 
+        "source": "", 
+        "start": 1998, 
+        "title": "Hurricaine Mitch", 
+        "type": "envir"
+    }, 
+
+
+
+    {
+        "end": 2002, 
+        "entry": "2002  Enrique Bolanos Geyer elected as president", 
+        "id": "powernic2002", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 2002, 
+        "title": "Enrique Bolanos Geyer elected as president", 
+        "type": "Enrique Bolanos Geyer elected as president"
+    }, 
+
+
+
+
+    {
+        "end": 2004, 
+        "entry": "2004  Central American Free Trade Agreement implemented", 
+        "id": "econdomrep2004", 
+        "loc": "domrep1", 
+        "source": "", 
+        "start": 2004, 
+        "title": "Central American Free Trade Agreement implemented", 
+        "type": "economy"
+    }, 
+
+
+
+
+    {
+        "end": 2006, 
+        "entry": "2006  Daniel Ortega elected as president for the second time ", 
+        "id": "powernic2006", 
+        "loc": "nic2", 
+        "source": "", 
+        "start": 2006, 
+        "title": "Daniel Ortega elected as president for the second time", 
+        "type": "power"
+    }, 
+
+
+
+    {
+        "end": 2008, 
+        "entry": "2008  Sandinistas dominate the municipal elections, many of the Sandinista mayors who were elected are critics of Daniel Ortega   ", 
+        "id": "redfistnic2008", 
+        "loc": "nic1", 
+        "source": "", 
+        "start": 2008, 
+        "title": "Sandinistas dominate the municipal elections", 
+        "type": "redfist"
+    }, 
+
+
+
+
+    {
+        "end": 2008, 
+        "entry": "In June, Manuel Contreras, the head of Operation Condor, receives two life sentences from a Chilean court for the assassination of General Prats and his wife.", 
+        "id": "powerchi2008", 
+        "loc": "chi1", 
+        "source": "", 
+        "start": 2008, 
+        "title": "Operation Condor head receives two life sentences", 
+        "type": "power"
+    }, 
+
+
+    {
+        "end": 2009, 
+        "entry": "In October, an Argentine Court resentences General Jorge Videla to military prison for human rights abuses. General Videoa had previously been convicted in 1985. He will die in prison in may 2013.", 
+        "id": "powerarg2009", 
+        "loc": "arg1", 
+        "source": "", 
+        "start": 2009, 
+        "title": "Videla resentenced", 
+        "type": "power"
+    }
+    ]

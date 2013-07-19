@@ -1,0 +1,30 @@
+prefix /defcon2/latinamerica/la.cgi/
+database dbname=la
+sql la.sql
+library random
+library hash
+rewrite url La/main
+rewrite url La/*
+library unsafe
+script http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js
+script http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js
+allow url http://labs.positionstudios.com/latinamerica/*
+allow url http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css
+rewrite style La/*
+script http://labs.positionstudios.com/latinamerica/site.js
+ffi lajs
+jsFunc Lajs.init=init
+benignEffectful Lajs.init
+jsFunc Lajs.set_fragment=set_fragment
+benignEffectful Lajs.set_fragment
+jsFunc Lajs.get_fragment_year=get_fragment_year
+benignEffectful Lajs.get_fragment_year
+jsFunc Lajs.get_fragment_id=get_fragment_id
+benignEffectful Lajs.get_fragment_id
+
+$/list
+$/option
+sourceL
+userpass
+messages
+la

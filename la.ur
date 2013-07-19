@@ -17,9 +17,9 @@ fun size_to_class s = case s of
                         | "medium" => entry_medium
                         | "large" => entry_large
                         | _ => error <xml>Invalid size for entry - this means a programming error</xml>
-                
-(* Users see this as a one page app - this is the page *)                
-                
+
+(* Users see this as a one page app - this is the page *)
+
 fun main () =
     content_source <- source <xml/>;
     entries_source <- source <xml/>;
@@ -79,7 +79,7 @@ and load_map content_source map_source year =
                 Lajs.set_visible r.Id;
                 load_entry content_source year r.Id
               }>
-       
+
       </a>{x}
     </xml>) <xml/> entries);
     Lajs.set_fragment year (-1);
@@ -94,7 +94,7 @@ and load_entry content_source year id =
           <div class={close}> </div>
           <h3 class={entry_title}>{[r.Title]}</h3>{r.Content}<hr/>{[r.Source]}</div></xml>;
     Lajs.paginate id
-    
+
 and fetch_entries year =
     ili <- Userpass.is_logged_in ();
     let val show_drafts = case ili of
@@ -111,12 +111,12 @@ and fetch_entries year =
         return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title, Loc = Unsafe.create_class e.E.Loc,
                                   Category = Unsafe.create_class e.E.Category}) l))
     end
-        
+
 and fetch_content id =
     r <- oneRow1 (SELECT E.Content,E.Title,E.Source,E.Size FROM entries AS E WHERE E.Id = {[id]});
     return {Content = (Unsafe.inject_html r.Content), Title = r.Title, Source = r.Source, Size = r.Size,
             Id = Unsafe.create_class ("id" ^ (show id))}
-    
+
 (* What follows is the backend *)
 and template content =
     msg <- Messages.get_message ();
@@ -126,7 +126,7 @@ and template content =
           <form>
             <submit action={Userpass.logout admin} value="Logout"/>
             </form>
-          </h4></xml>) logged_in) 
+          </h4></xml>) logged_in)
     in
         return
             (<xml>
@@ -150,7 +150,7 @@ and login_page () =
       <!--<h4>Signup</h4>
       {Userpass.signup_form admin}-->
     </xml>
-    
+
 and blank_entry () = {Id = 0, Title="", Content="", Start=0, End=0, Loc="",Category="",Source="", Size="large", Draft=False}
 
 and render_entries entries add_entry_id =
@@ -158,7 +158,7 @@ and render_entries entries add_entry_id =
      <button Onclick={fn _ => Lajs.toggle_div add_entry_id} value="Add Entry"></button>
       <div class={css_hidden} id={add_entry_id}>{entry_form (blank_entry ()) add_submit}</div>
       <br/>{entries}</xml>
-                     
+
 and show_country r =
     entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End FROM entries AS E
                                                             WHERE E.Loc LIKE {["%" ^ r.Country ^ "%"]}
@@ -167,8 +167,8 @@ and show_country r =
                         {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
     add_entry_id <- fresh;
     render_entries entries add_entry_id
-    
-                     
+
+
 and admin () =
     Userpass.assert_logged_in Messages.set_message login_page;
     num <- oneRowE1 (SELECT COUNT( * ) FROM entries);
@@ -256,12 +256,14 @@ and entry_form r target =
           <option selected={r.Size = "large"}>large</option>
         </select><br/>
         Draft <checkbox{#Draft} checked={r.Draft}/><br/>
-        <submit action={target} />
+        <br/>
+        Continue Editing <checkbox{#Continue} checked={True}/><br/>
+        <submit action={target} value="Save"/>
       </form>
     </xml>
 
 
-                
+
 and add_submit r =
     Userpass.assert_logged_in Messages.set_message login_page;
     id <- nextval entries_s;
@@ -269,7 +271,10 @@ and add_submit r =
         VALUES ({[id]},{[r.Title]},{[readError r.Start]},
             {[readError r.End]},{[r.Loc]},{[r.Category]},{[r.Source]},{[r.Content]}, {[r.Size]}, {[r.Draft]}));
     Messages.set_message "Successfully added entry";
-    redirect (url (admin ()))
+    if r.Continue then
+        redirect (url (edit_entry id))
+    else
+        redirect (url (admin ()))
 
 and all_entries () =
     Userpass.assert_logged_in Messages.set_message login_page;
@@ -302,5 +307,7 @@ and edit_submit r =
         Source = {[r.Source]}, Content = {[r.Content]}, Size = {[r.Size]}, Draft = {[r.Draft]}
         WHERE Id = {[readError r.Id]});
     Messages.set_message "Successfully updated entry";
-    redirect (url (admin ()))
-          
+    if r.Continue then
+        redirect (url (edit_entry (readError r.Id)))
+    else
+        redirect (url (admin ()))

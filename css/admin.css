@@ -1,3 +1,7 @@
 .css_hidden {
     display: none;
 }
+
+.draft {
+    background-color: #FE7070;
+}

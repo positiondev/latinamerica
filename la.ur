@@ -4,7 +4,10 @@ style entry_medium
 style entry_large
 style close
 style entry_title
+style entry_source
 style css_hidden
+style draft
+style not_draft
 
 sequence entries_s
 table entries : { Id : int, Title : string, Start : int, End : int,  Loc : string,
@@ -17,6 +20,8 @@ fun size_to_class s = case s of
                         | "medium" => entry_medium
                         | "large" => entry_large
                         | _ => error <xml>Invalid size for entry - this means a programming error</xml>
+
+fun draft_class b = if b then draft else not_draft
 
 (* Users see this as a one page app - this is the page *)
 
@@ -92,7 +97,7 @@ and load_entry content_source year id =
     set content_source
         <xml><div class={classes (size_to_class r.Size) r.Id}>
           <div class={close}> </div>
-          <h3 class={entry_title}>{[r.Title]}</h3>{r.Content}<hr/>{[r.Source]}</div></xml>;
+          <h3 class={entry_title}>{[r.Title]}</h3>{r.Content}<hr/><div class={entry_source}>{[r.Source]}</div></div></xml>;
     Lajs.paginate id
 
 and fetch_entries year =
@@ -160,10 +165,11 @@ and render_entries entries add_entry_id =
       <br/>{entries}</xml>
 
 and show_country r =
-    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End FROM entries AS E
-                                                            WHERE E.Loc LIKE {["%" ^ r.Country ^ "%"]}
-                                                            ORDER BY E.Start)
-                      (fn r => <xml><div><a href={url (edit_entry r.E.Id)}>Edit</a> -
+    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft FROM entries AS E
+                                                                     WHERE E.Loc LIKE {["%" ^ r.Country ^ "%"]}
+                                                                     ORDER BY E.Start)
+                      (fn r => <xml><div class={draft_class r.E.Draft}>
+                        <a href={url (edit_entry r.E.Id)}>Edit</a> -
                         {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
     add_entry_id <- fresh;
     render_entries entries add_entry_id
@@ -279,8 +285,8 @@ and add_submit r =
 and all_entries () =
     Userpass.assert_logged_in Messages.set_message login_page;
     add_entry_id <- fresh;
-    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End FROM entries AS E ORDER BY E.Start)
-                      (fn r => <xml><div><a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
+    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft FROM entries AS E ORDER BY E.Start)
+                      (fn r => <xml><div class={draft_class r.E.Draft}><a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
     render_entries entries add_entry_id
 
 and edit_entry (id:int) =

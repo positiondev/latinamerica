@@ -312,7 +312,7 @@ and edit_submit r =
         End = {[readError r.End]}, Loc = {[r.Loc]}, Category = {[r.Category]},
         Source = {[r.Source]}, Content = {[r.Content]}, Size = {[r.Size]}, Draft = {[r.Draft]}
         WHERE Id = {[readError r.Id]});
-    Messages.set_message "Successfully updated entry";
+    (* Messages.set_message "Successfully updated entry"; *)
     if r.Continue then
         redirect (url (edit_entry (readError r.Id)))
     else

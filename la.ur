@@ -15,6 +15,10 @@ table entries : { Id : int, Title : string, Start : int, End : int,  Loc : strin
                   Draft : bool }
                 PRIMARY KEY Id
 
+(* For fun :) *)
+table misc : { Key : string, Data : string }
+             PRIMARY KEY Key
+
 fun size_to_class s = case s of
                           "small" => entry_small
                         | "medium" => entry_medium
@@ -175,10 +179,12 @@ and show_country r =
     add_entry_id <- fresh;
     render_entries entries add_entry_id
 
-
 and admin () =
     Userpass.assert_logged_in Messages.set_message login_page;
     num <- oneRowE1 (SELECT COUNT( * ) FROM entries);
+    num_drafts <- oneRowE1 (SELECT COUNT ( * ) FROM entries AS E WHERE E.Draft = {[True]});
+    did_work_yay <- oneOrNoRows1 (SELECT M.Data FROM misc AS M WHERE M.Key = {["did_work_yay"]});
+    dml (DELETE FROM misc WHERE Key = {["did_work_yay"]});
     let val options = List.foldr (fn c x => <xml><option value={c.Pre}>{[c.Nm]}</option>{x}</xml>)
                                  <xml/>
                                  (Cons ({Pre = "afr", Nm = "Africa"},
@@ -223,6 +229,11 @@ and admin () =
     in
         template <xml>
           <h4>Total Entries: {[num]}</h4>
+          <h4>Total Entries (Drafts): {[num_drafts]}</h4>
+          {case did_work_yay of
+               Some _ => <xml><h4 class={Unsafe.create_class "yay_draft"}>
+                 Finished a draft! YAYAYAY!</h4></xml>
+             | _ => <xml/>}
           <h4><a href={url (all_entries ())}>All Entries</a></h4>
           <form>
             Country: <select{#Country}>
@@ -310,10 +321,18 @@ and edit_entry (id:int) =
 
 and edit_submit r =
     Userpass.assert_logged_in Messages.set_message login_page;
+    num_drafts <- oneRowE1 (SELECT COUNT ( * ) FROM entries AS E WHERE E.Draft = {[True]});
     dml (UPDATE entries SET Title = {[r.Title]}, Start = {[readError r.Start]},
         End = {[readError r.End]}, Loc = {[r.Loc]}, Category = {[r.Category]},
         Source = {[r.Source]}, Content = {[r.Content]}, Size = {[r.Size]}, Draft = {[r.Draft]}
         WHERE Id = {[readError r.Id]});
+    num_drafts_after <- oneRowE1 (SELECT COUNT ( * ) FROM entries AS E WHERE E.Draft = {[True]});
+    (if num_drafts_after < num_drafts
+    then (hr <- hasRows (SELECT * FROM misc AS M WHERE M.Key = {["did_work_yay"]});
+         (case hr of
+             False => dml (INSERT INTO misc (Key, Data) VALUES ({["did_work_yay"]}, {["yes"]}))
+           | True => return ()))
+    else return ());
     (* Messages.set_message "Successfully updated entry"; *)
     if r.Continue then
         redirect (url (edit_entry (readError r.Id)))

@@ -21,4 +21,9 @@ CREATE TABLE uw_Userpass_s(uw_loggedin text NOT NULL, uw_user text NOT NULL,
                                                           
     );
     
-    
+    CREATE TABLE uw_La_misc(uw_key text NOT NULL, uw_data text NOT NULL,
+     PRIMARY KEY (uw_key)
+      
+     );
+     
+     

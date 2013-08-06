@@ -2,7 +2,7 @@
    in particular the icon urls and sizes */
 
 .iso {
-    position: absolute; 
+    position: absolute;
     z-index: 2;
 }
 
@@ -16,6 +16,19 @@ a.int { position: relative;}
 }
 
 a.redstar:hover, .redstar.active {
+    background:url(point-hover.png) no-repeat -0px -0px;
+    cursor: pointer;
+}
+
+
+.event {
+    background:url(/mapimages/eventicon.gif) no-repeat;
+    width:15px;
+    height:15px;
+    cursor: pointer;
+}
+
+a.event:hover, .event.active {
     background:url(point-hover.png) no-repeat -0px -0px;
     cursor: pointer;
 }
@@ -149,6 +162,3 @@ a.war:hover, .war.active {
     margin: -45px -10px;
     cursor: pointer;
 }
-
-
-

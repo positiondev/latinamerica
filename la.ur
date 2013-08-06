@@ -64,6 +64,7 @@ fun main () =
             <div class={Unsafe.create_class "envir"}>Environment</div>
             <div class={Unsafe.create_class "massacre"}>Massacre</div>
             <div class={Unsafe.create_class "ind"}>Indigenous</div>
+            <div class={Unsafe.create_class "event"}>Other Event</div>
           </div>
           <div class={Unsafe.create_class "textBox"}>
             <dyn signal={v <- signal content_source; return v}></dyn>
@@ -251,6 +252,7 @@ and entry_form r target =
           <option selected={r.Category = "economy"}>economy</option>
           <option selected={r.Category = "argicultural"}>argicultural</option>
           <option selected={r.Category = "envir"}>envir</option>
+          <option selected={r.Category = "event"}>event</option>
           <option selected={r.Category = "massacre"}>massacre</option>
           <option selected={r.Category = "ind"}>ind</option>
           <option selected={r.Category = "war"}>war</option>

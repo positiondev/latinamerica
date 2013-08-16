@@ -124,7 +124,7 @@ and fetch_entries year =
 
 and fetch_content id =
     r <- oneRow1 (SELECT E.Content,E.Title,E.Source,E.Size FROM entries AS E WHERE E.Id = {[id]});
-    return {Content = (Unsafe.inject_html r.Content), Title = r.Title, Source = r.Source, Size = r.Size,
+    return {Content = (Unsafe.inject_html r.Content), Title = (Unsafe.inject_html r.Title), Source = (Unsafe.inject_html r.Source), Size = r.Size,
             Id = Unsafe.create_class ("id" ^ (show id))}
 
 (* What follows is the backend *)
@@ -235,6 +235,7 @@ and admin () =
                  Finished a draft! YAYAYAY!</h4></xml>
              | _ => <xml/>}
           <h4><a href={url (all_entries ())}>All Entries</a></h4>
+          <h4><a href={url (all_entries_long ())}>All Entries (with content)</a></h4>
           <form>
             Country: <select{#Country}>
               {options}
@@ -244,6 +245,34 @@ and admin () =
         </xml>
     end
 
+and load_n_entries n start =
+    raw_entries <- queryL (SELECT E.Id, E.Title, E.Start, E.End, E.Content, E.Draft FROM entries AS E ORDER BY E.Start LIMIT {n} OFFSET {start});
+    let val entries_xml = List.foldr (fn r x => <xml>{x}<div class={draft_class r.E.Draft}><a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}<hr/>
+                      {Unsafe.inject_html r.E.Content}</div></xml>) <xml/> raw_entries
+    in
+        return {Xml = entries_xml, More = ((List.length raw_entries) = n)}
+    end
+
+and load_all_entries start (box : source xbody) =
+    r <- rpc (load_n_entries 50 start);
+    existing <- get box;
+    set box <xml>{existing} {r.Xml}</xml>;
+    if r.More then load_all_entries (start + 50) box else return ()
+
+and all_entries_long () =
+    ebox <- source <xml/>;
+    Userpass.assert_logged_in Messages.set_message login_page;
+    return <xml>
+      <head>
+        <link rel="stylesheet" href="http://map.historyisaweapon.com/static/css/admin.css"
+        type="text/css" media="screen" />
+      </head>
+      <body onload={load_all_entries 0 ebox}>
+        <h4>All Entries</h4>
+        <a href={url (admin ())}>Admin Home</a>
+        <dyn signal={x <- signal ebox; return x}/>
+      </body>
+    </xml>
 
 and entry_form r target =
     <xml>

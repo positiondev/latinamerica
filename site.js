@@ -2,7 +2,7 @@ function init(set_year, initial_year) {
     var set_year_wrap = function(year) {
         execF(execF(set_year, year), null);
     };
-    
+
     $(document).ready(function() {
         $(".slider").slider({
             min: 1491,
@@ -15,14 +15,14 @@ function init(set_year, initial_year) {
             set_year_wrap(ui.value);
             $(".yearIndicator").text(ui.value);
         });
-        
+
         $(".yearIndicator").text("" + initial_year);
 
         $(document).on("click", ".close", function () {
           $(this).parent().hide();
         });
 
-      
+
     });
 
 }
@@ -45,52 +45,83 @@ function set_visible(id) {
 
 function paginate(id) {
   var d = $(".id" + id);
-  d.attr("data-page", 0);
-  var pages = d.find(".page");
-  if (pages.length != 0) {
-    var navContainer = $("<div class='navContainer'>");
-    var nav = $("<div class='nav'>");
-    navContainer.append(nav);
-    pages.each(function (i, p) {
-      var title;
-      if ($(p).attr("data-title")) {
-        title = $(p).attr("data-title");
+  var pageDividers = d.find(".page");
+  if (pageDividers.length != 0) {
+    var pages = [];
+    var collected = [];
+    var cur = $("<div class='page'>");
+    var start = false;
+    d.children().each(function(i,e) {
+      if (!start) {
+        if ($(e).hasClass("page")) {
+          start = true;
+        }
       } else {
-        title = "" + i;
+        if ($(e).hasClass("page")) {
+          console.log(e);
+          collected.map(function(e) { cur.append(e); });
+          collected = [];
+          pages.push(cur);
+          cur = $("<div class='page'>");
+          if (typeof $(e).attr("data-title") !== "undefined") {
+            cur.attr("data-title", $(e).attr("data-title"));
+          }
+        } else {
+          collected.push(e);
+        }
       }
-      var s = $("<span class='page'>" + title + "</span>");
-      s.on("click", function () {
-        d.attr("data-page", i);
-        set_page(d);
-      });
-      s.addClass("page" + i);
-      nav.append(s);
     });
+    d.children().hide();
+    pages.map(function(e) { d.append(e); });
 
-    d.find(".entry_title").after(navContainer);
-    
-    set_page(d);
+    var pagesDS = pages.map(function (p) {
+      var title;
+      if (typeof $(p).attr("data-title") !== "undefined") {
+        title = "" + $(p).attr("data-title");
+      } else {
+        title = "";
+      }
+      return {title: title, page: p};
+    });
+    set_page(d, pagesDS, 0);
   }
+  d.find(".close").show();
 }
 
-function set_page(d) {
-  var i = -1;
-  var current = parseInt(d.attr("data-page"));
-  d.find(".nav .page").removeClass("selected");
-  d.find(".nav .page"+current).addClass("selected");
-  d.children().each(function (index, elem) {
-    if ($(elem).hasClass("page")) {
-      i++;
+function set_page(d, pages, i) {
+  d.find('.page').hide();
+  $(pages[i].page).show();
+  d.find(".nav").remove();
+  var nav = $("<div class='nav'>");
+  var titleText = "Page " + (i+1) + " of " + pages.length;
+  if (pages[i].title !== "") {
+    titleText = titleText + ": " + pages[i].title;
+  }
+  var title = $("<span class='title'>").text(titleText);
+  var prev = $("<a href='#' class='prev'>Previous</span>");
+  var next = $("<a href='#' class='next'>Next</span>");
+  if (i !== 0) {
+    nav.append(prev);
+  }
+  nav.append(title);
+  if (i !== pages.length - 1) {
+    nav.append(next);
+  }
+
+  prev.on('click', function () {
+    if (i > 0) {
+      set_page(d, pages, i-1);
     }
-    if (i === current) {
-      $(elem).show();
-    } else if (i > -1) {
-      $(elem).hide();
+    return false;
+  });
+  next.on('click', function () {
+    if (i < pages.length - 1) {
+      set_page(d, pages, i+1);
     }
+    return false;
   });
 
-  d.find(".navContainer").show();
-  d.find(".close").show();
+  d.append(nav);
 }
 
 function toggle_div(id) {

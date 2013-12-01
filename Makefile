@@ -36,4 +36,3 @@ deploy-static:
 
 restart:
 	ssh map.historyisaweapon.com /var/www/latinamerica/restart.sh
-

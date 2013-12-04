@@ -55,11 +55,14 @@ function paginate(id) {
       if (!start) {
         if ($(e).hasClass("page")) {
           start = true;
+          if (typeof $(e).attr("data-title") !== "undefined") {
+            cur.attr("data-title", $(e).attr("data-title"));
+          }
+          $(e).remove();
         }
       } else {
         if ($(e).hasClass("page")) {
-          console.log(e);
-          collected.map(function(e) { cur.append(e); });
+          collected.map(function(elt) { cur.append(elt); });
           collected = [];
           pages.push(cur);
           cur = $("<div class='page'>");
@@ -67,11 +70,14 @@ function paginate(id) {
             cur.attr("data-title", $(e).attr("data-title"));
           }
         } else {
-          collected.push(e);
+          collected.push($(e).clone());
         }
+        $(e).remove();
       }
     });
-    d.children().hide();
+    collected.map(function(elt) { cur.append(elt); });
+    pages.push(cur);
+
     pages.map(function(e) { d.append(e); });
 
     var pagesDS = pages.map(function (p) {

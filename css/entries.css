@@ -57,3 +57,12 @@
 .entry_large .nav .next {
     right: 20px;
 }
+
+
+.entry_small a, .entry_medium a, .entry_large a {
+    color: #C00;
+}
+.entry_small a:hover, .entry_medium a:hover, .entry_large a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

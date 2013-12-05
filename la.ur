@@ -44,15 +44,19 @@ fun main () =
       </head>
       <body onload={SourceL.onChange year_source (fn year =>
                                                      set content_source <xml/>;
-                                                     load_map content_source entries_source year);
+                                                     load_map True content_source entries_source year);
                     frag_year <- Lajs.get_fragment_year;
                     frag_id <- Lajs.get_fragment_id;
                     let val year = if frag_year = (-1) then 1491 else frag_year
                     in
-                        Lajs.init (SourceL.set year_source) year;
-                        Lajs.set_fragment year frag_id;
+                        Lajs.init
+                            (SourceL.set year_source)
+                            year
+                            (set content_source <xml/>)
+                            (load_entry True content_source entries_source)
+                            (load_map False content_source entries_source);
                         SourceL.set year_source year;
-                        if frag_id <> (-1) then load_entry content_source year frag_id else return {}
+                        if frag_id <> (-1) then load_entry False content_source entries_source year frag_id else return {}
                     end}>
         <div class={Unsafe.create_class "mainmap"}>
           <div class={Unsafe.create_class "slider"}></div>
@@ -79,31 +83,31 @@ fun main () =
     </xml>
 
 (* There is a little bit of ajax to fetch the entries *)
-and load_map content_source map_source year =
+and load_map set_frag content_source map_source year =
     entries <- rpc (fetch_entries year);
     x <- (List.foldlM (fn r x =>
                                    newid <- fresh;
                                    return <xml>
       <a class={classes location (classes r.Loc r.Category)} id={newid} title={r.Title}
       onclick={fn _ =>
-                Lajs.set_visible r.Id;
-                load_entry content_source year r.Id
+                load_entry False content_source map_source year r.Id
               }>
 
       </a>{x}
     </xml>) <xml/> entries);
-    Lajs.set_fragment year (-1);
+    (if set_frag then Lajs.set_fragment year (-1) else return ());
     Lajs.set_year_specific year;
     set map_source x
 
-and load_entry content_source year id =
+and load_entry change_year content_source map_source year id =
     r <- rpc (fetch_content id);
     Lajs.set_fragment year id;
     set content_source
         <xml><div class={classes (size_to_class r.Size) r.Id}>
           <div class={close}> </div>
-          <h3 class={entry_title}>{[r.Title]}</h3>{r.Content}<hr/><div class={entry_source}>{[r.Source]}</div></div></xml>;
-    Lajs.paginate id
+          <h3 class={entry_title}>{r.Title}</h3>{r.Content}<hr/><div class={entry_source}>{r.Source}</div></div></xml>;
+    Lajs.paginate id;
+    (if change_year then load_map False content_source map_source year else return ())
 
 and fetch_entries year =
     ili <- Userpass.is_logged_in ();

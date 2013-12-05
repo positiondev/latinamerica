@@ -25,7 +25,7 @@ static: librandom.a libhash.a libunsafe.a
 	urweb -static -dbms sqlite -db la.db la
 
 run: app
-	./la.exe -db ../la.db
+	./la.exe
 
 deploy: static deploy-static
 	rsync --checksum -ave 'ssh ' la.exe  hiaw@map.historyisaweapon.com:/var/www/latinamerica

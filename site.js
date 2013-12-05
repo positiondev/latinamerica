@@ -1,29 +1,58 @@
-function init(set_year, initial_year) {
-    var set_year_wrap = function(year) {
-        execF(execF(set_year, year), null);
+function init(set_year, initial_year, close_callback, load_entry, load_year) {
+  var set_year_wrap = function(year) {
+    execF(execF(set_year, year), null);
+  };
+
+  $(document).ready(function() {
+    $(".slider").slider({
+      min: 1491,
+      max: 2020,
+      step: 1,
+      value: initial_year,
+    });
+
+    $(".slider").bind("slidestop", function(event, ui) {
+      set_year_wrap(ui.value);
+      $(".yearIndicator").text(ui.value);
+    });
+
+    $(".yearIndicator").text("" + initial_year);
+
+    $(document).on("click", ".close", function () {
+      set_fragment(get_fragment_year(), -1);
+      execF(close_callback, null);
+    });
+
+    $(document).on("click", "a[data-entry]", function() {
+      var id = parseInt($(this).attr("data-entry"));
+      var year = -1;
+      if (typeof $(this).attr("data-year") !== "undefined") {
+        year = parseInt($(this).attr("data-year"));
+        $(".slider").slider("value", year);
+        $(".yearIndicator").text(year);
+      }
+      execF(execF(execF(load_entry, year), id), null);
+      return false;
+    });
+
+    window.onpopstate = function(event) {
+      if (event.laInfo === "manual") {
+        return;
+      }
+      console.log("popping");
+      var year = get_fragment_year();
+      var id = get_fragment_id();
+      $(".slider").slider("value", year);
+      $(".yearIndicator").text(year);
+      if (id !== -1) {
+        execF(execF(execF(load_entry, year), id), null);
+      } else {
+        execF(close_callback, null);
+        execF(execF(load_year, year), null);
+      }
     };
 
-    $(document).ready(function() {
-        $(".slider").slider({
-            min: 1491,
-            max: 2020,
-            step: 1,
-            value: initial_year,
-        });
-
-        $(".slider").bind("slidestop", function(event, ui) {
-            set_year_wrap(ui.value);
-            $(".yearIndicator").text(ui.value);
-        });
-
-        $(".yearIndicator").text("" + initial_year);
-
-        $(document).on("click", ".close", function () {
-          $(this).parent().hide();
-        });
-
-
-    });
+  });
 
 }
 
@@ -36,11 +65,7 @@ function set_year_specific(year) {
 }
 
 function set_fragment(year, id) {
-    location.hash = "year=" + year + ",id=" + id;
-}
-
-function set_visible(id) {
-  $(".id" + id).show();
+  history.pushState({laInfo: "manual"}, '', "#year=" + year + ",id=" + id);
 }
 
 function paginate(id) {
@@ -52,6 +77,7 @@ function paginate(id) {
     var cur = $("<div class='page'>");
     var start = false;
     d.children().each(function(i,e) {
+      console.log(e);
       if (!start) {
         if ($(e).hasClass("page")) {
           start = true;
@@ -78,6 +104,7 @@ function paginate(id) {
     collected.map(function(elt) { cur.append(elt); });
     pages.push(cur);
 
+    console.log(pages);
     pages.map(function(e) { d.append(e); });
 
     var pagesDS = pages.map(function (p) {

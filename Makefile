@@ -19,15 +19,20 @@ libhash.o: hash.c
 	gcc -I/usr/local/include/urweb -g -c -o $@ $<
 
 app: librandom.a libhash.a libunsafe.a
-	urweb -dbms sqlite -db la.db la
+	urweb -dbms postgres -db "dbname=la host=127.0.0.1 user=la_user" la
 
+production: librandom.a libhash.a libunsafe.a
+	urweb -dbms postgres -db "dbname=la host=127.0.0.1 user=la_user" la
+
+
+# NOTE(dbp 2014-02-23): Static linking seems broken on debian for me currently.
 static: librandom.a libhash.a libunsafe.a
-	urweb -static -dbms sqlite -db la.db la
+	urweb -static -dbms postgres -db "dbname=la host=127.0.0.1 user=la_user" la
 
 run: app
 	./la.exe
 
-deploy: static deploy-static
+deploy: production deploy-static
 	rsync --checksum -ave 'ssh ' la.exe  hiaw@map.historyisaweapon.com:/var/www/latinamerica
 
 deploy-static:

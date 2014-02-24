@@ -1,4 +1,3 @@
-database dbname=la
 sql la.sql
 library random
 library hash

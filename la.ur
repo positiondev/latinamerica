@@ -83,7 +83,10 @@ fun main () =
       </body>
     </xml>
 
-(* and test () = return <xml><body>{[Lib.escape_quotes "\"Hello!\""]}</body></xml> *)
+and test_handler () = let val s : string = "\"Hello"
+                      in
+                          return <xml><body>{[Lib.escape_quotes s]}</body></xml>
+                      end
 
 (* There is a little bit of ajax to fetch the entries *)
 and load_map set_frag content_source map_source all_entries year =

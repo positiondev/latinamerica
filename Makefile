@@ -1,11 +1,5 @@
 all: app
 
-liblib.a: liblib.o
-	ar rcs $@ $<
-
-liblib.o: lib.c
-	gcc -I/usr/local/include/urweb -g -c -o $@ $<
-
 libunsafe.a: libunsafe.o
 	ar rcs $@ $<
 
@@ -24,10 +18,10 @@ libhash.a: libhash.o
 libhash.o: hash.c
 	gcc -I/usr/local/include/urweb -g -c -o $@ $<
 
-app: librandom.a libhash.a libunsafe.a liblib.a
+app: librandom.a libhash.a libunsafe.a
 	urweb -dbms postgres -db "dbname=la host=127.0.0.1 user=la_user" la
 
-production: librandom.a libhash.a libunsafe.a liblib.a
+production: librandom.a libhash.a libunsafe.a
 	urweb -dbms postgres -db "dbname=la host=127.0.0.1 user=la_user" la
 
 
@@ -46,4 +40,4 @@ deploy-static:
 	rsync --checksum -ave 'ssh ' css/* hiaw@map.historyisaweapon.com:/var/www/latinamerica/static/css
 
 restart:
-	ssh hiaw@map.historyisaweapon.com /var/www/latinamerica/restart.sh
+	ssh map.historyisaweapon.com /var/www/latinamerica/restart.sh

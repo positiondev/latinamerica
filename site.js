@@ -11,7 +11,7 @@ function init(set_year, initial_year, close_callback, load_entry, load_year) {
       value: initial_year,
     });
 
-    $(".slider").bind("slidestop", function(event, ui) {
+    $(".slider").bind("slide", function(event, ui) {
       set_year_wrap(ui.value);
       $(".yearIndicator").text(ui.value);
     });

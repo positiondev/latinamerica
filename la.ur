@@ -33,6 +33,7 @@ fun main () =
     content_source <- source <xml/>;
     entries_source <- source <xml/>;
     year_source <- SourceL.create 0;
+    all_es <- fetch_all_entries ();
     return <xml>
       <head>
         <title>History Is A Weapon's Big Latin America Map</title>
@@ -44,7 +45,7 @@ fun main () =
       </head>
       <body onload={SourceL.onChange year_source (fn year =>
                                                      set content_source <xml/>;
-                                                     load_map True content_source entries_source year);
+                                                     load_map True content_source entries_source all_es year);
                     frag_year <- Lajs.get_fragment_year;
                     frag_id <- Lajs.get_fragment_id;
                     let val year = if frag_year = (-1) then 1491 else frag_year
@@ -53,10 +54,10 @@ fun main () =
                             (SourceL.set year_source)
                             year
                             (set content_source <xml/>)
-                            (load_entry True content_source entries_source)
-                            (load_map False content_source entries_source);
+                            (load_entry True content_source entries_source all_es)
+                            (load_map False content_source entries_source all_es);
                         SourceL.set year_source year;
-                        if frag_id <> (-1) then load_entry False content_source entries_source year frag_id else return {}
+                        if frag_id <> (-1) then load_entry False content_source entries_source all_es year frag_id else return {}
                     end}>
         <div class={Unsafe.create_class "mainmap"}>
           <div class={Unsafe.create_class "slider"}></div>
@@ -82,24 +83,29 @@ fun main () =
       </body>
     </xml>
 
+(* and test () = return <xml><body>{[Lib.escape_quotes "\"Hello!\""]}</body></xml> *)
+
 (* There is a little bit of ajax to fetch the entries *)
-and load_map set_frag content_source map_source year =
-    entries <- rpc (fetch_entries year);
-    x <- (List.foldlM (fn r x =>
-                                   newid <- fresh;
-                                   return <xml>
-      <a class={classes location (classes r.Loc r.Category)} id={newid} title={r.Title}
-      onclick={fn _ =>
-                load_entry False content_source map_source year r.Id
-              }>
+and load_map set_frag content_source map_source all_entries year =
+    let val entries = List.filter (fn e => e.Start <= year && e.End >= year) all_entries
+    in
+      x <- (List.foldlM (fn r x =>
+                                     newid <- fresh;
+                                     return <xml>
+        <a class={classes location (classes r.Loc r.Category)}
+           id={newid} title={r.Title}
+           onclick={fn _ =>
+                load_entry False content_source map_source all_entries year r.Id
+                }>
 
-      </a>{x}
-    </xml>) <xml/> entries);
-    (if set_frag then Lajs.set_fragment year (-1) else return ());
-    Lajs.set_year_specific year;
-    set map_source x
+         </a>{x}
+       </xml>) <xml/> entries);
+       (if set_frag then Lajs.set_fragment year (-1) else return ());
+       Lajs.set_year_specific year;
+       set map_source x
+    end
 
-and load_entry change_year content_source map_source year id =
+and load_entry change_year content_source map_source all_entries year id =
     r <- rpc (fetch_content id);
     Lajs.set_fragment year id;
     set content_source
@@ -107,28 +113,28 @@ and load_entry change_year content_source map_source year id =
           <div class={close}> </div>
           <h3 class={entry_title}>{r.Title}</h3>{r.Content}<hr/><div class={entry_source}>{r.Source}</div></div></xml>;
     Lajs.paginate id;
-    (if change_year then load_map False content_source map_source year else return ())
+    (if change_year then load_map False content_source map_source all_entries year else return ())
 
-and fetch_entries year =
+and fetch_all_entries () : transaction (List.t {Id : int, Title : string, Loc : css_class, Category : css_class, Start : int, End : int}) =
     ili <- Userpass.is_logged_in ();
     let val show_drafts = case ili of
                               None => False
                             | _ => True
     in
         (l <- (if show_drafts then
-                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category
-                     FROM entries AS E
-                     WHERE E.Start <= {[year]} AND E.End >= {[year]}))
-              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category
-                     FROM entries AS E
-                     WHERE E.Start <= {[year]} AND E.End >= {[year]} AND E.Draft = {[False]})));
-        return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title, Loc = Unsafe.create_class e.E.Loc,
-                                  Category = Unsafe.create_class e.E.Category}) l))
+                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+                     FROM entries AS E))
+              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+                     FROM entries AS E WHERE E.Draft = {[False]})));
+        return (List.mp (fn e => {Id = e.E.Id, Title = Lib.escape_quotes e.E.Title,
+                                  Loc = Unsafe.create_class e.E.Loc,
+                                  Category = Unsafe.create_class e.E.Category,
+                                  Start = e.E.Start, End = e.E.End}) l))
     end
 
 and fetch_content id =
     r <- oneRow1 (SELECT E.Content,E.Title,E.Source,E.Size FROM entries AS E WHERE E.Id = {[id]});
-    return {Content = (Unsafe.inject_html r.Content), Title = (Unsafe.inject_html r.Title), Source = (Unsafe.inject_html r.Source), Size = r.Size,
+    return {Content = (Unsafe.inject_html r.Content), Title = (Unsafe.inject_html (Lib.escape_quotes r.Title)), Source = (Unsafe.inject_html r.Source), Size = r.Size,
             Id = Unsafe.create_class ("id" ^ (show id))}
 
 (* What follows is the backend *)
@@ -238,8 +244,8 @@ and admin () =
                Some _ => <xml><h4 class={Unsafe.create_class "yay_draft"}>
                  Finished a draft! YAYAYAY!</h4></xml>
              | _ => <xml/>}
-          <h4><a href={url (all_entries ())}>All Entries</a></h4>
-          <h4><a href={url (all_entries_long ())}>All Entries (with content)</a></h4>
+          <h4><a href={url (show_all_entries ())}>All Entries</a></h4>
+          <h4><a href={url (show_all_entries_long ())}>All Entries (with content)</a></h4>
           <form>
             Country: <select{#Country}>
               {options}
@@ -263,7 +269,7 @@ and load_all_entries start (box : source xbody) =
     set box <xml>{existing} {r.Xml}</xml>;
     if r.More then load_all_entries (start + 50) box else return ()
 
-and all_entries_long () =
+and show_all_entries_long () =
     ebox <- source <xml/>;
     Userpass.assert_logged_in Messages.set_message login_page;
     return <xml>
@@ -328,7 +334,7 @@ and add_submit r =
     else
         redirect (url (admin ()))
 
-and all_entries () =
+and show_all_entries () =
     Userpass.assert_logged_in Messages.set_message login_page;
     add_entry_id <- fresh;
     entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft FROM entries AS E ORDER BY E.Start)
@@ -344,7 +350,7 @@ and edit_entry (id:int) =
         Cons (r,_) =>
         template <xml>
           <h4>Edit Entry</h4>
-          <a href={url (all_entries ())}>Back to All Entries</a>
+          <a href={url (show_all_entries ())}>Back to All Entries</a>
           <br/><br/>
           {entry_form r.E edit_submit}
         </xml>

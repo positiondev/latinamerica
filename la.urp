@@ -4,6 +4,7 @@ library hash
 rewrite url La/main
 rewrite url La/*
 library unsafe
+library lib
 script http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js
 script http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js
 allow url http://map.historyisaweapon.com/static/*

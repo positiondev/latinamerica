@@ -1,4 +1,25 @@
-function init(set_year, initial_year, close_callback, load_entry, load_year) {
+function init(set_year, initial_year, close_callback,
+              load_entry, load_year, render_year, cons_entries) {
+
+
+  window.entries = [];
+  while (cons_entries !== null) {
+    entries.push(cons_entries._1);
+    cons_entries = cons_entries._2;
+  }
+
+  function arraytoconslist(arr) {
+    arr.reverse();
+    var prev = null;
+    var next;
+    for(var i = 0; i < arr.length; i++) {
+      next = {_1: arr[i], _2: prev};
+      prev = next;
+    }
+    return prev;
+  }
+
+
   var set_year_wrap = function(year) {
     execF(execF(set_year, year), null);
   };
@@ -13,16 +34,19 @@ function init(set_year, initial_year, close_callback, load_entry, load_year) {
 
     var reqPending = false;
 
+    function load(year) {
+      var cur_entries = entries.filter(function(e) {
+        return (e._Start <= year) && (e._End >= year);
+      });
+      execF(execF(execF(render_year, year), arraytoconslist(cur_entries)), null);
+      $(".yearIndicator").text(year);
+    }
+
     $(".slider").bind("slide", function(event, ui) {
-      if (!reqPending) {
-        reqPending = true;
-        setTimeout(function () {
-          reqPending = false;
-          set_year_wrap(ui.value);
-        }, 200);
-      }
-      $(".yearIndicator").text(ui.value);
+      load(ui.value);
     });
+
+    load(initial_year);
 
     $(".yearIndicator").text("" + initial_year);
 

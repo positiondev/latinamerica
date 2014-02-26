@@ -42,11 +42,9 @@ fun main () =
         <link rel="stylesheet" href="http://map.historyisaweapon.com/static/css/main.css"
         type="text/css" media="screen" />
       </head>
-      <body onload={SourceL.onChange year_source (fn year =>
-                                                     set content_source <xml/>;
-                                                     load_map True content_source entries_source year);
-                    frag_year <- Lajs.get_fragment_year;
+      <body onload={frag_year <- Lajs.get_fragment_year;
                     frag_id <- Lajs.get_fragment_id;
+                    all_es <- rpc (fetch_all_entries ());
                     let val year = if frag_year = (-1) then 1491 else frag_year
                     in
                         Lajs.init
@@ -54,8 +52,9 @@ fun main () =
                             year
                             (set content_source <xml/>)
                             (load_entry True content_source entries_source)
-                            (load_map False content_source entries_source);
-                        SourceL.set year_source year;
+                            (load_map False content_source entries_source)
+                            (render_map True content_source entries_source)
+                            all_es;
                         if frag_id <> (-1) then load_entry False content_source entries_source year frag_id else return {}
                     end}>
         <div class={Unsafe.create_class "mainmap"}>
@@ -82,9 +81,7 @@ fun main () =
       </body>
     </xml>
 
-(* There is a little bit of ajax to fetch the entries *)
-and load_map set_frag content_source map_source year =
-    entries <- rpc (fetch_entries year);
+and render_map set_frag content_source map_source year entries =
     x <- (List.foldlM (fn r x =>
                                    newid <- fresh;
                                    return <xml>
@@ -98,6 +95,11 @@ and load_map set_frag content_source map_source year =
     (if set_frag then Lajs.set_fragment year (-1) else return ());
     Lajs.set_year_specific year;
     set map_source x
+
+(* There is a little bit of ajax to fetch the entries *)
+and load_map set_frag content_source map_source year =
+    entries <- rpc (fetch_entries year);
+    render_map set_frag content_source map_source year entries
 
 and load_entry change_year content_source map_source year id =
     r <- rpc (fetch_content id);
@@ -116,13 +118,34 @@ and fetch_entries year =
                             | _ => True
     in
         (l <- (if show_drafts then
-                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category
+                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
                      FROM entries AS E
                      WHERE E.Start <= {[year]} AND E.End >= {[year]}))
-              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category
+              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
                      FROM entries AS E
                      WHERE E.Start <= {[year]} AND E.End >= {[year]} AND E.Draft = {[False]})));
-        return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title, Loc = Unsafe.create_class e.E.Loc,
+        return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title,
+                                  Start = e.E.Start, End = e.E.End,
+                                  Loc = Unsafe.create_class e.E.Loc,
+                                  Category = Unsafe.create_class e.E.Category}) l))
+    end
+
+and fetch_all_entries () : transaction (list {Id : int, Title : string, Loc : css_class,
+                Start : int, End : int, Category : css_class })=
+    ili <- Userpass.is_logged_in ();
+    let val show_drafts = case ili of
+                              None => False
+                            | _ => True
+    in
+        (l <- (if show_drafts then
+                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+                     FROM entries AS E))
+              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+                     FROM entries AS E
+                     WHERE E.Draft = {[False]})));
+        return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title,
+                                  Loc = Unsafe.create_class e.E.Loc,
+                                  Start = e.E.Start, End = e.E.End,
                                   Category = Unsafe.create_class e.E.Category}) l))
     end
 

@@ -3,6 +3,10 @@ val init : (int -> transaction unit) -> (* set year *)
            transaction unit -> (* setting content_source to blank *)
            (int -> int -> transaction unit) -> (* setting an entry *)
            (int -> transaction unit) -> (* setting a year *)
+           (int -> list {Id : int, Title : string, Loc : css_class,
+                Start : int, End : int, Category : css_class} -> transaction unit) -> (* rendering a year *)
+           list {Id : int, Title : string, Loc : css_class,
+                Start : int, End : int, Category : css_class} ->
            transaction unit
 
 val set_fragment : int -> (* year *)

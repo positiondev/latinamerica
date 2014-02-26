@@ -11,8 +11,16 @@ function init(set_year, initial_year, close_callback, load_entry, load_year) {
       value: initial_year,
     });
 
+    var reqPending = false;
+
     $(".slider").bind("slide", function(event, ui) {
-      set_year_wrap(ui.value);
+      if (!reqPending) {
+        reqPending = true;
+        setTimeout(function () {
+          reqPending = false;
+          set_year_wrap(ui.value);
+        }, 200);
+      }
       $(".yearIndicator").text(ui.value);
     });
 

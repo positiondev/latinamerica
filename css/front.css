@@ -100,8 +100,6 @@ a {
     cursor: default;
 }
 
-
-
 .legend .legend_buttons {
   padding-top: 10px;
 }
@@ -148,4 +146,17 @@ border: none;
     height:15px;
     float: right;
     cursor: pointer;
+}
+
+.headline {
+  color: #cc0000;
+  font-family: sans-serif;
+  font-size: 1.21em;
+  font-variant: small-caps;
+  font-weight: bolder;
+  letter-spacing: 0.17em;
+  margin-bottom: 7px;
+  margin-left: 9px;
+  margin-top: 5px;
+  text-transform: uppercase;
 }

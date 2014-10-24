@@ -7,7 +7,7 @@ body {
 }
 
 .slider {
-    margin-top: 57px; 
+    margin-top: 57px;
     margin-left: 246px;
     height: 10px;
     width: 800px;
@@ -78,11 +78,16 @@ a {
 }
 
 .legend {
-    position: absolute;
-    top: 605px;
-    left: 750px;
-    font-size: 12px;
-    width: 300px;
+  padding-top: 90px;
+  padding-left: 12px;
+  padding-right: 116px;
+  background-image: url("../img/legend.png");
+  font-size: 12px;
+  left: 738px;
+  position: absolute;
+  top: 525px;
+  width: 300px;
+  height: 150px;
 }
 
 .legend div {

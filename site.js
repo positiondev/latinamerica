@@ -228,3 +228,9 @@ function get_fragment_id() {
         return -1;
     }
 }
+
+function set_legend(name, set_content) {
+  $.get("http://map.historyisaweapon.com/static/html/" + name + ".html", function (html) {
+    execF(execF(set_content, html),null);
+  });
+}

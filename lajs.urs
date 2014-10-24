@@ -21,3 +21,4 @@ val toggle_div : id -> transaction unit
 
 val get_fragment_year : transaction int
 val get_fragment_id : transaction int
+val set_legend : string -> (xbody -> transaction unit) -> transaction unit

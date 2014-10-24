@@ -62,14 +62,19 @@ fun main () =
           <span class={Unsafe.create_class "yearIndicator"}></span>
 
           <div class={Unsafe.create_class "legend"}>
-            <div class={Unsafe.create_class "power"}>Power</div>
-            <div class={Unsafe.create_class "redstar"}>Red star</div>
-            <div class={Unsafe.create_class "culture"}>Culture</div>
-            <div class={Unsafe.create_class "economy"}>Economy</div>
-            <div class={Unsafe.create_class "envir"}>Environment</div>
-            <div class={Unsafe.create_class "massacre"}>Massacre</div>
-            <div class={Unsafe.create_class "ind"}>Indigenous</div>
-            <div class={Unsafe.create_class "event"}>Other Event</div>
+            <div class={Unsafe.create_class "icon power"}>Power</div>
+            <div class={Unsafe.create_class "icon redstar"}>Red star</div>
+            <div class={Unsafe.create_class "icon culture"}>Culture</div>
+            <div class={Unsafe.create_class "icon economy"}>Economy</div>
+            <div class={Unsafe.create_class "icon envir"}>Environment</div>
+            <div class={Unsafe.create_class "icon massacre"}>Massacre</div>
+            <div class={Unsafe.create_class "icon ind"}>Indigenous</div>
+            <div class={Unsafe.create_class "icon event"}>Other Event</div>
+            <div class={Unsafe.create_class "legend_buttons"}>
+              <span onclick={fn _ => load_legend "key" content_source}>KEY</span>
+              <span onclick={fn _ => load_legend "sources" content_source}>SOURCES</span>
+              <span onclick={fn _ => load_legend "info" content_source}>INFO</span>
+            </div>
           </div>
           <div class={Unsafe.create_class "textBox"}>
             <dyn signal={v <- signal content_source; return v}></dyn>
@@ -78,6 +83,13 @@ fun main () =
         </div>
       </body>
     </xml>
+
+and load_legend s content_source =
+    Lajs.set_legend s (fn content => set content_source
+                                     <xml><div class={entry_large}>
+                                       <div class={close}> </div>
+                                       {content}
+                                     </div></xml>)
 
 and render_map set_frag content_source map_source year entries =
     x <- (List.foldlM (fn r x =>

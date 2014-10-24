@@ -28,6 +28,8 @@ jsFunc Lajs.get_fragment_year=get_fragment_year
 benignEffectful Lajs.get_fragment_year
 jsFunc Lajs.get_fragment_id=get_fragment_id
 benignEffectful Lajs.get_fragment_id
+jsFunc Lajs.set_legend=set_legend
+benignEffectful Lajs.set_legend
 # admin is idempotent, and the only stuff lost is not critical
 safeGet admin
 

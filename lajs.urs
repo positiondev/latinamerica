@@ -13,7 +13,7 @@ val set_fragment : int -> (* year *)
                    int -> (* entry id *)
                    transaction unit
 
-val set_year_specific : int -> transaction unit
+val draw_plates : int -> transaction unit
 
 val paginate : int ->  transaction unit
 

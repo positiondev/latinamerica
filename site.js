@@ -96,6 +96,21 @@ function set_year_specific(year) {
   }
 }
 
+function draw_plates(year) {
+  $(".plate").remove();
+  plates.filter(function(plate) {
+    return year >= plate.start && year <= plate.end;
+  }).forEach(function(plate) {
+    var d = $("<img class='plate'>");
+    d.css({"position": "absolute",
+           "left": String(plate.left) + "px",
+           "top": String(plate.top) + "px",
+          })
+      .attr("src","http://map.historyisaweapon.com/mapimages/" + plate.img);
+    $(".mainmap").append(d);
+  });
+}
+
 function set_fragment(year, id) {
   history.pushState({laInfo: "manual"}, '', "#year=" + year + ",id=" + id);
 }

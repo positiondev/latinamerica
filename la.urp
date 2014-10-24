@@ -10,6 +10,7 @@ allow url http://map.historyisaweapon.com/static/*
 allow url http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css
 rewrite style La/*
 script http://map.historyisaweapon.com/static/site.js
+script http://map.historyisaweapon.com/static/plates.js
 ffi lajs
 jsFunc Lajs.init=init
 benignEffectful Lajs.init
@@ -21,8 +22,8 @@ jsFunc Lajs.paginate=paginate
 benignEffectful Lajs.paginate
 jsFunc Lajs.toggle_div=toggle_div
 benignEffectful Lajs.toggle_div
-jsFunc Lajs.set_year_specific=set_year_specific
-benignEffectful Lajs.set_year_specific
+jsFunc Lajs.draw_plates=draw_plates
+benignEffectful Lajs.draw_plates
 jsFunc Lajs.get_fragment_year=get_fragment_year
 benignEffectful Lajs.get_fragment_year
 jsFunc Lajs.get_fragment_id=get_fragment_id

@@ -61,8 +61,6 @@ fun main () =
           <div class={Unsafe.create_class "slider"}></div>
           <span class={Unsafe.create_class "yearIndicator"}></span>
 
-          <div class={Unsafe.create_class "inset"}></div>
-
           <div class={Unsafe.create_class "legend"}>
             <div class={Unsafe.create_class "power"}>Power</div>
             <div class={Unsafe.create_class "redstar"}>Red star</div>
@@ -93,7 +91,7 @@ and render_map set_frag content_source map_source year entries =
       </a>{x}
     </xml>) <xml/> entries);
     (if set_frag then Lajs.set_fragment year (-1) else return ());
-    Lajs.set_year_specific year;
+    Lajs.draw_plates year;
     set map_source x
 
 (* There is a little bit of ajax to fetch the entries *)
@@ -184,8 +182,8 @@ and login_page () =
     template <xml>
       <h4>Login</h4>
       {Userpass.login_form admin}
-      <!--<h4>Signup</h4>
-      {Userpass.signup_form admin}-->
+      <h4>Signup</h4>
+      {Userpass.signup_form admin}
     </xml>
 
 and blank_entry () = {Id = 0, Title="", Content="", Start=0, End=0, Loc="",Category="",Source="", Size="large", Draft=False}

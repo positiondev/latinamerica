@@ -30,13 +30,13 @@ static: librandom.a libhash.a libunsafe.a
 	urweb -static -dbms postgres -db "dbname=la host=127.0.0.1 user=la_user" la
 
 run: app
-	./la.exe
+	PGPASSWORD=123 ./la.exe
 
 deploy: production deploy-static
 	rsync --checksum -ave 'ssh ' la.exe  hiaw@map.historyisaweapon.com:/var/www/latinamerica
 
 deploy-static:
-	rsync --checksum -ave 'ssh ' img site.js hiaw@map.historyisaweapon.com:/var/www/latinamerica/static
+	rsync --checksum -ave 'ssh ' img *.js hiaw@map.historyisaweapon.com:/var/www/latinamerica/static
 	rsync --checksum -ave 'ssh ' css/* hiaw@map.historyisaweapon.com:/var/www/latinamerica/static/css
 
 restart:

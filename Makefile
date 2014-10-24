@@ -36,7 +36,7 @@ deploy: production deploy-static
 	rsync --checksum -ave 'ssh ' la.exe  hiaw@map.historyisaweapon.com:/var/www/latinamerica
 
 deploy-static:
-	rsync --checksum -ave 'ssh ' css img html *.js hiaw@map.historyisaweapon.com:/var/www/latinamerica/static
+	rsync --checksum -ave 'ssh ' css img site.js hiaw@map.historyisaweapon.com:/var/www/latinamerica/static
 
 restart:
 	ssh hiaw@map.historyisaweapon.com /var/www/latinamerica/restart.sh

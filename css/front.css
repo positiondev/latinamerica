@@ -79,19 +79,20 @@ a {
 
 .legend {
     position: absolute;
-    top: 615px;
+    top: 605px;
     left: 750px;
     font-size: 12px;
     width: 300px;
 }
 
 .legend div {
-    height: 30px;
+    height: 25px;
     padding-left: 30px;
     background-position: 0 0;
-    width: 70px;
+    width: 80px;
     display: inline-block;
     margin: 0;
+    cursor: default;
 }
 
 

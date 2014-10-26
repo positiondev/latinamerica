@@ -194,8 +194,8 @@ and login_page () =
     template <xml>
       <h4>Login</h4>
       {Userpass.login_form admin}
-      <h4>Signup</h4>
-      {Userpass.signup_form admin}
+      <!--<h4>Signup</h4>
+      {Userpass.signup_form admin}-->
     </xml>
 
 and blank_entry () = {Id = 0, Title="", Content="", Start=0, End=0, Loc="",Category="",Source="", Size="large", Draft=False}

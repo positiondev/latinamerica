@@ -17,7 +17,6 @@
     width: 1000px;
     padding: 10px;
     z-index: 100;
-    overflow: auto;
 }
 
 .entry_large .columns {

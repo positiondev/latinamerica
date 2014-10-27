@@ -8,6 +8,9 @@ style entry_source
 style css_hidden
 style draft
 style not_draft
+style page_key
+style page_sources
+style page_info
 
 sequence entries_s
 table entries : { Id : int, Title : string, Start : int, End : int,  Loc : string,
@@ -71,9 +74,9 @@ fun main () =
             <div class={Unsafe.create_class "icon ind"}>Indigenous</div>
             <div class={Unsafe.create_class "icon event"}>Other Event</div>
             <div class={Unsafe.create_class "legend_buttons"}>
-              <span onclick={fn _ => load_legend "key" content_source}>KEY</span>
-              <span onclick={fn _ => load_legend "sources" content_source}>SOURCES</span>
-              <span onclick={fn _ => load_legend "info" content_source}>INFO</span>
+              <span onclick={fn _ => load_legend "key" page_key content_source}>KEY</span>
+              <span onclick={fn _ => load_legend "sources" page_sources content_source}>SOURCES</span>
+              <span onclick={fn _ => load_legend "info" page_info content_source}>INFO</span>
             </div>
           </div>
           <div class={Unsafe.create_class "textBox"}>
@@ -84,9 +87,9 @@ fun main () =
       </body>
     </xml>
 
-and load_legend s content_source =
+and load_legend s klass content_source =
     Lajs.set_legend s (fn content => set content_source
-                                     <xml><div class={entry_large}>
+                                     <xml><div class={classes entry_large klass}>
                                        <div class={close}> </div>
                                        {content}
                                      </div></xml>)

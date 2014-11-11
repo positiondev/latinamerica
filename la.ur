@@ -210,11 +210,11 @@ and render_entries entries add_entry_id =
       <br/>{entries}</xml>
 
 and show_country r =
-    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft FROM entries AS E
+    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft, E.Loc FROM entries AS E
                                                                      WHERE E.Loc LIKE {["%" ^ r.Country ^ "%"]}
                                                                      ORDER BY E.Start)
                       (fn r => <xml><div class={draft_class r.E.Draft}>
-                        <a href={url (edit_entry r.E.Id)}>Edit</a> -
+                        <a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Loc]} -
                         {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
     add_entry_id <- fresh;
     render_entries entries add_entry_id
@@ -286,8 +286,9 @@ and admin () =
     end
 
 and load_n_entries n start =
-    raw_entries <- queryL (SELECT E.Id, E.Title, E.Start, E.End, E.Content, E.Draft FROM entries AS E ORDER BY E.Start LIMIT {n} OFFSET {start});
-    let val entries_xml = List.foldr (fn r x => <xml>{x}<div class={draft_class r.E.Draft}><a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}<hr/>
+    raw_entries <- queryL (SELECT E.Id, E.Title, E.Start, E.End, E.Content, E.Draft, E.Loc FROM entries AS E ORDER BY E.Start LIMIT {n} OFFSET {start});
+    let val entries_xml = List.foldr (fn r x => <xml>{x}<div class={draft_class r.E.Draft}><a href={url (edit_entry r.E.Id)}>Edit</a> -
+                      {[r.E.Loc]} - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}<hr/>
                       {Unsafe.inject_html r.E.Content}</div></xml>) <xml/> raw_entries
     in
         return {Xml = entries_xml, More = ((List.length raw_entries) = n)}
@@ -367,8 +368,8 @@ and add_submit r =
 and all_entries () =
     Userpass.assert_logged_in Messages.set_message login_page;
     add_entry_id <- fresh;
-    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft FROM entries AS E ORDER BY E.Start)
-                      (fn r => <xml><div class={draft_class r.E.Draft}><a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
+    entries <- queryX (SELECT E.Id, E.Title, E.Start, E.End, E.Draft, E.Loc FROM entries AS E ORDER BY E.Start)
+                      (fn r => <xml><div class={draft_class r.E.Draft}><a href={url (edit_entry r.E.Id)}>Edit</a> - {[r.E.Loc]} - {[r.E.Title]} - {[show r.E.Start]} to {[show r.E.End]}</div></xml>);
     render_entries entries add_entry_id
 
 and edit_entry (id:int) =

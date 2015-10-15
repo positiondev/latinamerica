@@ -1,79 +1,79 @@
 /* This file contains styling for the different types of events,
    in particular the icon urls and sizes */
 
-.iso {
+.iso-1 {
     position: absolute;
     z-index: 2;
 }
 
-a.int { position: relative;}
+a.int-1 { position: relative;}
 
-.redstar {
+.redstar-1 {
     background:url(/mapimages/redstar.gif) no-repeat;
     width:15px;
     height:15px;
     cursor: pointer;
 }
 
-a.redstar:hover, .redstar.active {
+a.redstar-1:hover, .redstar-1.active {
     background:url(point-hover.png) no-repeat -0px -0px;
     cursor: pointer;
 }
 
 
-.event {
+.event-1 {
     background:url(/mapimages/eventicon.gif) no-repeat;
     width:15px;
     height:15px;
     cursor: pointer;
 }
 
-a.event:hover, .event.active {
+a.event-1:hover, .event-1.active {
     background:url(point-hover.png) no-repeat -0px -0px;
     cursor: pointer;
 }
 
-.redfist {
+.redfist-1 {
     background:url(/mapimages/fist.gif) no-repeat;
     width:19px;
     height:25px;
 }
 
-.culture {
+.culture-1 {
     background:url(/mapimages/book2.png) no-repeat;
     width:20px;
     height:20px;
 }
 
-a.culture:hover, .culture.active {
+a.culture-1:hover, .culture-1.active {
     background:url(/mapimages/book-large.png) no-repeat -01px -0px;
     width:45px;
     height:34px;
     cursor: pointer;
 }
 
-.church {
+.church-1 {
     background:url(/mapimages/cross1.gif) no-repeat;
     width:20px;
     height:31px;
     margin: -20px;
 }
 
-a.church:hover, .church.active {
+a.church-1:hover, .church-1.active {
     background:url(/mapimages/cross2.gif) no-repeat;
     width:29px;
     height:30px;
     cursor: pointer;
 }
 
-.economy {
+.economy-1 {
     background:url(/mapimages/factory1.gif) no-repeat;
     width:20px;
     height:20px;
     margin: -10px;
 }
 
-a.economy:hover, .economy.active {
+a.economy-1:hover, .economy-1.active {
     background:url(/mapimages/factory2.gif) no-repeat -0px -0px;
     width:39px;
     height:39px;
@@ -81,14 +81,14 @@ a.economy:hover, .economy.active {
     cursor: pointer;
 }
 
-.agricultural {
+.agricultural-1 {
     background:url(/mapimages/agric-nosickle.png) no-repeat;
     width:25px;
     height:36px;
     margin: -5px;
 }
 
-a.agricultural:hover, .agriculture.active {
+a.agricultural-1:hover, .agriculture-1.active {
     background:url(/mapimages/agricla.png) no-repeat -1px -1px;
     width:40px;
     height:58px;
@@ -96,13 +96,13 @@ a.agricultural:hover, .agriculture.active {
     cursor: pointer;
 }
 
-.envir {
+.envir-1 {
     background:url(/mapimages/nature2.gif) no-repeat;
     width:20px;
     height:20px;
 }
 
-a.envir:hover, .envir.active {
+a.envir-1:hover, .envir-1.active {
     background:url(/mapimages/nature2a.gif) no-repeat ;
     width:20px;
     height:20px;
@@ -110,52 +110,52 @@ a.envir:hover, .envir.active {
 }
 
 
-.power {
+.power-1 {
     background:url(/mapimages/power3.gif) no-repeat;
     width:12px;
     height:24px;
     margin: -24px -12px;
 }
 
-a.power:hover, .power.active {
+a.power-1:hover, .power-1.active {
     background:url(/mapimages/power.png) no-repeat -1px -1px;
     cursor: pointer;
 }
 
-.massacre {
+.massacre-1 {
     background:url(/mapimages/massacre.gif) no-repeat;
     width:30px;
     height:16px;
 }
 
-a.massacre:hover, .massacre.active {
+a.massacre-1:hover, .massacre-1.active {
     background:url(/mapimages/massacre.gif) no-repeat -0px -0px;
     width:30px;
     height:16px;
     cursor: pointer;
 }
 
-.ind {
+.ind-1 {
     background:url(/mapimages/ind.gif) no-repeat;
     width:15px;
     height:15px;
 }
 
 
-a.ind:hover, .ind.active {
+a.ind-1:hover, .ind-1.active {
     background:url(point-hover.png) no-repeat -0px -0px;
     cursor: pointer;
 }
 
 
-.war {
+.war-1 {
     background:url(/mapimages/war2.gif) no-repeat;
     width:19px;
     height:32px;
     margin: -15px -10px;
 }
 
-a.war:hover, .war.active {
+a.war-1:hover, .war-1.active {
     background:url(/mapimages/war1.gif) no-repeat -0px -0px;
     width:37px;
     height:64px;

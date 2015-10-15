@@ -4,9 +4,9 @@ val init : (int -> transaction unit) -> (* set year *)
            (int -> int -> transaction unit) -> (* setting an entry *)
            (int -> transaction unit) -> (* setting a year *)
            (int -> list {Id : int, Title : string, Loc : css_class,
-                Start : int, End : int, Category : css_class} -> transaction unit) -> (* rendering a year *)
+                Start : int, End : int, Category : css_class, Size : string} -> transaction unit) -> (* rendering a year *)
            list {Id : int, Title : string, Loc : css_class,
-                Start : int, End : int, Category : css_class} ->
+                Start : int, End : int, Category : css_class, Size : string} ->
            transaction unit
 
 val set_fragment : int -> (* year *)

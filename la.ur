@@ -103,7 +103,14 @@ and render_map set_frag content_source map_source year entries =
       <a class={classes location (classes r.Loc r.Category)} id={newid} title={r.Title}
       onclick={fn _ =>
                 load_entry False content_source map_source year r.Id
-              }>
+              }
+      onmouseover={fn _ =>
+                      if r.Size = "single" then
+                          load_entry False content_source map_source year r.Id
+                      else
+                          return ()
+                  }
+      >
 
       </a>{x}
     </xml>) <xml/> entries);
@@ -133,35 +140,39 @@ and fetch_entries year =
                             | _ => True
     in
         (l <- (if show_drafts then
-                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End, E.Size
                      FROM entries AS E
                      WHERE E.Start <= {[year]} AND E.End >= {[year]}))
-              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End, E.Size
                      FROM entries AS E
                      WHERE E.Start <= {[year]} AND E.End >= {[year]} AND E.Draft = {[False]})));
         return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title,
                                   Start = e.E.Start, End = e.E.End,
                                   Loc = Unsafe.create_class e.E.Loc,
-                                  Category = Unsafe.create_class e.E.Category}) l))
+                                  Category = Unsafe.create_class e.E.Category,
+                                  Size = e.E.Size
+                        }) l))
     end
 
 and fetch_all_entries () : transaction (list {Id : int, Title : string, Loc : css_class,
-                Start : int, End : int, Category : css_class })=
+                Start : int, End : int, Category : css_class, Size : string })=
     ili <- Userpass.is_logged_in ();
     let val show_drafts = case ili of
                               None => False
                             | _ => True
     in
         (l <- (if show_drafts then
-                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+                  (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End, E.Size
                      FROM entries AS E))
-              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End
+              else (queryL (SELECT E.Id, E.Title, E.Loc, E.Category, E.Start, E.End, E.Size
                      FROM entries AS E
                      WHERE E.Draft = {[False]})));
         return (List.mp (fn e => {Id = e.E.Id, Title = e.E.Title,
                                   Loc = Unsafe.create_class e.E.Loc,
                                   Start = e.E.Start, End = e.E.End,
-                                  Category = Unsafe.create_class e.E.Category}) l))
+                                  Category = Unsafe.create_class e.E.Category,
+                                  Size = e.E.Size
+                        }) l))
     end
 
 and fetch_content id =

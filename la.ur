@@ -67,14 +67,14 @@ fun main () =
           <span class={Unsafe.create_class "yearIndicator"}></span>
 
           <div class={Unsafe.create_class "legend"}>
-            <div class={Unsafe.create_class "icon power"}>Power</div>
-            <div class={Unsafe.create_class "icon redstar"}>Red star</div>
-            <div class={Unsafe.create_class "icon culture"}>Culture</div>
-            <div class={Unsafe.create_class "icon economy"}>Economy</div>
-            <div class={Unsafe.create_class "icon envir"}>Environment</div>
-            <div class={Unsafe.create_class "icon massacre"}>Massacre</div>
-            <div class={Unsafe.create_class "icon ind"}>Indigenous</div>
-            <div class={Unsafe.create_class "icon event"}>Other Event</div>
+            <div class={Unsafe.create_class "icon power-1"}>Power</div>
+            <div class={Unsafe.create_class "icon redstar-1"}>Red star</div>
+            <div class={Unsafe.create_class "icon culture-1"}>Culture</div>
+            <div class={Unsafe.create_class "icon economy-1"}>Economy</div>
+            <div class={Unsafe.create_class "icon envir-1"}>Environment</div>
+            <div class={Unsafe.create_class "icon massacre-1"}>Massacre</div>
+            <div class={Unsafe.create_class "icon ind-1"}>Indigenous</div>
+            <div class={Unsafe.create_class "icon event-1"}>Other Event</div>
             <div class={Unsafe.create_class "legend_buttons"}>
               <span onclick={fn _ => load_legend "key" page_key content_source}>KEY</span>
               <span onclick={fn _ => load_legend "sources" page_sources content_source}>SOURCES</span>

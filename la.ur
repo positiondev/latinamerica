@@ -1,4 +1,5 @@
 style location
+style entry_single
 style entry_small
 style entry_medium
 style entry_large
@@ -23,7 +24,8 @@ table misc : { Key : string, Data : string }
              PRIMARY KEY Key
 
 fun size_to_class s = case s of
-                          "small" => entry_small
+                          "single" => entry_single
+                        | "small" => entry_small
                         | "medium" => entry_medium
                         | "large" => entry_large
                         | _ => error <xml>Invalid size for entry - this means a programming error</xml>
@@ -325,21 +327,58 @@ and entry_form r target =
         End: <textbox{#End} value={show r.End}/><br/>
         Loc: <textbox{#Loc} value={r.Loc}/><br/>
         Category: <select{#Category}>
-          <option selected={r.Category = "power"}>power</option>
-          <option selected={r.Category = "redstar"}>redstar</option>
-          <option selected={r.Category = "redfist"}>redfist</option>
-          <option selected={r.Category = "culture"}>culture</option>
-          <option selected={r.Category = "church"}>church</option>
-          <option selected={r.Category = "economy"}>economy</option>
-          <option selected={r.Category = "argicultural"}>argicultural</option>
-          <option selected={r.Category = "envir"}>envir</option>
-          <option selected={r.Category = "event"}>event</option>
-          <option selected={r.Category = "massacre"}>massacre</option>
-          <option selected={r.Category = "ind"}>ind</option>
-          <option selected={r.Category = "war"}>war</option>
+          <option selected={r.Category = "power-1"}>power-1</option>
+          <option selected={r.Category = "power-2"}>power-2</option>
+          <option selected={r.Category = "power-3"}>power-3</option>
+          <option selected={r.Category = "power-4"}>power-4</option>
+          <option selected={r.Category = "redstar-1"}>redstar-1</option>
+          <option selected={r.Category = "redstar-2"}>redstar-2</option>
+          <option selected={r.Category = "redstar-3"}>redstar-3</option>
+          <option selected={r.Category = "redstar-4"}>redstar-4</option>
+          <option selected={r.Category = "redfist-1"}>redfist-1</option>
+          <option selected={r.Category = "redfist-2"}>redfist-2</option>
+          <option selected={r.Category = "redfist-3"}>redfist-3</option>
+          <option selected={r.Category = "redfist-4"}>redfist-4</option>
+          <option selected={r.Category = "culture-1"}>culture-1</option>
+          <option selected={r.Category = "culture-2"}>culture-2</option>
+          <option selected={r.Category = "culture-3"}>culture-3</option>
+          <option selected={r.Category = "culture-4"}>culture-4</option>
+          <option selected={r.Category = "church-1"}>church-1</option>
+          <option selected={r.Category = "church-2"}>church-2</option>
+          <option selected={r.Category = "church-3"}>church-3</option>
+          <option selected={r.Category = "church-4"}>church-4</option>
+          <option selected={r.Category = "economy-1"}>economy-1</option>
+          <option selected={r.Category = "economy-2"}>economy-2</option>
+          <option selected={r.Category = "economy-3"}>economy-3</option>
+          <option selected={r.Category = "economy-4"}>economy-4</option>
+          <option selected={r.Category = "agricultural-1"}>agricultural-1</option>
+          <option selected={r.Category = "agricultural-2"}>agricultural-2</option>
+          <option selected={r.Category = "agricultural-3"}>agricultural-3</option>
+          <option selected={r.Category = "agricultural-4"}>agricultural-4</option>
+          <option selected={r.Category = "envir-1"}>envir-1</option>
+          <option selected={r.Category = "envir-2"}>envir-2</option>
+          <option selected={r.Category = "envir-3"}>envir-3</option>
+          <option selected={r.Category = "envir-4"}>envir-4</option>
+          <option selected={r.Category = "event-1"}>event-1</option>
+          <option selected={r.Category = "event-2"}>event-2</option>
+          <option selected={r.Category = "event-3"}>event-3</option>
+          <option selected={r.Category = "event-4"}>event-4</option>
+          <option selected={r.Category = "massacre-1"}>massacre-1</option>
+          <option selected={r.Category = "massacre-2"}>massacre-2</option>
+          <option selected={r.Category = "massacre-3"}>massacre-3</option>
+          <option selected={r.Category = "massacre-4"}>massacre-4</option>
+          <option selected={r.Category = "ind-1"}>ind-1</option>
+          <option selected={r.Category = "ind-2"}>ind-2</option>
+          <option selected={r.Category = "ind-3"}>ind-3</option>
+          <option selected={r.Category = "ind-4"}>ind-4</option>
+          <option selected={r.Category = "war-1"}>war-1</option>
+          <option selected={r.Category = "war-2"}>war-2</option>
+          <option selected={r.Category = "war-3"}>war-3</option>
+          <option selected={r.Category = "war-4"}>war-4</option>
         </select>
         Source: <textbox{#Source} value={r.Source}/><br/>
         Size: <select{#Size}>
+          <option selected={r.Size = "single"}>single</option>
           <option selected={r.Size = "small"}>small</option>
           <option selected={r.Size = "medium"}>medium</option>
           <option selected={r.Size = "large"}>large</option>
